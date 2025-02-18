@@ -23,3 +23,24 @@ Asegúrate de tener Python 3.11 instalado en tu sistema. Puedes verificar tu ver
 python --version
 ```
 
+### 2. Establecer la variable de entorno OPENAI_API_KEY
+
+Asegurate de haber generado una clave de API para el uso de [OpenAI](https://openai.com). Con el siguiente comando la puedes establecer:
+
+```bash
+set OPENAI_API_KEY=sk-...
+```
+
+### 3. Instalar las librería en el archivo de requirements.txt
+
+Una vez que tengas Python 3.11, instala las dependencias necesarias para el proyecto:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Ejecucción
+
+### 1. Generar los datos demográficos y de comportamiento
+
+Una vez con todo instalado, necesitamos ejecutar el script [generar_datos.py](scripts/generar_datos.py)
