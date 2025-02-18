@@ -1,0 +1,1001 @@
+id_conductor,nombre,celular,masculino,edad,experiencia,antiguedad,salario_base,distancia_recorrida,num_viajes,bono_mensual,zona_riesgo,tiene_dependientes,viaje_urbano,descanso_suficiente,nivel_estudios,viajes_cancelados,espera_excesiva,problemas_pago,quejas_previas,categoria,queja,probabilidad
+089b1cc8-da1f-409d-8cd5-e8b6ed473fde,Alfonso Querol Morcillo,+34 927670350,0,58,3,2,7941,3270,6,0,1,1,1,1,1,0,0,0,0,recursos humanos,demasiado trabajo y poca compensación,4
+0918aabc-8155-4309-b8f6-9ff2661471e5,Leopoldo Galvez Blazquez,+34 975604841,0,39,13,6,8865,6370,26,0,1,1,0,1,1,0,0,0,0,finanzas,No hay pagos de bonos.,3
+108bca7e-696b-4ac1-abdb-4d4890357db8,Pánfilo Lopez Coello,+34 924 53 19 99,0,50,10,0,7666,9618,14,7893.89786940028,1,1,1,1,1,0,0,1,0,finanzas,Problemas de pago recurrentes,5
+af7fd0c0-d1b7-4fa7-974b-21d24efc5917,Salvador Castelló,+34 888 930 368,0,48,1,1,7652,14053,23,8834.26836399943,1,1,1,1,2,0,0,0,0,operaciones,Exceso de viajes cancelados,3
+eb6c3f09-125e-46de-8f31-d9d0e6572b25,Venceslás de Maestre,+34877698389,0,38,10,10,7633,7184,8,0,1,1,1,1,2,0,1,0,0,operaciones,Largos tiempos de espera,3
+9ee31351-88bb-46df-ba03-8bf635e23244,Reynaldo Almagro Benavides,+34901 52 88 44,0,32,11,3,9226,1500,15,888.955925941629,1,1,0,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+1aaf8f05-2736-4eb3-bc57-67ced0272cfd,Ambrosio Estrada Valcárcel,+34922889099,0,48,16,11,10241,12144,33,7897.23985081925,0,1,1,0,1,0,1,0,1,operaciones,exceso de trabajo,5
+4e1becb6-7e4e-4437-a546-32e2f83d140b,Albano Abascal,+34 826438005,0,35,8,2,8323,9232,16,5470.97352818827,1,1,1,1,3,0,0,0,0,finanzas,Salarios bajos y pagos irregulares,4
+03d7f65d-dc58-44b6-92b2-0cac554a7eec,Ramón Carpio-Adán,+34837094522,0,43,14,3,8397,26524,38,0,1,1,1,1,1,0,1,0,0,recursos humanos,exceso de trabajo,4
+59a7f8cd-82ce-41c0-a266-a534a73f6531,Lalo Teruel Royo,+34 956399491,0,31,11,0,7444,8448,16,6023.59280776615,1,1,1,1,2,0,0,0,2,finanzas,Bajo salario,3
+44feae4f-96d4-4126-883a-1adee5a92187,Mariano Espada Ramirez,+34823437997,0,32,10,0,7916,20784,24,19602.2927704791,1,1,1,1,3,0,0,0,1,recursos humanos,exceso de trabajo,4
+b583bc95-1921-4f07-80f1-6f7804b66fcf,Zacarías Bravo,+34886 667 256,0,47,13,13,8076,8742,31,6179.72996296668,1,1,1,0,1,0,1,0,0,operaciones,Tiempo de espera excesivo,4
+5287610c-1197-424c-88c4-03d3846d07be,Lázaro Toledo Bernat,+34973171579,0,42,4,3,6149,6084,12,4257.36321671637,1,0,1,1,2,1,1,0,0,operaciones,exceso de trabajo,4
+4b143270-0d0f-4a16-a6a3-2a5fdb4fa3e9,Javi Carrión Carmona,+34 880170797,0,41,8,5,8545,24543,27,18103.3040226073,1,1,1,1,1,0,0,1,0,finanzas,No recibí mi bono mensual,4
+3554450c-446f-48f5-a515-e7c41872937b,Manuel Álvarez Torralba,+34 880 99 04 07,0,48,24,13,7004,14091,21,9478.89044277856,1,0,1,1,1,0,0,0,0,finanzas,No se ha recibido el bono correspondiente.,5
+eddd73df-f572-40c5-a41b-2db38979a30f,Espiridión Valbuena Alsina,+34 822589326,0,45,6,1,9828,4785,15,3927.4589131585,1,1,1,0,1,0,1,0,1,finanzas,No me han pagado a tiempo.,4
+4f88b722-9c6d-4b9a-9e8e-a9747352ce43,Marcial Vendrell Mendizábal,+34820 34 18 87,0,35,14,6,7048,19600,28,12593.2226542901,1,1,1,1,2,0,1,1,2,recursos humanos,exceso de trabajo,4
+ea930318-f9d0-4443-b0d5-9751685af30e,Juan Manuel Moreno Grau Jordá,+34 645 51 29 70,0,53,4,3,7919,17343,47,0,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+2dd81294-83aa-42cc-a9c2-adb6f70c89d5,Joan Salcedo Hernandez,+34955 89 64 75,0,48,9,6,7304,3317,31,1600.83183068127,1,1,0,1,1,0,0,0,0,finanzas,Salario muy bajo para el trabajo que realizo.,4
+6b48262d-368c-4ddd-a843-43943323edf7,Modesto Fortuny Tamarit,+34864310736,0,42,8,4,6962,5852,7,0,1,1,1,1,1,0,0,0,0,operaciones,tiempo de espera excesivo,3
+f9a35ec7-9bde-407e-b890-ea713e803020,Albert Tudela-Pomares,+34819 797 536,0,39,8,3,7727,4116,6,1834.69660328333,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+a5f733f0-4b1a-4e2f-baea-d581b2483b72,Pío Castilla Sevilla,+34 822 106 471,0,35,5,5,8985,16796,19,10761.2939516979,1,0,1,0,1,0,0,0,1,operaciones,Exceso de viajes cancelados,4
+6ceeb5c2-06e2-494b-8356-47bdc2f6972a,Jesús Remigio Baró Peña,+34 847205191,0,23,1,0,7156,3600,9,0,1,1,1,1,1,0,0,0,0,finanzas,Problemas de pago,3
+628c50fc-4bec-4582-8bbb-73a70a958101,Clímaco Conesa Sevillano,+34800 05 00 09,0,34,1,0,8250,12869,17,0,1,1,1,1,2,0,1,0,1,operaciones,Excesivo tiempo de espera,4
+6078fd47-2bf9-4103-bef6-0392f8f9938f,Gaspar de Bartolomé,+34 984 685 196,0,38,1,0,9444,17850,30,11934.4794601723,1,1,1,1,2,0,0,1,0,finanzas,Problemas recurrentes en mis pagos,5
+e2a5d0a2-3809-43c2-bf37-c18556e9aabd,Mateo de Carro,+34983 98 54 17,0,37,0,0,8207,6360,12,0,1,1,1,1,0,0,0,0,1,operaciones,Exceso de trabajo,4
+5599faf3-4691-4a18-99b4-50f3fcb3369b,Rómulo de Capdevila,+34969 505 111,0,31,4,4,7727,1284,2,881.060207075187,1,1,1,0,1,0,0,0,0,finanzas,No recibí mi bono,3
+8715560b-d53f-4b55-9eb1-c51f30822999,Baltasar Juárez Colom,+34 946 704 973,0,42,2,0,8692,10538,11,6730.80197220244,0,1,1,1,3,0,0,0,0,operaciones,exceso de tiempo de espera,5
+19abafa9-9ba6-4179-a739-8d0641e6ef3d,Rómulo Luís Carranza,+34813 39 18 68,0,39,3,3,7273,12053,17,8540.23742271259,1,1,1,1,2,0,0,0,3,recursos humanos,exceso de trabajo,4
+ea841a38-1b68-4eef-8368-be0a2dfc8928,Cipriano de Lillo,+34 987 68 04 23,0,53,14,1,9461,455,1,286.566084556372,1,0,1,0,0,0,0,0,1,finanzas,Pagos retrasados otra vez,4
+3ddb0f6a-753f-495e-9c47-459f85b95c4f,Alonso Ramis Cantero,+34 923 93 73 60,0,33,9,7,6812,12684,14,12562.6368151217,1,1,1,0,2,0,0,0,1,finanzas,Bono por desempeño inexistente,3
+9595e6d9-a0c3-47ba-bc62-3b387fdb70be,Marco José Ángel Vélez Luque,+34938359857,0,42,9,2,8675,4005,15,2119.84248116886,1,0,1,1,1,1,0,0,2,recursos humanos,Exceso de viajes cancelados,4
+27340839-54ab-4231-9e82-4b0924921c52,Jerónimo Almeida Mendoza,+34 806801317,0,47,10,5,7209,6790,14,4923.21017179443,1,1,1,1,1,1,1,0,1,operaciones,exceso de trabajo,4
+20011c56-6fdd-491e-9433-cab85e1139f6,Sergio Guzmán Catalán,+34949494037,0,32,2,1,9378,12480,32,9644.73920379377,0,1,1,1,2,0,0,0,0,finanzas,No he recibido mi bono,5
+170f05ca-7170-4bb6-a186-3bab29686824,Cruz Requena-Osorio,+34 979 164 764,0,61,17,15,8762,18480,24,0,1,1,1,0,3,1,1,0,0,operaciones,exceso de trabajo,4
+7764c75b-4f62-4d4b-a485-95fe713a728d,Gabino del Bayo,+34942 93 54 31,0,52,3,3,8338,2400,4,1916.69482170222,0,1,1,1,1,0,0,1,0,finanzas,Problemas de pago,4
+e35681f6-e02e-4941-b2da-fc536c0a09d6,Sebastián Miralles,+34 806 55 70 88,0,49,17,15,6698,1512,18,1011.57289469659,1,1,0,0,2,0,0,0,1,operaciones,Demasiados viajes programados,5
+e31a4047-4da2-4317-95e9-a7b5a83be49c,Gabriel Rogelio Cáceres Sanabria,+34849736577,0,32,8,2,7872,7130,10,4298.86392466757,1,1,1,1,2,0,1,0,0,recursos humanos,exceso de tiempo de espera,4
+40919bbb-c283-4763-aa54-32777c517f7a,Águeda Ofelia Gallart Sabater,+34 974 13 27 45,1,32,7,3,8342,9090,10,5239.80567706337,1,1,1,0,1,0,0,0,0,finanzas,Dificultades en el recibo de pagos.,4
+b4ec38a5-2e3e-4e73-9438-72bc19dc56f6,Albano Barral Cerro,+34 932 437 513,0,48,4,1,7869,10149,17,7811.34734938995,1,1,1,0,2,0,0,0,0,operaciones,Demasiados viajes programados,4
+d7188d02-449c-4c58-8064-d9ef4209d831,Javi Lozano Vilaplana,+34 803030411,0,32,6,1,6230,7448,19,5883.87556987333,1,1,1,1,3,0,0,0,0,recursos humanos,Exceso de trabajo,4
+16d90748-e32c-46e9-81bc-060aeea418b0,Fabio Querol Blázquez,+34 825 607 246,0,44,17,12,9810,9656,17,5383.98544176453,1,1,1,0,2,0,0,0,1,operaciones,tiempos de espera excesivos,4
+0347941f-e0eb-4a3c-98fe-282aabf8d839,Anacleto Serrano Peña,+34 807 19 21 37,0,49,10,9,8359,10016,16,8299.28234232371,1,0,1,1,2,0,0,1,0,finanzas,Problemas de pago frecuentes,4
+0a6e319e-cb04-4f00-a9f6-3e736d23aa82,Artemio Baños Ribes,+34 920 328 138,0,49,5,1,7623,17824,32,13350.7184458475,1,0,1,1,2,1,0,1,0,finanzas,Problemas de pago recurrentes,4
+b4d6f04d-6a2b-40a3-9a1d-021e599a27aa,Salvador Toro-Amat,+34 803 489 083,0,41,3,2,6261,9612,18,8299.35382020954,1,1,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+976894af-e06e-4600-ba57-d571f3ad82cb,Leoncio Santana Barceló,+34 884 663 560,0,61,8,3,7289,8112,12,5722.75684431409,0,1,1,0,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+7a3c4db7-f9e2-401f-99d6-2bfe8813ea89,Calixto Eliseo Báez Pizarro,+34 844 72 48 24,0,45,16,15,8856,4480,14,3898.62337274296,1,1,1,1,1,0,0,0,1,finanzas,Problemas de pago,4
+b075d58f-177d-423d-8d3f-21650a1d982f,Clímaco del Iniesta,+34 943928728,0,46,6,5,7555,7033,13,5173.37853441442,0,1,1,1,1,0,1,1,0,operaciones,largos tiempos de espera,4
+2d9a2ec7-71fc-4023-8611-83ce622ab149,Eric Gonzalo-Ibarra,+34867122211,0,41,16,6,7499,14624,32,11292.0485398577,1,1,1,1,2,1,0,0,3,finanzas,Tardanza en el pago del bono,5
+1876fefa-b095-4019-94b3-8e522a920826,Edgardo Castro Ibañez,+34718315875,0,28,5,5,7074,15945,15,12368.986620553,0,1,1,1,2,0,0,0,0,finanzas,Retrasos en el pago de salarios,2
+1ec3ca56-6848-4136-8e9a-70788ea8292c,Noé Pizarro-Jáuregui,+34948 31 22 33,0,47,6,3,8732,13300,14,9078.39022909929,1,1,1,0,0,1,0,0,2,operaciones,viajes cancelados,4
+181a0210-e187-4f92-86c7-1f75ab866db6,Maricela Natividad Sala Blanch,+34941 350 136,1,42,21,18,10245,9982,31,7190.46644960295,0,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+4905cdca-3332-4719-96bb-2596aaa47e29,Enrique Guillén Parejo,+34848545645,0,39,2,2,7431,1729,13,831.815165600405,0,1,0,1,1,1,0,0,0,recursos humanos,exceso de carga de trabajo,4
+bfbe4b9a-bef2-453f-be00-52c51f780c08,Primitivo Yáñez Revilla,+34 901364909,0,35,5,0,7473,10736,22,0,1,1,1,1,1,0,0,1,1,finanzas,Problemas de pago,4
+b8ccb71a-71e0-43e4-bcac-ae13b3675480,Inocencio Bayo,+34823440853,0,46,24,14,7607,16224,24,11900.5664725181,1,1,1,1,2,0,0,0,1,finanzas,Problemas de pago frecuentes,5
+bd2d425f-1ef0-4df5-be67-6d15fff6e714,Silvestre Haro Galan,+34 847923741,0,26,2,0,8011,17388,23,11774.2011718427,1,0,1,1,2,0,0,0,0,recursos humanos,Problemas con el pago,3
+e4cbee34-37cb-4585-80d3-3496c341b101,Gregorio Pozuelo Aranda,+34971 869 889,0,30,11,8,7094,13234,26,0,1,1,1,1,2,0,0,1,1,finanzas,Problemas de pago constantes,4
+6a439014-da26-4968-9eb4-62ca08b2fc68,David Ferrándiz Arcos,+34901 869 307,0,31,8,4,7686,1686,6,0,1,1,1,1,3,0,0,0,3,recursos humanos,exceso de quejas previas,4
+fac6fc76-17f4-455e-b28a-58352fbba303,Román Alarcón Ángel,+34921136120,0,25,4,2,8285,780,10,633.024251520954,1,1,0,1,0,0,0,0,0,operaciones,Exceso de tiempo de espera.,4
+9dc8e5c4-d4d3-4b58-9f15-894114a047a6,Valero Ledesma Río,+34 849 989 163,0,30,6,3,8254,4148,17,0,0,1,0,0,2,0,0,1,0,finanzas,Problemas de pago reiterados,4
+4af32c5a-c385-4f37-a062-e1af6cdaf9f7,Agustín Calatayud Bravo,+34988 36 95 16,0,47,20,4,6317,296,4,0,1,1,0,1,2,1,0,0,3,operaciones,viajes cancelados,4
+9f03778d-b1d0-456b-80ba-914bd119c9cd,Sosimo de Cueto,+34 958208461,0,33,11,2,9669,3471,39,2928.14220565619,1,1,0,1,1,0,0,1,3,finanzas,Problemas de pago recurrentes.,4
+5cabd91b-3812-4269-a2ad-dd1bb521efd2,Ariel Villalonga-Bonilla,+34 844 444 290,0,44,9,9,7397,2259,9,1474.61725263827,1,0,1,1,1,0,1,0,1,operaciones,Exceso de tiempo de espera,4
+4889992f-0874-4aad-a3b8-1fdd587e6a35,Fidel de Escudero,+34 928 95 18 35,0,33,0,0,8009,19400,20,11812.1501835338,0,1,1,1,1,0,0,1,1,finanzas,Problemas de pago,4
+f48f4d02-3728-4ba5-b417-67261623c23b,Herminio Marquez Simó,+34 926636699,0,45,13,2,8043,12525,15,0,1,1,1,1,1,0,0,0,2,recursos humanos,exceso de trabajo,4
+1f8ae544-f61d-4184-803a-6b160c80bb45,Xavier Pujadas,+34 823 19 22 81,0,56,2,0,8955,8568,14,6794.21686856087,1,1,1,1,2,1,0,0,0,recursos humanos,exceso de trabajo,3
+007e70c0-a89f-4cbf-8127-ed2d7a907263,Noé Barco Gaya,+34849 798 868,0,45,18,11,9364,16281,27,0,1,0,1,1,2,0,0,1,0,finanzas,No he recibido mi pago a tiempo.,4
+80b1c016-57b5-402f-aae5-f7d300623c66,Danilo del Macías,+34 828978152,0,46,3,0,8186,6985,11,6240.44751334927,1,0,1,1,0,0,1,0,0,operaciones,Exceso de tiempo de espera.,3
+d40f5b56-f4e3-4002-a3f4-598a7aa076e0,Feliciano de Boix,+34923489044,0,54,12,0,8110,10932,12,7593.23384408392,1,1,1,1,3,0,0,0,1,operaciones,exceso de viajes cancelados,4
+8da7657f-4faa-49e5-8859-2e4a4c47cc20,Leoncio Ugarte Moll,+34960 38 00 07,0,24,3,0,7220,14784,21,9205.97583059942,1,1,1,0,3,0,1,0,2,finanzas,Problemas de pago sin resolver,4
+450813b4-cb2b-48ff-adb5-c535df0c415e,Marcio Arce-Prado,+34 871930245,0,42,5,4,7122,19602,22,14255.3592578056,1,1,1,1,1,0,0,0,3,operaciones,Trabajo excesivo y bajo salario,4
+4ed1e4a6-4fda-44e2-b4b9-afd5c19aaddf,Santiago del Montero,+34827 27 44 57,0,56,16,13,7422,18690,30,0,1,1,1,0,0,0,0,0,0,operaciones,Exceso de trabajo sin compensación adecuada.,4
+69daf3cd-0fe6-499e-b17c-e5f63ab5d289,Ezequiel del Mancebo,+34704 32 05 47,0,48,10,0,8363,26042,29,18187.9780317769,1,0,1,1,1,1,0,0,1,operaciones,viajes cancelados,4
+0514c0f9-a32e-440c-89e2-291d71ffcb42,Luís Adadia Blanes,+34883 34 61 84,0,41,4,0,7677,20376,24,12243.9228224777,1,1,1,1,1,0,0,0,0,operaciones,Demasiados viajes cancelados,4
+2ac3f173-dfd0-4a09-8632-4063cc025747,León Borja España,+34 880 032 309,0,41,3,2,9985,20516,23,13760.7707073231,1,1,1,1,1,0,0,0,1,operaciones,Demasiados viajes sin descanso,4
+e438f1a9-aa7c-4b68-8585-ac1e9cbab8b6,Abilio Crespo Lozano,+34 873 40 30 92,0,26,5,5,8225,17388,27,0,1,1,1,1,2,1,0,0,1,recursos humanos,exceso de trabajo,4
+31220420-1098-4ba9-9d36-aa07ac71f2ce,Pancho Bonet-Santiago,+34926 25 98 41,0,30,6,3,7385,10479,21,6213.27923186477,1,1,1,1,2,0,1,0,3,recursos humanos,exceso de trabajo,4
+07eb7a5e-7e1c-4509-821e-f52ab8fd882b,Ruy Atienza,+34 926 037 319,0,40,14,9,8708,5334,14,2579.1186859329,1,1,1,1,2,0,0,0,1,finanzas,No me pagan a tiempo,5
+e7ec8bac-9cfe-43ee-878e-d158deac490c,Wálter Iriarte Giralt,+34 922 619 349,0,50,10,0,7275,4900,28,3837.95115070802,1,0,0,1,0,0,1,0,1,recursos humanos,exceso de trabajo,4
+ee6baf00-dc75-4a0b-8d80-4ad0fd16fac4,Matías Pedraza Ordóñez,+34 708 184 662,0,45,3,2,8082,6280,20,5219.61967492866,1,1,1,1,2,0,0,0,3,recursos humanos,exceso de trabajo,4
+d3f679e6-0c11-4c85-bd05-c9fa14bf3e9d,Édgar Miguel Esteban,+34 966 21 04 20,0,44,16,6,8795,10764,12,0,1,0,1,1,2,0,0,0,3,finanzas,No recibí mi bono de desempeño,4
+2f7a6ce6-dd92-4be9-8cc3-a579588bfffd,Virgilio Rocamora Pardo,+34 921 76 70 63,0,53,9,4,7060,6994,26,5381.79490885844,1,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo de espera,4
+312b58f9-ffa8-4213-a9db-839d23ae1114,Ceferino Báez Ballester,+34974 225 975,0,34,8,0,7403,2319,3,2036.44413164914,1,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo de espera en viajes.,4
+73dcae07-cc2b-42c6-b902-030487da3250,Amancio Grande Aguilar,+34901 630 304,0,41,17,2,7789,19864,26,14619.1289542294,1,1,1,1,1,1,0,0,0,operaciones,Viajes cancelados sin explicación,3
+52c46392-5f53-4e19-83ee-19f4f626adaf,Cristian Menendez Coello,+34 981552214,0,38,0,0,8568,3681,9,2633.69753296384,1,1,1,0,3,1,1,0,3,recursos humanos,exceso de trabajo,4
+95ab91ea-5443-4900-a144-5a1f1c8bdeb1,Edu Fuentes,+34 880 691 962,0,46,9,2,6033,5784,24,4418.27406034133,1,0,0,1,1,1,1,0,0,finanzas,Exceso de trabajo,4
+bdab37e1-72e7-4fda-9163-de5b16db723b,Rufino Ferrández-Amigó,+34848 54 16 34,0,37,10,6,6711,13504,16,10922.3390440444,1,0,1,1,1,0,0,0,1,operaciones,exceso de trabajo,4
+df5853bf-02eb-454b-89c3-30e2bb1be1e9,Federico Blanch Arnal,+34 634177005,0,45,4,4,6658,18906,23,11152.5077011765,1,0,1,1,1,0,0,0,0,recursos humanos,Exceso de trabajo,4
+45d09f40-4fa0-4ea3-b10a-fc0856c80322,Agapito Llamas Chico,+34949 18 93 63,0,31,12,10,8852,16440,20,11677.3739866477,1,1,1,1,2,0,1,0,0,recursos humanos,exceso de trabajo,4
+a1287c09-2e9a-4f88-ac97-299d69ce17d7,Juan Antonio Curro Aznar Nieto,+34 948677324,0,36,6,6,8938,7368,8,4760.5868811604,1,0,1,1,0,1,1,1,3,recursos humanos,exceso de trabajo,4
+26d8ac62-9f12-493c-a007-159715645df0,Salvador Andrés Portillo,+34887 35 71 07,0,45,10,6,7236,6160,40,0,1,1,0,1,3,0,0,1,0,finanzas,Problemas de pago,4
+0b1d243b-4e4f-416a-8f31-dd31d3935781,Lisandro Diéguez Calzada,+34 879845326,0,45,16,5,9313,17260,20,12439.7889150976,1,1,1,1,1,0,0,1,2,finanzas,problemas de pago,4
+4e707163-4add-47e1-8839-279a6378f638,Dan Palomino,+34 841 93 67 28,0,27,4,3,8470,18096,29,11772.8506509525,0,0,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+25eaaa05-7956-4892-89d4-d6ebf91d9136,César del Gutierrez,+34921 68 83 10,0,48,5,3,7646,11258,26,9923.46837533125,0,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+5cbc9aab-bdd1-4337-b097-3d143b4f4929,Ildefonso Arnau-Bas,+34 928 64 75 91,0,47,4,1,7434,25140,30,17333.637119162,0,1,1,1,1,0,0,0,0,operaciones,Tiempos de espera excesivos,5
+7f6e9f6a-0fc9-4074-b93f-2306c3c7f4bb,Marco Villar Ruano,+34 827072089,0,26,7,5,8951,2928,6,2015.65433355986,1,1,1,1,2,0,0,0,0,operaciones,tiempo de espera excesivo,3
+8d784df2-288f-44a2-a15f-c9f516fdecc6,Fermín Bernad Sanz,+34 942278938,0,24,1,0,6515,0,0,0,1,1,1,1,1,0,0,1,0,finanzas,Faltan pagos en tiempo,5
+dabc699a-4503-42d8-bb6b-679de20e6e67,Rafael Martín Batlle,+34 822696378,0,35,4,3,7540,6392,34,4007.30192583448,1,1,0,0,2,1,0,0,1,operaciones,viajes cancelados frecuentes,4
+02dd5a1a-2837-42c3-b5ae-f1c8f1054304,Natalio Pavón Madrid,+34988 210 881,0,42,8,5,6862,6380,11,3465.90478269808,1,0,1,0,0,0,0,0,3,recursos humanos,exceso de trabajo,4
+c1c2221a-bdb3-42cb-9106-13c97313d02e,Trinidad Girón Borja,+34 943573577,0,30,6,2,8091,12368,16,8366.96152284578,0,1,1,1,1,0,0,0,0,operaciones,Exceso de tiempo de espera,4
+66a3a370-6f43-4741-ae69-803c889fb3ad,Amando Blázquez Coloma,+34 876 447 419,0,50,16,2,7486,2275,5,1669.57548005961,1,0,1,0,1,0,0,0,0,operaciones,Exceso de viajes cancelados,3
+14bdabeb-41ff-4bae-8e78-46006b3a6d3b,Arturo Cristian Samper Comas,+34961880024,0,47,13,3,6098,9614,19,6367.95864767189,1,1,1,1,1,0,0,0,1,recursos humanos,Problemas de pago,5
+7335c863-4946-4ea4-a8b4-35046702bcef,Román del Feijoo,+34986117619,0,20,1,0,6650,2450,25,0,1,1,0,1,1,0,0,0,3,recursos humanos,exceso de quejas previas,5
+d0c52c98-897f-4c90-962e-ef0de2761d7b,Domingo Cazorla Mercader,+34 948 35 54 33,0,35,7,3,7039,5856,24,0,0,1,0,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+ff8ba2e6-ffdc-49d0-a491-0f80adab08e4,Lucas Dalmau,+34 827 067 256,0,20,0,0,7559,14940,20,0,1,1,1,1,1,0,0,0,2,recursos humanos,Falta de pagos realizados,5
+e373adc2-548d-4171-9113-96a04aa6027f,Valerio Rebollo Acuña,+34 884 00 30 52,0,42,13,10,6771,2484,6,2077.95306969378,0,1,1,1,1,0,0,0,2,finanzas,salario muy bajo,4
+0f0b9476-bf53-4534-8808-ae4b7d41cdd5,Modesto Marco Fortuny,+34 879 194 791,0,34,1,0,7713,847,11,514.631849305911,1,0,0,1,2,1,1,0,1,recursos humanos,exceso de trabajo,5
+5c6faa0f-22d8-454e-882c-e3d3b98b006d,Conrado Juan Bautista Coloma Rosa,+34939 673 426,0,50,14,8,7411,8092,17,5031.45652628959,1,1,1,1,1,1,0,1,2,finanzas,Pago retrasado,5
+5c4e1514-01b2-4624-99ea-cd98ed6093bb,Jerónimo Tejera Nieto,+34728 18 86 50,0,30,6,5,6536,9534,14,7644.45810744188,1,1,1,1,2,0,1,1,3,recursos humanos,exceso de trabajo,5
+edabaf1a-4f48-432c-aabd-cbefc3dd5533,Gabino Varela Tur,+34 921 15 75 07,0,44,15,5,8082,23550,30,11864.5645390928,1,1,1,1,3,0,0,0,2,recursos humanos,exceso de trabajo,4
+0d7c1f69-e886-4235-bb9b-89976899fa51,Abel Paniagua,+34800 066 510,0,43,4,3,10433,3165,15,2426.10748399837,1,1,0,1,1,0,1,0,0,recursos humanos,exceso de trabajo,4
+bc73c878-dd61-486d-b43e-87914b16cc90,Dimas Águila Pozo,+34951 41 14 62,0,39,14,2,8016,14697,23,11335.5636457111,1,0,1,0,3,0,0,0,2,recursos humanos,exceso de trabajo,3
+aed9d91f-036c-4455-9151-8d30732a38d7,Mariano Casado Dueñas,+34 846995304,0,48,6,1,8065,6968,13,4965.22059356459,1,1,1,1,1,0,0,0,3,recursos humanos,no incrementan mi salario,4
+3221009d-1455-4d81-aad4-1694800c0942,Eutropio Carrión Villa,+34 927 01 92 13,0,26,5,5,6808,6140,20,4888.57050740076,1,1,1,1,1,0,0,0,1,finanzas,No he recibido el bono,4
+af4b3502-fbcd-4968-a3e2-2ce66befa3b1,Luís Jeremías Moll Juárez,+34 986 462 185,0,39,6,6,8637,5138,7,3521.13448243017,1,1,1,1,3,0,0,0,0,operaciones,poca distancia recorrida,2
+607a6cd6-4294-48ae-bb58-775269cba2c8,Artemio Francisco Jose Múgica Carvajal,+34913346177,0,47,10,0,8110,4528,8,3519.41326335072,0,0,1,1,1,0,0,0,0,recursos humanos,Falta de pago en tiempo,4
+704ba115-feae-4981-bd29-6ddffd43fbfe,Jesús Avilés Gomez,+34843113665,0,45,16,1,7034,10704,16,8360.47190906351,0,0,1,1,2,1,0,1,2,finanzas,Problemas de pago frecuentes,4
+acdfce5b-101e-499c-b07c-392fac91e5d3,Severino Ballesteros,+34 963 368 140,0,44,20,15,8912,13288,22,10494.0982887466,1,1,1,1,1,0,0,0,0,finanzas,Exceso de problemas de pago.,4
+9cb16b67-efb0-4180-8119-380549216841,León Villena Noriega,+34848 08 49 98,0,29,7,6,8399,1106,2,715.354955428706,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+400fde3d-8618-4585-9b5a-527be04d78ed,Venceslás Aguilar Cañizares,+34 973 51 63 82,0,43,9,6,6998,6741,21,3335.59542042681,0,0,1,1,2,0,0,0,0,finanzas,Bajo salario y bonos insuficientes,3
+f21f9f25-c8f6-4cb5-b7df-96fe79f51718,Alfredo Clavero-Fuentes,+34941 28 89 19,0,46,8,4,9591,8600,20,6094.90009343582,0,1,1,0,1,1,1,0,3,finanzas,Bono de desempeño no recibido,4
+51db39f2-6d8b-4c42-b566-72a433a2c6bf,Pánfilo Bosch Figuerola,+34 983931974,0,58,11,7,8131,5184,18,0,1,1,1,1,2,0,0,0,0,operaciones,Demasiadas horas sin compensación adecuada.,5
+5054c669-b45a-4389-92f3-b6f1417f49e5,Marino Barranco-Sanmartín,+34838 06 65 39,0,40,4,2,7530,24738,42,11259.7629650783,1,1,1,1,2,1,0,0,0,finanzas,Aumento de problemas con el pago,4
+41ad27a0-182e-478a-8488-4313b134cb16,Dani Rodrigo Torralba,+34 876376958,0,45,19,1,9022,1119,3,757.458633393821,0,0,1,0,1,0,0,0,2,recursos humanos,exceso de trabajo,3
+6f1a09f7-9148-41a3-b79e-9bfd2f2e01ee,Edmundo Perea Cámara,+34 825 74 84 78,0,25,2,0,7956,24687,39,17165.0275664093,1,1,1,0,2,0,0,0,0,operaciones,Exceso de trabajo,4
+e194bd65-718b-4597-a343-e0a8f281d7b1,Edelmiro Echevarría Fuertes,+34 849 407 192,0,38,9,4,7218,19328,32,16688.0723819179,1,1,1,0,1,0,1,0,2,operaciones,Demasiados viajes al mes,4
+20fb3396-55c1-4ff2-bd37-c1b1e90b5acd,Miguel Arellano-Guijarro,+34927 707 538,0,56,1,1,8535,12470,29,7468.9897155448,1,1,1,1,2,0,1,0,0,operaciones,Exceso de tiempo de espera en entregas,3
+c7bb2a0d-54b7-4505-a96c-24cc324ee3ba,Lino Benito Castejón,+34844081027,0,47,10,6,8513,5159,7,3238.49537124408,1,1,1,0,1,1,0,0,0,operaciones,viajes cancelados,4
+d6a76013-07df-49b5-8341-bdcbd40d823e,Ruben Egea Vazquez,+34 973615668,0,39,17,4,8062,6610,10,3631.53643952001,1,1,1,1,1,0,0,1,0,finanzas,Bajo salario base,4
+a215ba41-75f3-4ae7-903d-b2bf029a96a0,Leandro Puerta Salazar,+34887 21 97 03,0,52,19,16,8966,9471,33,9032.1561056226,1,1,1,0,1,0,1,0,0,operaciones,tiempos de espera excesivos,4
+07e3c6d9-3e80-4118-ad47-448876f0bf32,Lucho Lucena Roman,+34 871 691 298,0,31,8,4,8693,2472,8,1397.77265635366,1,1,1,1,0,0,0,0,0,finanzas,Exceso de trabajo,5
+c23d10c0-b156-49e4-a650-fd5765a09ca0,Rico del Arribas,+34880 92 79 93,0,46,15,4,9437,1320,22,1054.39750838503,1,1,0,1,2,0,0,0,0,finanzas,Bajo bono por desempeño,3
+cb993d93-29e5-4a81-938d-98cfc9ed8ff7,Valentín Murcia Vara,+34900 464 641,0,30,0,0,8704,22320,20,0,1,1,1,1,0,0,0,0,0,recursos humanos,Problemas de pago frecuentes.,5
+78b7f385-5f82-4205-a4af-3dfc28dd02f7,Jacobo Feijoo Fabra,+34882734475,0,42,12,3,8363,19570,38,10647.0495853889,0,0,1,1,3,0,0,0,3,recursos humanos,exceso de trabajo,4
+ffb33e67-7eb7-451d-a94d-129f3fc65aa0,Diego Gomis,+34 842 87 59 94,0,46,16,4,8141,1800,5,1571.89481260529,1,1,1,1,1,0,0,1,0,finanzas,Salario siempre retrasado,5
+b1b6b506-03fe-43a7-8335-09263b9e5a64,Chuy Fábregas Miralles,+34914 39 89 91,0,41,9,3,8270,4080,30,2124.61151820274,1,1,0,1,1,0,0,0,3,finanzas,Salario bajo respecto al trabajo realizado,4
+7b688637-42e3-4ad2-af38-7b9fc4e0dcee,Cleto de Rodriguez,+34738 554 836,0,44,11,3,7607,22607,37,0,1,1,1,1,1,0,0,1,0,finanzas,Atrasos en la recepción de pagos.,5
+46ad1569-8636-4c82-a9b7-4b3a1f34b553,Lidia Revilla Cañas,+34 976876018,1,39,4,3,8081,3360,14,2135.58409037294,1,1,0,1,2,0,0,0,1,recursos humanos,Exceso de tiempo de espera,3
+e437002a-83e7-4a81-8a95-a29e4017a64b,Edmundo Pi Echevarría,+34920873288,0,43,10,10,8819,16492,28,11299.9456145291,0,1,1,1,1,1,0,0,0,operaciones,Demasiado tiempo de espera en entregas,4
+60b910b9-4c42-4490-b0a7-fb89e04e1ad0,Jose Ignacio Eladio Robles Cortes,+34 822704242,0,30,5,1,7929,11850,25,7838.28029625187,1,0,1,0,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+be83fa4f-2a42-4a5d-873a-ec263c87c71d,Telmo Díaz Antúnez,+34 820 11 90 10,0,36,15,8,7113,11025,15,7865.49738106607,1,1,1,1,3,0,1,1,1,finanzas,Problemas con el bono de desempeño,5
+3ec5a98a-da62-4cfc-a867-92d06cda06d8,Gil Díez-Pedrosa,+34843065231,0,50,17,7,9027,11258,26,0,1,1,1,0,1,0,1,1,0,operaciones,exceso de trabajo,4
+d82ca0ec-90e7-417d-a763-b6f87ae571cf,Marcial Rocha Amaya,+34976688819,0,28,4,2,7479,1547,13,1181.50979807483,1,1,0,1,1,0,0,0,1,finanzas,Bajo salario base,4
+1ae8b2a9-1b31-49cf-8bcd-c84d815a7dcd,León Oliveras-Berenguer,+34 948309508,0,35,14,2,7579,12580,17,7804.01856807171,1,1,1,1,0,0,0,0,0,recursos humanos,exceso de trabajo,4
+45334e92-7cb4-4d58-bd63-c6ddd78f70a2,Vidal del Perea,+34827 453 889,0,30,7,2,7087,5885,11,4072.52466601794,1,0,1,1,0,1,0,0,0,recursos humanos,exceso de trabajo,4
+1e53589a-7abc-4644-9e2c-7eb91e3a595d,Cecilio Palacios Coca,+34 883928852,0,27,8,7,6730,22920,20,17237.6276730359,1,0,1,1,2,0,0,0,0,operaciones,Demasiadas horas en la carretera.,4
+521d4087-57eb-414b-8f7b-22624335243a,José Antonio del Batlle,+34 844 11 40 68,0,36,14,1,7075,9132,12,5950.51328194674,1,0,1,0,1,0,0,0,1,finanzas,Bono por desempeño no recibido,4
+c5fb8783-2708-4abb-8700-777b2fd5609b,Edelmiro Barreda Olivares,+34900 214 344,0,45,8,8,8086,18690,30,0,1,1,1,1,1,0,0,0,0,finanzas,No he recibido el bono de desempeño.,4
+475a958e-41b4-429d-bb35-f68acf7e3d6b,Gerardo Cobos Aroca,+34 902 193 196,0,29,9,2,8503,14231,19,10993.7049676322,1,1,1,0,2,0,0,0,0,operaciones,tiempo de espera excesivo,4
+8361ee05-c593-45c7-9c9c-83030953d848,Adalberto Simó Pedro,+34924 295 311,0,44,0,0,7979,12210,37,9392.51628052669,0,1,1,1,1,1,0,0,2,recursos humanos,nunca me aumentan el salario,5
+8bde0c1e-7c1a-41f7-8145-38f0414bb109,Asdrubal Font Baena,+34 846742414,0,55,19,11,8938,4250,5,2617.00772437816,0,1,1,1,2,0,0,0,0,finanzas,No he recibido mi bono,5
+5b96ecfe-0f91-4fd2-a5ed-297cd41dced9,Reynaldo Luján Cantero,+34 984 74 85 91,0,43,7,2,9486,15435,21,12171.8404727047,1,0,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+5d17ef93-191c-4bfd-9bb7-04b5863ab52f,Cristian Hurtado Tirado,+34 800 274 159,0,50,24,1,7408,6994,13,3682.79928319625,1,1,1,0,1,0,0,1,3,finanzas,Problemas de pago recurrentes.,5
+ce7cdf5b-9dfe-429d-95e1-338ea61525de,Natalio Gibert-Lastra,+34942 14 54 87,0,63,9,4,7564,10710,21,8433.48151582975,0,1,1,1,1,0,0,1,1,finanzas,Problemas de pago,4
+d6e0209a-502e-49b7-acf7-b53126e8a01a,Sosimo Rosselló Nicolás,+34968677251,0,38,4,4,9923,16606,38,10114.6332923661,1,1,1,1,2,0,0,0,0,finanzas,Inconsistencias en pago de bono mensual,5
+255baecd-5e9c-40eb-8379-33d2e1e6a0e9,Francisco Jose Lledó Camps,+34 844941051,0,44,12,5,7502,2706,11,1610.62195800802,1,1,0,1,2,1,0,0,0,recursos humanos,exceso de trabajo,3
+e68b7507-b6f9-47ad-af71-fc3dfcdab586,Juan Antonio Tejera,+34844 529 616,0,66,15,7,8860,18135,31,0,1,1,1,1,0,0,0,1,0,finanzas,Salario no pagado a tiempo,4
+a8e034e3-d5d8-4575-bfba-03d0eb815eff,Cristian Zabala Requena,+34 955977443,0,39,15,4,8002,4501,7,3232.69707020613,0,1,1,1,1,0,0,1,0,finanzas,Inconvenientes con el salario,4
+41c5f032-990f-47a3-a190-5d6e3ab10eaa,Victor Renato Asensio Becerra,+34 882 29 65 44,0,46,9,5,6502,9228,12,0,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+714a1e1f-9e7f-4f96-a7d1-6b0c0f3ed3a3,Teófilo Hernández Duran,+34 822 459 987,0,29,9,1,7736,24915,33,12953.1666992064,1,1,1,1,2,1,0,0,0,finanzas,Esperando mi pago desde hace mucho tiempo.,4
+389979d2-bac3-4e18-bd4a-f47b23842796,Cesar Elías-Cornejo,+34664 69 32 75,0,19,0,0,7140,14910,21,11191.7047350295,1,1,1,1,2,0,0,0,1,finanzas,Problemas de pago,4
+32eefdb3-8eb8-43e1-947e-bc15b86c1490,Cristóbal Rodriguez,+34900 98 44 55,0,40,7,5,8238,16218,17,12540.4977143829,1,1,1,1,2,1,0,0,3,recursos humanos,exceso de trabajo,4
+38a5b2a8-f707-403d-9391-011ff2968669,Jacobo Segarra Pujadas,+34 972 542 716,0,33,8,8,8439,12304,16,0,1,0,1,0,2,0,0,1,0,finanzas,No he recibido mi bono.,4
+6c666dcf-d796-4b68-ba8a-b6f197b0a86e,Nando Canales-Solana,+34 946 41 07 96,0,46,20,6,7097,13158,34,6940.90943651206,0,1,1,1,1,0,0,0,3,recursos humanos,exceso de carga de trabajo,4
+7ab3adb8-bbbf-4f22-8b21-f6c2cd90ce0b,Donato Solís Flor,+34 922637399,0,43,14,3,8006,20800,25,19046.3562632601,1,1,1,0,2,1,0,1,2,finanzas,Problemas de pago frecuentes,4
+d170b0ec-06bd-4721-b1fd-46a57bf678e9,Edmundo Tello Santana,+34977 52 51 47,0,33,7,4,6313,17520,40,13230.290792153,1,1,1,1,3,0,0,0,2,finanzas,Problemas de pago recurrentes.,4
+249073f7-229b-4dd3-b1a9-dbbed3176c1b,Basilio Andres Bejarano,+34 924 988 600,0,44,0,0,7950,2220,5,1521.92056459126,0,1,1,1,1,0,1,1,0,finanzas,No he recibido mi pago a tiempo.,4
+551e8164-0cdb-44f2-a738-ea3616325deb,Casemiro Edu Haro Peña,+34 838 52 73 31,0,45,22,12,6408,13294,17,9126.39220192654,1,1,1,1,2,0,0,0,1,finanzas,Exceso de problemas de pago,4
+631dcdbb-d233-4399-9208-2b5a10cfbf93,Blas Rios Roura,+34708 79 21 75,0,51,16,15,7178,3960,40,2750.03407928896,1,1,0,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+23c83dbc-3023-4ca0-9fc2-6ff317af0ec4,Miguel Ángel de Portero,+34712 471 864,0,52,3,1,9172,9854,13,3905.30739102986,1,0,1,1,1,0,0,0,0,recursos humanos,Exceso de trabajo,3
+92c92e07-7695-4ee0-a3aa-e5de6db02b3f,Berto Vallejo-Narváez,+34 638 27 76 53,0,38,19,5,8664,13086,18,10011.3685763583,1,1,1,1,3,0,0,0,1,recursos humanos,3 quejas previas sin respuesta,4
+6def8b76-201b-4c59-90dd-7a43931f2725,Ruy Fulgencio Donoso Coll,+34 865 444 906,0,43,3,1,7064,10948,17,8624.96170298789,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago,4
+0a89d8a8-a07e-48e2-85ab-a34494052c41,Simón Buendía Sola,+34 912 989 069,0,52,23,18,7916,493,1,332.343601151569,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,3
+8b51ec97-ecb2-4f01-a0d9-bb26e36acb80,Emigdio Araujo-Vall,+34 849 44 94 58,0,26,6,5,6140,9576,12,5779.8793607833,1,1,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+e86aad5f-e5ab-4a50-8918-237bb6437037,Che de Navarro,+34 860681950,0,39,10,7,8373,1598,17,1111.58273721964,1,1,0,0,3,0,1,0,1,recursos humanos,exceso de trabajo,4
+7e950f1c-0ffc-4a5f-a787-e93502dab75c,Casemiro Redondo-Ureña,+34 924 87 13 48,0,40,15,7,8149,20196,27,10348.2973443334,1,1,1,1,3,0,0,0,0,recursos humanos,exceso de trabajo,3
+560b679a-92ad-4c0e-a3c7-6269b330a393,Ramón Losa,+34 705 26 08 41,0,38,16,9,7975,4876,23,3439.07125005358,1,1,0,1,0,1,0,0,0,operaciones,viajes cancelados,3
+ea9f4085-89b1-4101-8cc5-54f6ec9fafd9,Celia Bustos Calzada,+34 943 520 656,1,51,2,2,9729,11569,23,5460.15139205412,1,1,1,1,2,0,0,0,0,operaciones,demasiados viajes cancelados,3
+fc578685-c0dc-454c-a89a-e34cd4638c91,Cirino Aroca,+34 872 06 11 30,0,29,3,1,8881,14663,31,11937.1246920799,1,0,1,1,2,1,0,0,2,operaciones,Viajes cancelados.,3
+20e2c388-26fb-47e2-90e4-3e93bbd5388c,Sigfrido Roman Ropero,+34 949363151,0,43,1,0,7580,11730,23,0,1,1,1,1,2,1,0,1,1,finanzas,Problemas de pago,4
+a3caac14-5c59-43ac-ac18-ddd930fa4848,Jordi Trillo Perera,+34886 047 952,0,40,14,12,7603,1296,24,676.339691633282,0,0,0,0,0,0,1,0,0,operaciones,Exceso de tiempo de espera,4
+53ffd7fb-f9dd-410c-b5f4-9f560dd54a5e,Erasmo Mateos-Sanjuan,+34942 653 232,0,32,7,0,9659,16830,34,14414.8491495659,1,1,1,1,1,0,0,0,0,operaciones,Exceso de trabajo sin bonos,4
+827fe3bc-f8fd-4740-94c6-08039580c977,Cándido Salmerón-Cifuentes,+34925 27 79 44,0,44,12,5,8692,3473,23,1915.06936935194,0,1,0,1,2,0,0,0,1,finanzas,Bajo salario,3
+c4007dd7-b229-4030-887e-4f8f46e1721d,Leopoldo Lino Rueda Bayona,+34841 945 318,0,49,16,6,8909,12231,27,9374.86265938228,1,1,1,1,2,1,0,0,3,finanzas,Exceso de problemas de pago.,4
+b21f4a2a-f540-4291-ad80-1c566b4715db,Ignacio de Ferrán,+34942181630,0,32,1,0,7070,17950,25,14465.2653863001,1,1,1,1,2,0,0,0,0,finanzas,Retrasos en el pago de bonos,3
+f917c55a-faf8-43e9-88aa-70c9d3001737,Ildefonso Dimas Morcillo Sans,+34901003703,0,36,7,1,8078,3454,11,2401.22356502124,1,1,1,1,2,0,1,0,1,finanzas,Atrasos en los pagos,4
+5b89140f-d02b-4b2a-9620-1a1251c01ab6,Jesús Cadenas Barragán,+34946 82 82 43,0,35,10,2,8412,4500,10,2385.71297570103,1,1,1,1,1,1,0,0,1,finanzas,Bajos salarios y bonos insuficientes,4
+78e2855d-9686-465c-a7e5-595cb81a1dec,Graciano Zabaleta Borrego,+34849 132 755,0,43,22,21,8747,14225,25,8844.57619873947,0,1,1,1,0,0,0,0,1,finanzas,Baja remuneración por trabajo duro,4
+8c10cc25-a703-4034-8661-7b0ab10ff63f,Jorge Téllez Gutiérrez,+34 976 28 66 10,0,43,9,3,8438,8946,21,4852.67413522271,1,1,1,1,2,1,0,0,1,finanzas,Retraso en el pago de bonos,4
+8468625f-d9e4-4b23-aa0f-7523c64ab472,Evaristo Ochoa Castro,+34983 341 503,0,48,6,1,7907,13648,16,9996.38000588761,1,1,1,1,3,1,0,0,0,operaciones,viajes cancelados,4
+d8d2ab96-57c3-4722-b458-7511d1a093ba,Ágata del Corominas,+34 922 501 735,1,24,2,1,8893,18210,30,10052.2544283506,0,1,1,1,1,0,1,0,1,finanzas,Sin pagos a tiempo,4
+416f4616-a063-4076-b0f4-84e7c3f25b19,Reynaldo Luján Pou,+34 947 31 02 73,0,51,11,8,8996,9478,14,0,1,0,1,1,3,0,0,0,1,recursos humanos,exceso de trabajo,3
+58f31e8f-b630-4262-93ab-aa84d5020d2b,Abraham Lino Belda Riba,+34984 680 427,0,30,4,0,8835,8132,19,6690.20146972509,1,1,1,1,1,0,0,0,1,finanzas,Salario insuficiente para mis necesidades,4
+34209f84-702d-4021-a748-048f40218444,Julio César Paredes Bermúdez,+34 977 68 59 45,0,22,3,0,8647,21438,18,13486.1062013597,1,0,1,1,3,0,0,1,0,finanzas,No he recibido mi bono,3
+c253790b-5361-4ac5-a1dc-ea23c1d5e01f,Abilio Batalla-Dávila,+34 888099864,0,41,1,1,8919,13244,28,10227.7501268457,1,0,1,1,2,1,0,1,0,finanzas,Problemas de pago,4
+99cec95e-71f7-4aa8-b9dc-1b71f091afb1,Hernando Burgos-Valenciano,+34976 24 84 23,0,48,2,2,8361,12045,15,7107.33311033981,1,0,1,1,1,0,0,1,0,finanzas,Problemas de pago,4
+8f9535ae-d45a-45c1-9dce-0877223e20f0,Hernán Lozano Polo,+34 882990169,0,36,16,12,7020,9976,29,6555.32591409763,0,1,1,1,1,1,1,0,0,finanzas,Problemas de pago en mi salario,5
+52ee540e-7e60-4a42-bd60-ab48e721fe4f,Pío del Cal,+34 942 509 418,0,40,4,1,7404,24724,28,17050.4650398959,1,1,1,1,1,0,1,0,2,operaciones,exceso de tiempo de espera,4
+7a06fc14-7941-4ea7-a652-c069a9f31abc,Rufino Canet Abril,+34 946 591 515,0,39,17,13,7306,13034,38,7167.82885382899,0,1,1,1,2,0,0,0,2,finanzas,Problemas con mi bono por desempeño,5
+cb8954c3-9b96-4694-914b-695adab9ecea,Rico Blanco-Oliveras,+34 878591870,0,27,2,0,7155,1410,10,984.950911660974,1,1,0,0,2,0,0,1,0,finanzas,Problemas de pago,4
+e3bd67b3-856d-4bc7-a691-e757c1829b2d,Luis Miguel Rivero Benitez,+34823502684,0,29,10,8,8372,4158,22,2823.88895755956,1,1,0,1,1,0,0,1,0,recursos humanos,Faltan pagos de bonos.,4
+43152509-221f-4bed-aba7-ffa210d7aa42,María de Llamas,+34922139094,0,49,1,0,7900,3948,12,2546.25240835866,1,1,1,1,1,0,0,0,3,finanzas,Bajos salarios,4
+c1ac9ae7-4344-4960-b38c-5528e2e8ede6,Jose Dominguez Camino,+34888389456,0,50,23,20,7127,7429,17,4960.42081958956,1,0,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,5
+5fa8ef88-920b-4d62-91ac-22a3f9399505,Marcos Heredia Salom,+34 821132682,0,47,7,3,7046,4212,13,2981.77720610234,1,1,1,0,2,1,0,0,0,operaciones,viajes cancelados,4
+d08ef8f4-50d3-426a-ad11-c050b2a932f1,Jose Manuel Victor Cuevas Novoa,+34803 279 328,0,46,22,1,6478,8470,11,4617.2278666558,0,1,1,1,1,0,0,0,1,finanzas,Bajo salario base mensual,3
+0c2e47e8-8170-43db-81d0-8f99792934ee,José Manuel Yáñez Dalmau,+34826 98 35 30,0,29,2,1,6862,13048,28,8573.0603261417,0,1,1,1,2,0,0,0,0,operaciones,Exceso de trabajo,5
+523378e4-acf6-4a66-b182-856081ca4f4a,Ricardo Arévalo Alcaraz,+34972 311 053,0,26,3,3,6966,21525,25,17045.8396848954,1,1,1,0,2,0,0,0,0,operaciones,viajes cancelados,3
+2a4605a8-9e74-4572-8838-9557b6d0bea5,Rogelio Daza Cases,+34874568740,0,29,2,2,9482,2532,6,1812.05949490765,1,0,1,1,3,0,0,0,0,operaciones,exceso de trabajo,4
+4cb6bbeb-d0aa-40e1-b233-2cd0b7a27b18,Germán Mate Moya,+34 876580857,0,39,11,2,7830,1512,7,1063.50486723372,1,1,0,1,1,1,0,0,0,recursos humanos,exceso de trabajo,4
+e0ae872f-e42e-4f6c-8c21-9a01bae1eafd,Máximo Canet Lillo,+34922 165 854,0,57,0,0,6480,9292,23,7155.40133460813,1,1,1,1,2,0,0,1,0,finanzas,Problemas con el dinero,4
+2a95d6b0-a905-44c0-a641-de5534d64ea7,Gil Robles Bauzà,+34 982 413 822,0,36,14,2,7353,5865,17,3134.01424507268,1,1,1,1,2,1,0,0,0,operaciones,Demasiados viajes cancelados sin avisar.,4
+a88f272a-e517-4a21-9b7f-75bfcc0c86c6,Glauco Lamas-Nogueira,+34 824 722 970,0,40,12,11,6755,11488,32,7405.28283840554,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+556852b7-d216-40d7-85f8-cb465bb131c4,Amílcar del Gelabert,+34976 261 364,0,38,11,9,8580,13965,15,10907.3721125512,0,1,1,1,2,0,0,1,0,finanzas,Problemas de pago frecuentes.,4
+8b762ba6-ab0b-48c7-8f52-0ddf134ee7a8,Ruben Urrutia Moreno,+34 977 87 07 82,0,23,3,0,8849,28536,24,19799.993376734,0,1,1,1,0,0,1,0,0,operaciones,Exceso de tiempo de espera,4
+eee143f2-1d9b-477c-b420-117941f02ac7,Adelardo Reyes Rodríguez Azorin,+34 916398655,0,35,8,1,6931,6448,31,4580.33774064912,1,1,0,1,1,0,0,0,2,finanzas,No me han pagado el bono,4
+9f98511f-fffd-4363-8766-67d729dbbbb7,Sigfrido del Montoya,+34977 335 395,0,48,9,6,9010,15318,46,14952.5257698493,1,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+9dc90568-1c2d-4243-98cc-4dd39b3ebaa6,Adán Jordán Pinedo Jaén,+34 977 996 635,0,43,20,20,8020,7788,22,0,1,1,1,0,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+0228c72c-ca13-426d-9e8e-92ebeee4ae80,Ruperto Rocamora Carreño,+34874 640 276,0,33,3,3,8590,16384,32,0,1,1,1,1,2,0,0,0,3,recursos humanos,mala gestión de personal,5
+11d0a380-8a1e-4e79-9cb8-b6d724152b8d,Lucas Jorge Ayllón Gallardo,+34848649107,0,64,4,3,7831,12876,29,10052.2495495916,1,1,1,1,1,0,1,0,1,operaciones,Largos tiempos de espera,4
+05f68e2d-73e1-498f-baee-32b96dc2dcfd,Jose Ignacio Bertrán Adán,+34854 07 04 49,0,28,2,2,7290,662,2,396.418112632665,1,1,1,1,2,1,0,0,1,recursos humanos,demasiado trabajo,3
+a78d727d-4152-4575-90bf-14d6e38e31aa,Haroldo Robledo Valbuena,+34978309854,0,49,23,23,9155,3454,11,2767.94998272035,1,1,1,1,2,0,0,0,0,finanzas,Salario bajo y sin bonos.,3
+33c6c04b-2130-4fc1-b59f-a742df4c800c,Vinicio Baena Pintor,+34947 40 48 21,0,24,5,2,6945,4683,21,3329.42681464907,1,1,0,0,1,0,0,0,0,recursos humanos,poco reconocimiento a mi trabajo,3
+70345229-dbed-4b41-b037-617b26622e3c,Celestino Américo Valls Pintor,+34 959 327 358,0,28,4,3,9091,8640,30,6857.57122128922,1,1,1,1,2,1,1,0,1,recursos humanos,exceso de trabajo,4
+57bd10be-3bb1-45f2-acff-9e0e92ee5004,Jeremías Lastra Calzada,+34 871068135,0,38,12,8,8895,1626,3,1182.42470514597,1,1,1,0,0,0,1,0,0,recursos humanos,exceso de trabajo,4
+407436ed-1e36-4016-87be-a274a7309db7,Augusto Camacho Martorell,+34 821 83 45 87,0,55,19,4,8957,11400,25,0,1,1,1,0,0,1,1,0,0,recursos humanos,exceso de trabajo,4
+2b8807c3-d621-44b5-9991-6f103b3eb44a,Alejandro Castro Solsona,+34 948925626,0,34,12,6,7878,8112,8,6047.56239238641,1,1,1,1,1,0,0,1,1,finanzas,Problemas de pago frecuentes,4
+60bc84a8-1d2c-4e30-a3a3-a28c106020bd,María Sola Gimenez,+34986 22 70 73,0,46,19,10,8141,7557,11,5099.10923195941,1,0,1,1,1,0,1,0,0,operaciones,demasiados tiempos de espera,4
+0d7e765d-6442-4960-bb45-9de27452d557,Eligio Galindo Carrasco,+34 823 994 110,0,56,11,10,6902,15536,16,8853.22389147534,1,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+c89f23d7-8f93-4a5a-9f55-07acdae95d9e,Eligio Atienza Valera,+34 976 815 528,0,47,26,14,7966,14644,28,7594.09648895665,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+ba050bf9-e43e-4cb7-bff3-298219edb80a,Manuel Dan Sanz Rojas,+34976073283,0,49,8,1,7587,5950,14,4770.44478006001,1,1,1,1,0,0,0,0,0,finanzas,Problemas de pago recurrentes,5
+6f803718-f62f-45c1-a753-05d90fb991d4,Pablo Rovira Montoya,+34 925581368,0,53,19,5,8575,2142,6,1339.12806145073,1,1,1,1,3,0,1,0,3,operaciones,tiempo de espera excesivo,4
+e95e408b-7426-4891-90a5-f9bcfb759e36,Nacio Baltasar Moles Alcolea,+34 984995340,0,34,15,3,8648,10625,25,0,1,1,1,0,0,0,0,0,2,recursos humanos,exceso de tiempo de espera,3
+8e9d8a4c-29eb-47a7-a0db-877fb072d11c,Leoncio Andres Pujadas,+34 828 769 522,0,33,13,8,8523,11502,27,7295.72877933085,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago constantes,4
+c446e0e0-8021-49b0-8f0f-631ca19e01d3,Bonifacio Bartolomé Palomino,+34 982 373 079,0,40,7,6,7931,8270,10,5342.70594005679,1,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,3
+dcfe6f07-41df-4927-b35d-545fa766cca6,Jose Miguel Luna,+34 882 84 02 93,0,47,3,1,8907,13440,30,10398.8584440162,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+7289890b-5152-4baa-af9b-b4817ab7cd12,Wilfredo Pinilla Nieto,+34924 47 47 74,0,38,16,1,8075,3333,11,2334.79484115847,1,0,1,0,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+58ccfa4f-bc55-4267-88a1-a7ae87eef4cb,Abel Benet-Río,+34983454511,0,62,0,0,8736,16077,23,0,1,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+fb3cd950-64ff-40cf-8463-f41e17fe6c46,José María Gonzalo Morán,+34874 862 480,0,39,7,6,7851,16599,33,12471.1772504664,0,1,1,1,3,0,0,0,1,recursos humanos,Exceso de quejas sin respuesta,4
+2333bc15-355b-4c09-8d30-fff0dc430acc,Pablo de Tirado,+34 973 17 05 15,0,45,5,3,9335,11822,23,8115.99763661554,1,1,1,1,2,0,0,0,3,recursos humanos,exceso de trabajo,4
+2b543c93-220d-4bf1-88be-825fe84604d3,Juan Carlos de Ureña,+34 712995234,0,42,11,0,8161,5448,24,3720.0708053632,1,0,0,1,2,0,1,0,0,operaciones,exceso de trabajo,5
+7ef20f21-b377-4d2e-a7bd-d0d65e94b7aa,Lucio Andreu Ferrera,+34902164658,0,32,1,0,6955,6974,11,0,1,1,1,1,2,0,0,0,0,operaciones,tiempo de espera excesivo,2
+74112ec3-b0f7-4899-bd83-ca377cd4bde5,Régulo Renato Gomez Lladó,+34827703901,0,47,4,3,7001,717,3,459.676009394191,1,1,0,1,1,0,1,1,1,recursos humanos,exceso de trabajo,4
+6c6c3bf6-dc4d-4b39-a2f9-275a7ab5faff,Casemiro Villalonga-Rosales,+34 876 263 594,0,39,6,1,8982,1410,2,0,1,1,1,1,1,1,0,0,1,finanzas,No tengo bono por desempeño.,3
+df5b90c2-a3da-4f78-b227-48e835dca598,Ramón Zaragoza Cabrero,+34988 870 446,0,36,9,4,10050,10089,19,6575.13664049637,0,1,1,1,3,0,0,1,0,finanzas,Problemas de pago,4
+aceb268d-ab91-4594-a0fe-0902bbdfe598,Jose Gibert Castell,+34 941247770,0,31,8,0,8162,5916,12,0,1,1,1,1,2,0,0,1,0,finanzas,Problemas con pagos,4
+1e5aecac-0879-4111-b3e1-604bd67f7737,Damián Español Gómez,+34 803 98 95 77,0,42,15,14,8177,14976,24,10673.5187423806,1,1,1,1,2,0,0,0,2,finanzas,Necesito que arreglen mis pagos.,4
+0d8c42a7-9cc0-4fd8-a5de-cbb3ae143e96,Adelardo Cirino Corominas Montero,+34 845 05 28 15,0,39,12,4,9278,14240,20,9769.59043685938,0,1,1,0,1,0,0,0,1,recursos humanos,Salario no llega a tiempo,3
+1f61a7c0-8849-41f8-bd54-2f5559e67752,Juan Antonio Alfonso Armengol,+34845755311,0,24,2,2,9379,5845,7,4323.44494151352,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+afc4a6d2-91e2-4667-a522-b4814d6f0470,Timoteo Garay-Nadal,+34 848 560 456,0,39,7,6,7643,18168,24,12545.2219737633,0,1,1,1,2,0,0,0,1,finanzas,Exceso de problemas de pago,4
+50df1ebf-06d4-4e39-9ede-07d7cdb5e525,Sigfrido Pazos Benitez,+34841 623 016,0,25,2,2,9252,27320,20,12634.6806475416,1,1,1,0,1,1,1,0,0,finanzas,Necesito que me paguen a tiempo.,4
+f886ffcf-9df5-49bf-9bc3-7af58b81e256,Godofredo Palacio,+34 928 81 78 63,0,34,11,4,8824,13648,16,11756.1893404268,0,1,1,1,1,0,1,0,1,operaciones,exceso de tiempo de espera,4
+9c923abe-464c-4189-b55c-55adc88dea1e,Jordán Bayo,+34703251265,0,34,6,4,9470,3749,23,2677.524726941,1,0,0,1,2,1,0,0,1,recursos humanos,exceso de trabajo,4
+bb6b5da4-8e1f-4fa3-b58f-bf342472a78a,Custodio Castillo Rovira,+34 988 916 045,0,33,9,6,7027,8096,23,4701.98147950705,1,1,1,1,2,0,1,0,2,recursos humanos,Exceso de trabajo,4
+01f5951e-b3df-47b4-a601-09d7d1e604b1,Modesto Pedro Roura,+34845033430,0,39,14,5,8345,25564,28,13463.5321386342,1,0,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+ae3c330d-b671-46aa-8544-2cc04e0356a2,Sancho Mayoral Cánovas,+34871944902,0,40,13,4,6753,4966,26,3677.22990025653,1,0,0,0,2,1,0,0,0,operaciones,Exceso de viajes cancelados,3
+10b6926c-a7d1-41f3-a769-8c30c43a8530,Jacobo Gonzalo Pozuelo,+34841295058,0,49,14,14,7381,22842,27,17380.5095707091,1,1,1,1,1,0,0,0,1,operaciones,Exceso de carga en viajes,4
+f2eb5a38-4831-47dc-b397-6470f82ae837,Amador Pedrero Granados,+34921 115 253,0,22,3,2,7210,1222,13,588.568587556706,0,1,0,1,1,0,0,0,1,finanzas,Salario demasiado bajo para el trabajo realizado.,4
+693dcb2f-c401-4dd0-9876-ca437de8d219,Joaquín Planas-Esteban,+34984 603 802,0,30,3,1,8903,14976,24,9350.04176045474,1,1,1,1,2,1,0,0,0,operaciones,Demasiados viajes cancelados,4
+db4e7a96-f2e6-40a0-a40c-6e85285868e0,Jafet Marín Sarmiento,+34980 671 365,0,49,20,12,7115,17514,18,11588.7496761839,1,1,1,0,3,0,0,0,0,finanzas,Trabajo sin pago completo,5
+a9b8093f-b19a-419e-b791-e1c2a08ea186,Timoteo Cisneros Rozas,+34 746 29 41 41,0,36,13,12,7718,15941,19,8354.7369557279,1,1,1,0,2,0,0,1,0,finanzas,Problemas de pago,4
+5db16ff3-c099-4d46-b2ad-607840e48064,Jessica Cuenca Tamarit,+34873 10 07 22,1,55,34,22,7874,945,15,602.050045354167,1,1,0,1,1,0,0,0,2,recursos humanos,exceso de trabajo,4
+8e6f43d7-db12-408b-ae56-0c2ee6d1ee67,Valero del Pont,+34875 681 247,0,68,15,13,6719,14801,41,9031.88312357663,1,1,1,1,1,1,0,1,0,finanzas,No me pagan lo que corresponde.,4
+9233150d-7965-486a-97a2-da1f0971c305,Simón Girón,+34975693652,0,39,4,2,7898,11600,29,6468.46227028056,1,1,1,1,2,0,1,0,0,operaciones,exceso de trabajo,3
+bdc7d83e-ba52-4e85-b647-620b3070594d,Marco Cadenas Caro,+34900 18 52 55,0,41,3,1,6466,16065,27,11425.7463681625,1,0,1,1,2,0,0,0,0,finanzas,Salario bajo,4
+4c9884c3-fa63-4885-8eb7-0c965cccd7f4,Gerónimo de Quesada,+34 827 443 955,0,35,6,6,8065,11448,24,8862.17321886154,1,0,1,1,1,0,0,0,0,finanzas,Problemas de pago continuos,4
+83ca515f-75ce-45da-b65e-7f0a7b03f97c,Mauricio Bermejo,+34825 450 774,0,38,10,0,6589,14336,28,8815.38606215967,0,1,1,1,1,1,1,0,1,operaciones,exceso de tiempo de espera,4
+b06faf6e-e2cf-4ef1-91d0-8e89dc94bab9,Adán Pol Roma,+34 680936283,0,34,1,0,7390,12736,16,9766.91281929612,0,1,1,1,2,0,0,0,0,operaciones,Exceso de trabajo por distancia recorrida,4
+d67d3174-0457-444c-b94b-ac31a089d6ff,Jeremías Rocha Aramburu,+34 826 635 173,0,33,11,3,7267,12908,28,9583.67252938325,1,0,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+2a1c21c7-4942-4d52-9cbc-5c45999c415a,Andrés Felipe Rafael Molins Tirado,+34 875095297,0,30,5,2,8672,7056,6,4116.14771357995,1,1,1,0,3,1,0,0,0,recursos humanos,problemas de pago,3
+3f679bdf-b072-4a1b-b523-38fecc688837,Miguel Ángel Osuna-Giner,+34 941114997,0,53,10,2,8572,3120,24,0,1,1,0,0,1,0,0,0,0,finanzas,Salario bajo,3
+ef87d680-d609-4591-9c19-4c69d331fca6,Iván Alfonso,+34971 423 108,0,42,7,0,7063,19682,26,14829.3530762999,1,1,1,1,2,1,1,0,0,operaciones,exceso de tiempo de espera,5
+b1f172d6-5b43-4151-921c-baa7cae09d5c,Valerio de Ponce,+34823 816 929,0,40,14,12,8986,5978,14,4429.74560415774,1,1,1,1,1,0,0,1,1,finanzas,problemas de pago,4
+f4054f52-0797-4dd1-9b11-32688030f2c8,Vinicio Cayetano Hierro Huguet,+34 948 17 94 73,0,50,31,5,6217,16492,19,9980.63751084692,1,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+365b8222-86a1-427f-aa05-2b4618860aaa,Balduino Marí-Pelayo,+34 838373991,0,53,6,6,8176,1833,3,1167.59943255196,1,1,1,1,1,0,0,0,0,operaciones,Bono por desempeño inexistente,3
+e0e3d37c-e602-4670-97a1-23b0363ada40,Jenaro Roman Alegria,+34 714871692,0,45,3,2,10087,11172,21,7131.06742817873,1,1,1,1,0,0,1,0,0,finanzas,Cobros inadecuados en mi nómina.,4
+303cfd5b-7a13-4356-961d-32cecae58f0d,Alex Garcés,+34 876 253 725,0,43,22,11,6953,23222,34,15790.4512516015,1,1,1,1,2,0,0,0,3,finanzas,salario bajo,4
+d72637d5-f542-4246-9e1d-a12e6dad6a47,Juan José Fuster,+34 987 93 04 32,0,25,1,1,8068,9320,40,6083.56252687311,1,1,0,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+eb06c061-d3ae-496d-acc3-5069eaa53848,Pancho Cifuentes Rodrigo,+34803437557,0,43,13,3,6552,14075,25,12011.2562330846,1,1,1,1,3,0,0,0,0,finanzas,Salario base muy bajo,4
+e59a544b-6c59-40eb-bba8-27b96b311636,Albano de Carreño,+34823225214,0,44,19,12,7395,6363,21,0,1,1,1,1,2,0,1,0,0,operaciones,exceso de tiempo de espera,4
+9a6cf65c-14a4-49f1-ad48-038ced5b63ba,Javi Portero Pérez,+34822259790,0,39,9,1,7629,9135,21,6679.22701257999,1,0,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+0d1124ed-a38a-4126-977f-164f0c20a098,Heraclio Castañeda Gual,+34635851296,0,31,1,1,6979,11601,9,6683.39794695878,1,1,1,1,3,0,1,0,0,operaciones,Exceso de trabajo,4
+1109c3d9-e530-4e4e-8044-d598512ae20c,Gilberto Díaz Porta,+34977 95 42 12,0,35,2,2,7599,12537,21,7826.51493912195,1,1,1,1,1,1,0,1,0,recursos humanos,exceso de trabajo,4
+2980cd07-ba73-4aa2-9813-ca7456791812,Manu Valenciano Quintero,+34 827 59 45 60,0,26,5,4,8061,22113,27,15227.9616135049,1,1,1,1,0,1,0,0,3,finanzas,Error en el pago del bono,4
+69b531bc-7e83-4b1a-b47d-3d00af8cb5d8,Noé Marqués Criado,+34 824383356,0,38,6,3,7072,2160,4,1338.5230857548,1,0,1,1,1,0,0,0,0,recursos humanos,Problemas de pago,4
+0ef5d404-f5f6-4ae6-903c-d65ce55f1e06,Nando Garay Villanueva,+34882 97 55 35,0,30,9,3,8519,10668,14,0,0,1,1,1,0,1,0,1,1,finanzas,salario no adecuado,4
+233b063c-fadf-4022-ba29-7e3463aeef1e,Vito de Gual,+34943 76 42 76,0,50,15,3,8153,16100,28,12388.3121671761,1,0,1,1,1,0,0,0,0,operaciones,Excesos en horas extras no remuneradas.,4
+783451f4-8fd0-4a53-ab50-ab0c9bbad55d,Valero Alvarado,+34816 19 64 57,0,50,6,1,6280,828,2,603.953083978767,1,1,1,1,1,0,0,0,0,operaciones,Viajes cancelados,3
+70331da8-2f13-4609-90a5-91b8f513b953,Gastón del Colom,+34 981 035 745,0,30,7,1,8898,7696,26,5949.34583930724,1,1,1,0,0,0,1,0,0,operaciones,Exceso de tiempo de espera,4
+a2b7c77e-a9d4-4e95-b6a8-901e737e32b5,Marciano Gálvez Santos,+34 959823517,0,24,3,1,6864,2925,9,2533.006588779,1,1,1,1,3,0,0,0,0,finanzas,Bono desempeño no recibido,5
+a5ca3151-333d-4cf5-ab9b-fc8f305d7f26,Nicanor Sosa Cerdán,+34 873 30 75 73,0,41,20,10,9030,22575,35,12900.5905004738,1,1,1,1,0,0,1,0,0,recursos humanos,Exceso de trabajo,4
+5b7169c9-e995-498d-9505-edfecc34c3aa,Teófilo Naranjo Maestre,+34928057054,0,50,12,0,6574,15846,19,10545.0012629752,0,1,1,1,2,0,0,0,0,recursos humanos,falto de reconocimiento personal,3
+3c9ebdaf-e75a-4830-9d99-c066e0761551,Vicente Pedro Alcázar Uría,+34803 709 850,0,36,15,6,6724,14730,30,9764.11643903944,1,1,1,1,1,0,0,1,0,finanzas,Problemas de pago,4
+15698a77-2635-4f77-931c-56ca8fe7246c,Fulgencio de Bayón,+34807 58 36 98,0,41,8,5,6705,12936,21,6899.4519113638,0,1,1,1,2,0,0,0,0,recursos humanos,Exceso de viajes cancelados.,3
+684c7b7f-de11-4655-9945-7f95b00cabc1,Rosario Salmerón Montes,+34825331622,0,39,13,6,9387,13392,18,0,0,1,1,1,1,0,0,0,0,operaciones,cancelación de viajes,4
+140efe84-f678-4fb4-bdc2-308e74025afd,Pepito Julián,+34986 431 357,0,37,3,1,8269,23983,29,21616.7093895562,1,1,1,1,2,0,0,1,1,finanzas,Pago retrasado en varias ocasiones,4
+f0438335-26b9-4b11-a7a0-ff5f36a4aad2,Marcelino Tolosa-Nicolau,+34924 543 988,0,42,20,20,7591,8085,11,6126.01984073285,1,1,1,1,1,0,0,0,0,finanzas,Ningún problema de pago hasta ahora,1
+32b0d6dd-20c8-469f-9583-034da55c3b87,Ale Martínez Carvajal,+34748 44 40 91,0,28,5,0,7461,22785,35,16587.3754422474,1,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo de espera,4
+c2bb8d5f-99d8-4cd8-835e-379335402571,Fabricio Peláez-Robledo,+34880 338 650,0,40,5,0,9273,9630,10,5459.7791808583,1,1,1,0,1,0,0,1,0,finanzas,Pagos atrasados,3
+b32f0215-ce4c-434f-a2d4-a6d3087cbcb5,Roldán Pedraza Gallego,+34839501932,0,42,2,2,6447,4500,18,0,1,1,1,0,1,0,0,0,0,recursos humanos,Inconsistencias en salarios,3
+fced2d14-d4ff-4a4c-b783-3e54bc98f6d0,Mario Francisco Javier Donaire Luján,+34 877 81 75 98,0,46,17,7,8042,8702,19,5764.37746416143,1,1,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+d2530647-9d02-4f70-aa7c-7739c5888f68,Alcides Ríos Sierra,+34881 96 00 05,0,39,12,2,6821,10430,35,0,1,1,1,1,1,0,0,0,0,finanzas,No hay bono por desempeño,4
+123a0414-841a-433e-b0c0-e68ededa495d,Candelario Valentín Navarrete,+34947 757 908,0,40,19,13,6459,9465,15,5995.79672726789,1,1,1,1,3,1,0,0,0,operaciones,viajes cancelados,3
+11977320-5c28-4e72-9773-e99b37158892,Armando Tomas Torrecilla,+34 827513650,0,51,14,9,8458,21870,30,15630.9584427086,1,1,1,1,1,0,0,0,1,finanzas,Problemas de pago,4
+cafc7d57-16e4-49e3-b426-b653bf1a5273,Wálter Gabaldón Haro,+34 849 435 445,0,32,10,1,8359,558,6,305.399270439725,1,1,0,0,2,0,0,0,0,operaciones,exceso de trabajo,3
+f349ce15-8b87-4ead-9905-ddc3f6724f4f,Baldomero Ramirez,+34987981551,0,53,6,5,7249,3920,40,0,1,1,0,1,2,1,0,1,1,finanzas,Problemas de pago recientes,4
+ed8dfd0a-82d5-4987-9018-2e55f1bfb7b2,Adrián Benet-Peña,+34880 24 88 11,0,33,14,4,9411,24168,38,19291.7781698365,0,1,1,1,2,0,0,1,0,finanzas,Bajo bono por desempeño.,3
+5c3b92ad-2385-4b97-a030-76ba3d8f64a2,Aníbal Bou Sáenz,+34943 024 023,0,38,0,0,8184,7476,21,6489.5232842645,1,0,1,1,0,0,1,0,0,operaciones,tiempos de espera excesivos,4
+427e5cdd-3e7b-4985-9393-b50a26de93a4,Abraham Jáuregui-Peñalver,+34 842 016 112,0,32,12,12,6379,1215,9,864.233912955947,1,1,0,1,2,0,0,0,0,operaciones,tiempo de espera excesivo,2
+81234add-8126-4098-9dd4-ced507fd4df5,Sigfrido Sierra Luna,+34 983 456 231,0,49,18,5,6942,10880,32,7370.97909337452,0,1,1,0,0,0,1,0,1,operaciones,tiempo de espera excesivo,4
+3f86569b-c08d-4aaa-b388-c3c965fd53dc,Juan Pablo Amores,+34 807 243 258,0,48,2,1,9080,12650,22,7703.8866670792,1,1,1,1,2,0,0,0,0,finanzas,No me han pagado el bono,4
+09e1fd16-06a2-45e8-9e79-6cc4e6341d8f,Chucho Hugo Aroca Morcillo,+34 922 66 17 57,0,37,18,4,8648,452,2,256.690613228992,0,1,0,1,2,0,0,0,3,recursos humanos,exceso de trabajo,4
+889ca4f9-1ebb-4e31-b440-66e2100c6402,Epifanio Bernardino Guerrero Morán,+34 826 990 701,0,44,1,0,9647,16821,21,10101.7087802769,1,1,1,1,2,0,0,0,2,finanzas,Problemas de pago frecuentes,4
+8f3b2e38-c5f5-42cc-bc62-495208b92b7a,Victorino Frías Oller,+34 853466891,0,52,15,3,7575,8589,21,5841.73557743498,1,1,1,0,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+d8c40d34-cd90-4e60-9915-2ae5fc1cc0ec,Manu Cabezas Lago,+34 963 523 448,0,45,9,9,8032,11520,32,7598.36405455185,1,1,1,1,1,0,0,0,0,recursos humanos,Salario retrasado,4
+f12ffad9-889d-4aab-81c8-035211ce7672,Enrique Mármol Araujo,+34 923287219,0,48,0,0,6659,6066,9,0,0,1,1,0,0,1,0,0,0,finanzas,Sin pago por hora extra,3
+136e9e74-c4e8-4b68-b0e9-0488b11d0377,Mario Villegas Sacristán,+34 981 283 250,0,42,6,4,7743,3530,10,2965.22552219344,1,1,1,1,1,0,1,0,2,operaciones,exceso de trabajo,4
+60316652-d119-4224-b0f1-a377e0b6a633,Ruben Guerra Sanchez,+34841 36 84 23,0,35,13,8,7879,11928,21,8960.63093716733,0,1,1,1,1,0,1,1,0,operaciones,Largos tiempos de espera,4
+380cc7c5-81b5-40f1-bdd1-e2dfe6facd10,Abraham Huertas Serna,+34 872 889 021,0,49,5,2,9967,21488,17,15378.7249367684,1,0,1,1,2,1,0,0,0,recursos humanos,Bono por desempeño debería ser mensual,4
+a681726e-3869-4861-8c8d-31b99dae5da9,Albert Graciano Garmendia Cámara,+34948 041 180,0,36,6,4,8714,1339,13,870.485618186927,1,1,0,1,2,0,0,0,0,finanzas,No recibo mi bono de desempeño,4
+04367ee2-2e8e-4ea1-b0fc-efeff6b74a46,César Jaén Vicens,+34 942507876,0,45,12,4,8186,5356,13,3615.46572841235,1,1,1,1,1,1,1,0,0,recursos humanos,exceso de trabajo,4
+882f9303-6577-406c-8a61-afb071f32c5b,Galo Moreno Zabala,+34 912873864,0,43,10,10,7856,6356,14,5110.14560030016,1,0,1,1,0,0,0,0,0,operaciones,exceso de trabajo,4
+687d6860-f1f4-454f-b97e-1a31f9566466,Virgilio Llanos Portillo,+34983201764,0,38,15,13,6413,14512,16,9444.5344841591,0,1,1,1,1,1,1,0,2,finanzas,Repetidos problemas de pago,4
+949c5c7e-3b8d-4ed1-bf89-2cd903e518dc,Pastor Rius Torrecilla,+34883 257 894,0,40,9,9,8270,7200,18,0,1,1,1,1,2,0,0,0,0,recursos humanos,sueldo insuficiente,4
+cdc9a5fa-75e8-4cfd-968e-e65a630c3590,Maxi Gracia-Antúnez,+34975 13 90 85,0,49,2,1,7510,7202,13,5550.56055844893,0,1,1,1,0,0,0,0,0,recursos humanos,exceso de viajes cancelados,3
+5ab6c2c7-3b3e-4feb-a192-0e6da05ffbdc,Che Estévez,+34849 665 176,0,46,3,2,8191,8464,16,0,0,0,1,1,2,1,0,0,0,recursos humanos,exceso de trabajo,4
+64e83a73-43ee-4a19-b387-cd51ba98c5c1,Zacarías Chuy Coll Bastida,+34820 369 719,0,47,10,8,8924,1872,13,1360.04672211067,1,0,0,0,3,0,0,1,1,finanzas,Salario bajo,3
+4462246c-3ef6-44c1-8438-b131d8ae6d18,Miguel Ángel Crespi Valverde,+34 881 03 00 68,0,44,4,3,8833,2280,6,1466.28253280093,1,1,1,0,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+ea3ba3d7-fdd3-48cc-be89-f373783780aa,Jordi Castell Hervás,+34920 743 352,0,32,7,7,7882,11050,26,7654.60201799831,1,1,1,1,2,0,0,0,0,operaciones,tiempo de espera excesivo,5
+787a1225-44f4-49b0-a023-f8b5f64f17d1,Luis Miguel Mascaró Álvarez,+34 872 101 114,0,39,12,1,8223,16554,31,11759.9637569737,1,0,1,1,2,0,0,0,0,finanzas,Sueldo bajo y viajes cancelados,4
+a699f6d6-73e1-420d-8e3d-f6803ee7da49,Raimundo Bernal Aroca,+34 872 385 490,0,57,25,9,8737,8496,18,6487.51986274523,0,1,1,1,3,0,0,0,0,operaciones,Tiempos de espera excesivos en viajes,3
+c7490b32-dd23-4c38-a575-cfe23fffc51b,Candelario del Mata,+34 924 722 412,0,42,14,5,8533,9060,30,0,1,1,1,1,1,0,0,1,1,finanzas,Salario insuficiente,4
+35efa155-73bd-49fa-b921-3677f9c770cc,Benigno Calleja Farré,+34 747 614 526,0,46,6,5,7299,11237,17,7849.65844530013,1,0,1,1,3,0,1,0,0,recursos humanos,Largos tiempos de espera,3
+dd220b15-af91-4520-8596-e7c4beb94454,Cornelio Jerez,+34982 28 91 30,0,39,12,11,9532,9660,15,5946.68097538854,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+16059636-5b5f-4472-a948-88ad68ad201c,Aitor Cabanillas-Segarra,+34978856282,0,32,4,3,7171,5082,6,3517.62793380783,1,1,1,1,1,0,0,1,0,finanzas,Problemas de pago,3
+6fecf2f4-2c49-4c32-ad97-17c691129582,Óscar Gibert Bautista,+34 968 82 25 22,0,60,14,1,6890,4718,7,3251.44923404412,1,1,1,1,2,0,0,0,0,operaciones,Cancelación de viajes frecuentes,3
+39914879-767b-444d-ab6d-98493d574300,Eugenio Cantón Neira,+34 925 94 27 92,0,30,6,4,9404,7579,13,4902.6126001,0,0,1,0,2,1,0,1,3,finanzas,Falta de pago de bono,3
+5bba6942-ef11-4782-af5b-157e6f541d83,Trinidad Iriarte Pozo,+34 872 46 38 46,0,42,11,8,8403,3634,23,0,1,1,0,0,2,1,0,1,1,finanzas,Falta de bono de desempeño mensual,4
+cbbb4a21-23b7-4374-8da3-3c2beb8bfb56,Lázaro Cuevas Villalba,+34821985307,0,49,8,8,8150,6890,26,4762.2943656945,1,0,1,1,3,0,0,0,3,recursos humanos,exceso de trabajo,5
+a41fdcc8-15fa-49cf-9831-bbfe56a5ba4b,Victor Eleuterio Barreda Riba,+34 806 028 821,0,36,5,2,7637,9156,12,5323.08331413431,1,1,1,1,3,0,0,0,0,finanzas,Bono por desempeño cero.,3
+2b12ddd4-1554-4a63-8ac8-be1bb137a3ac,Jose Carlos de Heras,+34886240862,0,44,10,7,9153,12627,23,10214.4816507852,1,1,1,1,1,0,0,0,0,finanzas,Bono de desempeño cero,3
+713292f9-e703-432d-ae11-eac1028d13f3,Calisto del Torralba,+34 948694341,0,60,10,3,7694,10440,15,5746.93421362844,0,1,1,0,2,0,0,0,0,recursos humanos,Bono de desempeño cero,3
+bae9afb6-fb88-4fa2-b398-c3a2c6d87057,Aarón Velasco Soriano,+34888 567 990,0,32,13,9,9077,12036,17,8431.48568354621,1,1,1,1,2,0,0,0,0,recursos humanos,Exceso de carga de trabajo,4
+9f49b480-906e-4880-bd08-ac00f7e6fed3,Fidel Redondo Castrillo,+34 975 421 214,0,48,9,5,6423,13244,22,12208.8301048271,1,1,1,0,0,0,0,0,0,recursos humanos,exceso de trabajo,4
+de03e985-39d3-43ea-85ec-8e97e8f2626e,Carmelo Cueto Sola,+34 984 109 273,0,29,6,2,6372,19232,32,14023.775346469,1,1,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+b21c155a-574e-4c64-803b-8b7040d07915,Vicente Neira Castillo,+34875 789 618,0,47,22,5,7718,13500,30,10182.6354026746,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+15c621a7-3b22-49f3-aa55-23f87f52c389,Custodio Asenjo Anglada,+34 879 45 98 40,0,45,6,2,8388,4966,13,3474.16781537603,1,1,1,1,1,0,0,0,0,finanzas,Necesito que resuelvan mis problemas de pago.,4
+a0736b7e-17ef-42fe-bdb2-36001c1095ff,Conrado Cerezo,+34986 558 034,0,49,18,3,8926,1442,7,1073.64990069687,1,1,0,1,3,0,0,0,3,recursos humanos,exceso de quejas previas,4
+edb72747-d2eb-4250-820a-14bdf52b91c9,Plácido Olivé-Córdoba,+34927 360 042,0,35,6,6,6749,5094,18,4440.15718279987,1,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,3
+80ebc56c-da7c-4a01-bf7a-a685adfef4ac,Sandalio Trillo Franco,+34977387429,0,36,13,9,6217,18270,29,11662.9605113524,1,1,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,3
+82ee7425-8dc1-485e-8cba-818122bf9304,Fabián Garmendia-García,+34878 059 785,0,36,1,1,9060,6970,41,5510.03345511969,1,1,0,1,0,0,0,0,0,finanzas,Salario bajo,4
+fc7e30ca-0639-44fe-be29-fd2c6298723d,Damián Campo Bauzà,+34 941910550,0,28,6,2,7847,15221,31,9291.23902531436,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago en tiempo,3
+62aadb1e-f846-414a-a20e-9ab39741c83a,Emigdio Botella Jove,+34980 83 46 19,0,34,6,0,8742,11343,19,11038.5945816743,1,1,1,0,1,0,0,0,0,finanzas,Problemas recurrentes en pagos mensuales,4
+5d6bf17c-b0ac-4f1e-a59f-42d93c215083,Luis Ángel Lledó Ordóñez,+34 847 695 733,0,38,19,16,6579,6528,16,5461.45514437525,1,1,1,1,0,0,0,0,2,finanzas,Salario bajo,4
+d43b09ba-9ec2-4fe3-bfcf-54c6f5b28905,Nacio Madrid Galiano,+34944 78 59 22,0,33,14,5,6700,18040,20,10052.9534954935,1,1,1,1,2,0,0,0,0,operaciones,Exceso de tiempo de espera en viajes,2
+44b4ca13-88c7-445f-ae53-bc0a5ebd56ce,Isaac Duran Arenas,+34875 692 107,0,40,0,0,8152,9990,15,7796.22756327232,1,1,1,1,1,1,0,0,0,finanzas,No me están pagando a tiempo.,4
+ee76da48-89e0-4940-a950-32326e4c56f5,Armando del Jove,+34 922 715 011,0,43,6,1,6929,16280,22,14402.9468649998,1,1,1,0,1,0,0,0,2,recursos humanos,exceso de trabajo,4
+67b1d709-5d44-42d1-9c74-d97959d438ef,Roque Recio Royo,+34 885747236,0,34,1,0,6561,10421,17,7299.09723226565,1,1,1,1,2,0,0,0,0,operaciones,Demasiados viajes al mes,4
+f4805d78-da39-4aff-be79-a03baa2dc70b,Jorge Verdugo,+34 960 139 995,0,38,5,3,6907,27360,38,16105.924245942,0,1,1,1,2,0,1,0,1,operaciones,exceso de tiempo de espera,4
+055791ad-f64a-419d-9d56-599f3fbf6a52,Julián Guijarro Plana,+34924 22 00 83,0,48,10,10,9027,6960,29,0,1,1,0,1,2,1,0,0,0,operaciones,exceso de trabajo,4
+0bbe9295-039c-4e9f-b3a8-e33a28ae54aa,Balduino Trujillo Acedo,+34 882 888 352,0,64,21,12,8273,4848,24,3941.29451212784,1,0,0,1,1,0,1,1,0,operaciones,exceso de tiempo de espera,3
+90c83b81-767b-4783-baa2-d6e9ffc6d8d4,Calisto Criado Ros,+34838275599,0,38,9,0,9931,5538,26,4907.86953127904,1,1,0,1,2,0,1,1,0,operaciones,tiempos de espera excesivos,4
+f301eff6-f089-4c32-b7dd-0c40cb5ca1e5,José María Merino Hidalgo,+34 924 55 92 96,0,34,14,3,7636,12114,18,10354.6807732018,1,1,1,1,2,0,0,0,0,recursos humanos,Problemas con los pagos,4
+5b4ab6cb-eada-4ed4-93a9-1a5abba8a2a7,Victoriano Morante Hoz,+34959017694,0,42,4,4,6654,2232,9,1621.4580733825,1,1,0,1,2,0,0,1,0,finanzas,No se han realizado pagos a tiempo,5
+4dd72424-3e9d-41d7-bd74-a18909858fa2,Mohamed de Sáez,+34888792848,0,52,3,0,7992,2316,6,1754.32763110027,1,1,1,1,2,0,0,0,0,recursos humanos,demasiadas quejas previas,4
+d033971c-5d5d-4720-8eda-93ed4a7534d2,Román Gámez Ribes,+34842 832 740,0,37,3,2,7319,18760,35,14388.8852089878,1,1,1,1,1,0,0,0,0,recursos humanos,Demasiadas quejas previas acumuladas,5
+23985f8d-c726-475f-8f87-111b40dca280,Maximiliano de Jiménez,+34 981390682,0,23,3,2,9468,3807,27,2510.57476926724,0,1,0,1,0,1,0,0,2,operaciones,"Demasiados viajes, no puedo manejar más.",3
+7165152c-f352-476b-8422-eecb6f206eb1,Martin Girona Agullo,+34882661869,0,44,13,9,6531,344,4,0,0,1,0,1,2,0,0,0,2,finanzas,Salario bajo tras tantos años en la empresa.,4
+5c086b2c-beaf-4a46-abd6-632ecd256e74,Cosme Rodolfo Chamorro Vicente,+34967243173,0,35,6,5,6808,5082,14,0,0,1,1,1,2,1,0,0,2,recursos humanos,exceso de trabajo,4
+deb64c9b-e43f-49ac-94d9-70e8379c6f3d,Gervasio Pina Álamo,+34912 83 62 51,0,44,21,21,6472,3321,27,2445.1581539174,1,0,0,0,3,0,0,0,1,operaciones,exceso de tiempo de espera,3
+e17f32d2-e759-4e53-ac06-a46c22c623c0,José Ángel Sanmiguel Perea,+34821440386,0,23,2,1,6357,10644,12,7772.14832446258,1,1,1,1,2,0,1,0,1,recursos humanos,exceso de trabajo,4
+cc004f19-29e6-4e82-bd86-ec9cfeab84e6,Bruno Fuertes Castro,+34924 37 38 67,0,29,0,0,8948,15779,31,13255.5349747686,1,0,1,1,2,0,0,0,0,finanzas,Problemas de pago,4
+29778b91-dc2b-4751-b89d-d39cf0524c14,Humberto del Morera,+34844531589,0,54,10,1,8135,7020,26,5205.06587178947,1,0,1,1,2,0,1,0,0,operaciones,Exceso de tiempo de espera,3
+0a10621e-d5e0-40dd-a4c9-1ba6ebf1895b,Marcial Azorin-Correa,+34948063577,0,21,0,0,9089,24890,38,16419.242676685,0,1,1,1,1,0,0,0,0,recursos humanos,demasiados viajes cancelados,4
+a6667293-f1b0-44dc-8ba7-f2f9e17c0064,Abraham Lorenzo-Lago,+34825 86 35 36,0,52,21,21,9410,4875,15,3723.39864837002,1,1,1,1,2,0,0,0,1,finanzas,salario bajo para experiencia,3
+f3a6ae73-4076-4030-b760-8af29397b0cc,Cristóbal Porras Chico,+34806754936,0,32,11,4,7077,2314,13,1516.50158648547,0,0,0,1,0,1,1,0,1,recursos humanos,Exceso de trabajo,3
+28d013f6-6d8e-48d4-94b2-c16a26208942,Valerio Gómez Zabaleta,+34 932982436,0,35,11,11,6264,8358,21,4185.77691156894,1,0,1,1,1,0,0,0,0,finanzas,No he recibido mi bono,4
+b2a08bdb-0d53-470d-888a-c6e42eae053e,Marcio Duilio Molins Blanco,+34 843 35 65 88,0,36,6,5,7925,9110,10,7307.79948023635,0,1,1,1,1,0,1,1,0,finanzas,Problemas de pago,4
+641d8a1b-1378-444a-b945-cc2ae8b2b26b,José Mari Ordóñez-Rosell,+34 944 44 23 20,0,33,4,1,6768,17204,22,12432.2695836266,1,1,1,1,2,0,1,1,0,finanzas,Salarios no reflejados en tiempo,4
+a0c50d8d-7918-4f2b-b9f0-07048f388fba,Gabino Ortega Marco,+34984 74 55 31,0,34,3,3,7564,15218,14,11434.194488963,1,1,1,1,2,1,0,0,1,finanzas,Problemas de pago recurrentes,4
+493a5ba8-ff44-41b9-bec8-5785704b057c,Wilfredo Catalán Jiménez,+34 876 595 967,0,26,5,1,8633,7239,19,5256.09841872186,0,1,1,1,0,0,0,1,1,recursos humanos,exceso de trabajo,4
+6d5d20e7-92b9-4703-aa0a-972c5408ddbb,Luciano del Diego,+34 887836825,0,48,4,2,8393,6810,30,5565.69895096857,1,1,0,1,2,0,1,0,0,finanzas,Bono no reflejado en pago,3
+79a7c519-f47c-43ae-8a24-8c9d14b57f59,Lalo Blanco Silva,+34926 966 250,0,46,8,3,9033,13965,19,11829.1813430422,1,1,1,1,2,0,0,0,0,operaciones,exceso de tiempo de espera,4
+2805908f-adec-4529-8c0d-cce1bdeb5a95,Hugo Roig Guardiola,+34926 082 775,0,35,7,7,7541,9284,22,7357.7474919156,1,0,1,1,1,0,0,1,0,finanzas,Bono de desempeño inexistente,3
+0bc8e206-49e4-4335-81d3-56a71fdf6108,Marco Palacios Balaguer,+34946542097,0,37,7,2,9386,16700,20,9293.27376223362,1,1,1,1,1,0,0,0,0,operaciones,Exceso de trabajo mensual,4
+afc13bfa-866e-4332-98c3-83fca8275f59,Jose Antonio Santamaría Paz,+34936 71 58 60,0,53,12,5,7751,5380,10,3488.73253887528,1,1,1,0,2,1,0,0,0,finanzas,Salario bajo y pago irregular,5
+b0913e97-b4f1-4136-8114-d97b1ce2627b,Hector Córdoba Mayo,+34 886626614,0,26,5,1,8272,9828,27,6254.39907052971,1,1,1,1,1,1,0,1,0,recursos humanos,Exceso de trabajo,4
+efc7fd5d-7ca2-49b9-a28f-9d51d3671359,Ambrosio Palacios Sosa,+34942857199,0,38,6,5,6868,3985,5,0,1,1,1,1,2,0,0,0,0,recursos humanos,Falta de incentivos y bonos,3
+c1bf181d-5457-4481-8c03-442f635acf0d,Jorge Blazquez Roura,+34 943 175 351,0,33,9,1,8467,10336,16,5982.90881579148,0,1,1,1,1,0,0,0,2,operaciones,exceso de trabajo,3
+b00b0c01-2dc5-462e-a6fe-af1da385f77b,Samu Pallarès Torralba,+34 923241486,0,43,3,2,7079,2205,5,2044.59509165683,0,1,1,1,1,0,0,0,0,finanzas,Pago retrasado en varias ocasiones,4
+d8ccbbf8-692c-4fc3-b973-1909c6276bfc,Onofre Torres Berrocal,+34975 130 948,0,45,2,2,9035,3894,22,2952.50819006335,1,1,0,1,0,0,0,1,0,finanzas,Problemas de pago frecuentes,4
+4b592a18-cd7d-4067-8a47-1000a306d61d,Rafa Ureña Villegas,+34824850500,0,70,13,1,8442,10365,15,7106.28866659696,1,1,1,1,2,0,0,0,0,finanzas,Inconsistencias en pagos mensuales.,4
+e28c7cdb-49b6-4bb0-bba4-99185a46c5a6,Moreno Danilo Anglada Rubio,+34823999103,0,32,9,8,8243,21168,24,12089.5765948317,0,0,1,1,2,0,0,1,0,finanzas,Problemas de pago,4
+76c1e276-9ce2-424f-a202-610de38ee851,Fermín del Madrid,+34920908206,0,38,15,14,8437,8960,20,6000.11216571997,0,1,1,1,2,0,0,0,1,operaciones,exceso de trabajo,3
+d4bb8ece-c1e0-4c75-ae81-1fe80a14c611,Maxi Almazán Fernández,+34900662414,0,43,15,11,8853,7392,21,5846.16775189624,1,0,1,0,2,1,1,0,0,operaciones,exceso de trabajo,4
+eba291a4-3a8e-4817-9d4a-c4629d1c3e5d,Mariano Sanchez Morillo,+34 806 033 918,0,48,12,6,8780,12506,26,9533.51550511817,1,1,1,1,2,1,0,1,1,finanzas,No se registró mi bono,5
+a30ff3ef-0dea-4201-9a6d-34cda1ee5d0e,Santos Pou-Salcedo,+34806898952,0,37,16,5,8124,3040,16,2038.01905136052,1,1,0,1,1,0,1,0,0,recursos humanos,exceso de trabajo,4
+c60b07b7-bebe-4117-8ebe-2662b37d231c,Cosme Ferrero Lozano,+34952224904,0,34,10,0,8501,7203,7,4383.33730422941,0,1,1,1,2,0,0,0,3,recursos humanos,exceso de trabajo,5
+b56585ae-3f34-4abb-8824-f0db529542c6,Feliciano Natalio Nieto Hoz,+34 885 665 357,0,40,7,4,9360,2947,7,2413.35300792946,1,1,1,1,2,0,0,0,0,finanzas,No he recibido mi bono por desempeño.,2
+ecd353fa-6cf3-497e-b254-f2299212526a,Pepito Bru,+34 975 74 69 92,0,34,7,0,7722,6972,21,3857.8409952377,1,1,1,1,1,1,0,0,0,operaciones,Viajes cancelados,3
+e119872b-8ac8-406e-91cd-a7391e45063d,Nilo de Mayoral,+34883 47 18 45,0,48,3,0,9057,2856,12,2064.46641173017,0,1,0,1,1,0,0,0,0,recursos humanos,Falta de pago de bono mensual,4
+17fc4983-ad84-4580-90d7-2f4a561d8c60,Felix Carbajo Feijoo,+34 985 62 99 57,0,67,12,11,6698,3340,5,2096.62014011098,1,0,1,1,0,0,0,0,0,recursos humanos,exceso de trabajo,3
+6015989e-38d3-4bc3-9455-c09425a4021f,Jose Miguel Huguet-Sans,+34 900 827 080,0,44,18,15,7223,13122,27,9440.78834417513,0,1,1,1,2,1,0,1,0,finanzas,Problemas de pago,5
+007119df-f939-4ac6-8da0-3e21bfee786a,Hector Llopis Terrón,+34 824 98 07 38,0,43,22,17,7754,2912,32,2340.50884102709,1,1,0,1,3,1,0,0,0,operaciones,exceso de viajes cancelados,4
+9365f6fb-e9a8-49c8-84cb-958966a938ba,Epifanio Laguna Linares,+34918 196 283,0,65,28,22,9070,9528,12,6657.32222997793,1,1,1,1,2,0,1,0,1,operaciones,Esperas excesivas en el transporte,4
+1b9b7417-9afd-44f5-9564-53d09a85a5a0,Alfonso Daza Tejada,+34887 282 634,0,35,9,6,7404,4746,14,2943.6334454441,1,1,1,1,0,0,0,1,2,finanzas,Problemas de pago,4
+69a60c4c-23d3-4bdd-9d71-54fe6785a398,Sergio Llopis,+34845 907 369,0,36,8,8,8038,4688,16,3083.7897299946,0,1,1,1,2,1,0,0,0,recursos humanos,exceso de trabajo,4
+aa3aac19-3c64-47e8-a92e-8da4bad390d7,Damián Hervás-Llano,+34880 126 419,0,41,13,11,7903,5057,13,0,1,1,1,1,2,1,0,0,2,recursos humanos,No recibí mi bono mensual,4
+65068c9b-1097-44aa-949e-9aac509edb5c,Leopoldo Julián,+34902 44 16 36,0,50,7,2,7113,2673,11,1618.47399282261,1,1,0,0,1,0,1,1,0,finanzas,Problemas de pago recibiendo menos de lo debido.,4
+22af43e6-c579-4063-94d5-90f527f19e45,Marc Lillo Ripoll,+34 703949784,0,53,15,10,8981,10712,26,6955.77107683047,1,1,1,1,1,0,0,0,1,finanzas,No me han pagado mi bono,4
+8b0b77f0-da83-4384-be1e-7399804caee2,Francisco Bernal Frutos,+34 928 433 946,0,47,5,1,7660,2838,22,1336.26363893681,1,0,0,0,2,0,1,0,0,operaciones,tiempo de espera excesivo,4
+b01b36ab-2a52-4cd4-a5d0-fb44a7632bd7,Régulo Marí Guillén,+34846248439,0,50,14,9,6924,28308,21,22206.7465898571,1,1,1,1,1,0,1,1,0,finanzas,Salario muy bajo,5
+3e390fa3-d78e-44e8-ab0d-dd4f7ebef5d9,Víctor Pina-Menendez,+34730 98 49 25,0,40,12,0,7572,1534,2,970.075155196584,1,1,1,1,1,0,0,1,0,finanzas,problemas de pago,5
+b84d522c-73eb-4aa5-afb1-5ad816f804be,Javi Rovira Pinilla,+34926 68 64 12,0,54,4,2,8892,10830,30,8516.01525115148,1,1,1,1,3,0,0,0,0,recursos humanos,exceso de trabajo,4
+7ee13474-4df5-4355-aa0a-8a01a9a93349,Jorge Casado,+34 987 417 457,0,42,12,1,9024,3663,9,2346.07915888342,1,1,1,1,1,1,0,0,0,operaciones,viajes cancelados,3
+1944dab5-f096-4bc7-a41f-f352403f6a24,Severino Ávila Escudero,+34874 259 572,0,45,15,11,7333,23598,27,18163.4002577855,1,0,1,1,0,1,0,1,3,finanzas,Problemas de pago constantes,4
+518dc95a-f69e-42df-8a61-84a40ce87d0e,Nicanor Polo Cabeza,+34927 03 30 69,0,48,4,2,7132,11584,16,8057.41544776155,1,1,1,1,0,0,1,0,0,finanzas,Problemas con el pago del salario.,5
+8130a92b-f438-4ce4-8234-b46a55a9c163,Jose Luis Ignacio Font Cifuentes,+34 826687652,0,21,0,0,6958,9827,31,0,1,1,1,1,0,0,0,0,0,recursos humanos,falta de reconocimiento,2
+28151f5b-bd27-4fe9-8401-97a4d398cafe,Danilo Palma,+34 974 858 085,0,39,14,10,8841,8602,23,5043.49256214808,1,1,1,0,0,0,1,1,0,operaciones,Largos tiempos de espera en los viajes.,4
+c55a34c5-6671-4aed-b8a2-c07de5b69fdf,Aurelio Gutiérrez Villalba,+34 966 375 220,0,41,2,1,9363,11904,12,8625.11119219802,1,0,1,1,1,0,0,0,3,recursos humanos,demasiadas quejas previas,4
+c7506764-479d-426e-b7b5-010c545399f3,Sebastián Olivé,+34700271111,0,42,3,0,8079,2708,4,0,1,1,1,1,1,0,0,0,0,finanzas,Salario no recibido,4
+0728f3d7-2151-4e6b-8e78-2b2d0f6810bd,Paco Villar-Acosta,+34720 46 46 15,0,41,9,4,6952,6381,9,4555.476825286,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago,4
+e5522f74-88ab-427c-bac6-e1af27db428e,Ceferino Miguel Escalona Solís,+34848308576,0,49,0,0,9534,4590,18,3566.42137581035,1,0,1,1,2,0,1,0,0,operaciones,exceso de tiempo de espera,3
+ed7f2646-95a2-48bc-803d-b82b0732fa60,Eric Mascaró Huerta,+34 712 455 878,0,46,11,11,8257,17576,26,15111.9808866479,1,1,1,0,1,0,0,0,2,recursos humanos,Salario bajo comparado con rendimiento,3
+d681d912-e688-454e-a60c-74ed90e07680,Anacleto Sanmartín Olmedo,+34944739735,0,33,4,0,7866,6225,15,4180.30948021104,0,0,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+9a0d62d4-603d-4853-9dce-e174df55cfaa,Marcos Andrés,+34826 91 39 72,0,26,4,0,8746,11284,26,6701.3409454426,1,1,1,1,2,0,1,0,0,operaciones,Exceso de tiempo esperando asignación.,4
+b8e844d7-e55d-4069-9c16-3e3abf946b6c,Jose Francisco Rovira Solé,+34924 85 35 87,0,49,15,15,9206,20608,23,12815.5249586077,0,1,1,1,1,1,0,0,0,finanzas,Problemas de pago,4
+213c9460-93ee-44ba-8390-81c97cbc9d19,Cirino Lobato,+34941 700 586,0,37,4,0,7367,14564,22,0,1,1,1,0,1,0,0,0,0,operaciones,exceso de trabajo,5
+ec67314a-b7af-4234-b984-89677956b534,Lorenzo Prado Rozas,+34 841 07 42 77,0,35,2,2,8155,428,4,260.593337214472,1,1,0,1,2,0,0,0,0,recursos humanos,exceso de trabajo,5
+10bf3b03-7d0e-4852-98b7-5bcd37cf01ee,Valero Vallés Rocamora,+34937 84 66 51,0,47,22,1,8241,1696,16,1404.24635340596,1,1,0,0,2,1,0,0,0,operaciones,Demasiados viajes cancelados,4
+70d67844-7b6a-4dca-9c57-ae8d4d179b92,Gabino Garriga Díaz,+34 973 74 52 71,0,39,12,0,7765,9640,40,6263.93210024292,1,0,0,1,3,0,0,1,0,finanzas,Salario no recibido,5
+bea99d18-2d28-4222-82b9-0f5e2f1a44b8,Octavio Augusto Pino Calleja,+34848872408,0,45,3,1,9149,19780,20,12883.7986440952,1,1,1,1,1,0,0,0,0,operaciones,Exceso de trabajo sin compensación adecuada.,4
+eb2c2a8b-377a-430e-810d-765c38ba53ea,Berto Recio Arteaga,+34800 23 71 26,0,29,7,2,9574,13500,15,0,0,1,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+07bcac28-61d7-4f6b-817e-de8a4c9a54e0,Victor Manuel de Agustín,+34 820 04 07 19,0,39,0,0,6967,3900,26,2362.6883540915,1,1,0,1,2,0,0,0,0,recursos humanos,exceso de trabajo,3
+7045dd60-76b0-4851-b501-d7c9f2643cf8,Manuelita Blasco Escobar,+34841095135,1,36,6,1,7679,21576,24,14228.4755579487,1,1,1,1,1,0,1,0,1,operaciones,exceso de trabajo,4
+8607fa73-fbd3-4cdd-a03c-602b9dd18edf,Teo Tolosa Adán,+34 946 95 45 98,0,48,6,1,7886,13440,20,0,1,1,1,0,2,0,0,0,1,recursos humanos,Bono no recibido,4
+f0e00cad-9d7d-4a17-8b16-2ad8044ff715,Máximo Camacho-Higueras,+34726 593 630,0,48,17,4,7702,1593,27,0,1,1,0,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+0e605a3a-54aa-448f-873e-ecafef154b87,Patricio del Sanjuan,+34 984 91 26 67,0,23,0,0,8506,10032,12,5028.46056236767,1,1,1,0,2,1,0,1,2,finanzas,Pagos no claros,3
+b7b40570-287e-4d4d-ba15-35d389741c23,Amando Garzón Rios,+34 976 719 660,0,49,23,12,8751,6601,41,4716.07723466163,1,1,0,1,2,0,0,0,0,finanzas,Salarios insuficientes,3
+c0abc991-639c-4123-bb32-04345eaeaec0,Marino Escolano Tenorio,+34914080447,0,26,6,4,8435,7566,26,5809.70197326848,1,1,1,1,1,0,0,1,0,finanzas,No me han pagado el bono,5
+9ea5e659-bb8c-44ed-b37c-7e572fd60421,Juan Antonio Abril Cabo,+34945 59 64 16,0,40,15,2,8535,21560,35,15486.2998464334,1,1,1,0,3,0,0,0,1,operaciones,Exceso de trabajo,4
+2283ac8b-88f8-407a-9e6a-0b4968bc63ea,Gregorio Ferrándiz Alberdi,+34825007240,0,34,9,3,8985,19414,34,14253.848471913,1,0,1,0,1,0,1,0,0,recursos humanos,exceso de trabajo,4
+96de9a45-2d7d-4789-90d5-f1730e478c2a,Jacobo Montserrat-Bravo,+34 979 73 68 51,0,43,1,0,6697,26790,30,18164.7860478929,1,1,1,0,2,0,0,0,1,finanzas,Bajo salario base mensual,3
+d9e0aee0-dfce-43b9-b609-0c993aeb3662,Poncio Reinaldo Comas Viñas,+34943 772 798,0,64,2,2,6533,4802,14,3261.80140001302,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+74b4058e-c182-4c8e-85d4-15aaf3acde83,Gabriel del Estrada,+34 984 37 26 25,0,54,10,8,7908,5418,14,0,1,1,1,1,1,0,0,0,2,recursos humanos,No recibo mi bono,4
+5163bdf6-9747-499a-a81d-e29d960beca9,Celso Benavent Gutiérrez,+34 887 90 23 67,0,45,2,2,7476,15928,22,0,1,1,1,1,1,0,0,0,3,recursos humanos,bono por desempeño cero,4
+1b51d935-a4cc-4199-9781-5b704ff99633,Octavio Gelabert Sans,+34827830326,0,32,3,0,10192,5504,16,0,1,1,1,1,1,0,1,0,3,recursos humanos,exceso de trabajo,3
+aa1d8107-47ff-4361-9c21-8bee41042730,Angelino Mascaró Quevedo,+34822 56 74 87,0,41,12,12,6949,6554,29,4868.94266916276,0,1,0,1,1,0,0,0,0,operaciones,tiempo de espera excesivo,3
+c3b0cc3e-6221-4242-89c7-25111d29a4c3,Joan Oliva Chacón,+34925 41 94 08,0,43,8,5,6982,7384,13,3234.26573043412,1,1,1,0,1,1,0,0,0,recursos humanos,exceso de trabajo,4
+c989bc10-5ef7-44f0-ae55-5c7aba1fc3d3,Vinicio de Huguet,+34 944 71 85 95,0,31,2,1,7473,11457,19,7855.42177997426,1,1,1,1,2,0,0,0,3,recursos humanos,exceso de trabajo,4
+86dfda25-48e6-41f7-a2dd-0ecdff2f42ee,Patricio Valderrama,+34 949155612,0,39,8,7,8746,8619,17,6364.67957471445,1,1,1,1,2,0,1,0,0,recursos humanos,exceso de trabajo,4
+6ab15ca6-ca39-48ec-9aca-7d1374cfc46e,Nazaret Coloma-Gómez,+34806 692 669,0,25,3,1,6376,11898,18,9773.81356330542,0,1,1,1,1,1,0,1,1,finanzas,Problemas de pago,4
+da4d5ac2-3064-4629-85cc-9ce3ff0c6079,Valero Tristán Chico Giménez,+34879 01 71 25,0,50,22,13,8081,2814,3,0,1,1,1,0,1,0,0,0,2,finanzas,No he recibido el bono correspondiente.,5
+41aa2e0f-744c-4099-ab91-3e6a20248227,Emiliano Águila Lopez,+34883537818,0,44,8,8,8690,12903,33,8419.61872594513,1,1,1,0,1,0,0,1,1,finanzas,Problemas de pago,4
+55f2cc88-3672-4f52-9d13-54cffb117819,Che Gimeno Pizarro,+34980 91 60 27,0,35,8,7,8201,14817,33,9752.11293537452,1,1,1,1,3,0,0,1,1,finanzas,Salario recibido a destiempo,4
+514f9d99-aab5-4886-a198-6a78a518414a,Dan Bonilla,+34920646484,0,40,1,1,8897,8492,22,5450.10197247571,1,1,1,1,1,0,0,0,1,recursos humanos,falta de reconocimiento,3
+22ede5f7-b055-4873-9515-a34d16951ff8,Demetrio Núñez Castrillo,+34 979 210 906,0,53,8,7,7115,17908,22,12093.2813895041,1,1,1,1,1,0,0,0,0,finanzas,Salario insuficiente para mi trabajo,4
+8d9fb797-d67e-46da-b818-ef574026460a,Alcides del Fortuny,+34925 976 999,0,32,4,2,7831,5460,7,3506.4912624438,1,1,1,0,2,0,0,1,3,finanzas,Problemas de pago,4
+4f208f2a-d468-4748-893d-2ecf21d4bd80,Juanito Chema Donoso Tamarit,+34827 57 45 69,0,51,23,4,8811,14124,44,11946.1728310045,0,0,1,1,3,0,0,1,0,finanzas,Salario insuficiente,4
+b84b38a3-beec-48d2-82b6-0f589e6993fc,Nazaret Galván Girona,+34 821 87 66 42,0,41,7,6,8268,11637,27,7198.81916342237,1,1,1,0,2,0,1,0,0,operaciones,exceso de trabajo,3
+46513df7-6f84-48cc-9fd5-618769b564b2,Clemente Galván Alcalde,+34828791595,0,40,10,9,7675,21000,24,12379.122543751,1,1,1,0,2,1,0,0,0,operaciones,exceso de trabajo,4
+f5bbcd34-1c41-4606-b6f8-feda5cd6814b,Edelmiro Silva Falcó,+34826375893,0,50,8,3,7572,10080,15,6545.33729709617,1,1,1,1,1,0,0,0,2,operaciones,Tiempo de espera excesivo,4
+6ef56859-b52d-49de-8e39-e3a9b26e4b9f,Gabino Acevedo Carbajo,+34 847 290 465,0,32,13,1,6873,10880,17,8343.58221722697,1,1,1,1,3,0,1,0,0,operaciones,tiempo de espera excesivo,4
+9c5a746a-c30c-4dbc-a7a5-bcab0d2616df,Juan Pablo Ferrera Cáceres,+34 945 876 732,0,45,14,5,8680,11752,26,7560.07888622605,1,1,1,1,3,0,0,0,0,operaciones,Largos tiempos de espera,4
+f37e2e7e-7ccc-4d22-ba64-c3fda22c18a8,Erasmo Pizarro Pont,+34886 51 54 75,0,51,1,0,6875,4884,33,4239.7028842294,1,1,0,1,1,0,0,0,0,operaciones,viajes cancelados,3
+2caea0be-3232-4cca-afad-b360305899ba,Trinidad del Baena,+34 803 946 255,0,44,23,6,7835,20898,27,0,0,1,1,1,2,1,0,0,0,operaciones,Demasiados viajes en poco tiempo.,4
+bd972777-2d9f-4660-a30e-8b12508f5d06,Atilio de Guzmán,+34621 20 62 07,0,20,0,0,8299,17451,21,11467.1376064277,1,0,1,1,2,1,0,0,0,operaciones,viajes cancelados frecuentes,4
+e29b7e67-0b9c-465b-8de1-3ffb97610157,Nacio Fonseca Palacios,+34948851972,0,50,23,2,8372,6244,28,3574.80731903084,0,1,0,1,2,0,0,0,0,finanzas,Problemas de pago,4
+767fcb84-6ee5-4602-96e3-c99bd162fc9e,Lucas Sanmartín Madrigal,+34 723 339 644,0,45,16,13,9456,6935,19,5192.41252832661,1,1,1,1,3,0,0,0,1,operaciones,viajes cancelados,4
+99dea385-88e1-4531-ab36-a9f8c0631386,Eleuterio Morillo Arellano,+34 741 91 99 36,0,57,16,2,9596,17216,32,10962.6981112251,1,0,1,1,1,0,0,0,0,recursos humanos,Necesito que se resuelvan mis problemas de pago.,3
+efab36a0-cbc8-43ce-9587-712c012e0734,Gil Aguirre Llorente,+34 923026606,0,43,0,0,6123,15966,18,0,1,1,1,1,3,0,0,0,0,operaciones,Exceso de trabajo,4
+f635368a-2e3f-4f73-a15a-02e6503b2206,Silvestre Andrés Girón Giménez,+34 982 940 139,0,43,4,0,9570,7810,22,5833.44538962569,1,1,1,1,2,0,1,0,0,operaciones,esperas largas,4
+830a8e7a-ae7a-4419-8bee-19d8cc6aaf65,Nazaret Giménez Bárcena,+34 806 42 72 37,0,42,17,7,6961,7092,18,0,1,1,1,1,3,0,1,1,1,finanzas,Problemas con pago de bono,4
+a2834232-dfd8-4a90-8f1d-99663eef04ba,Eric Águila,+34 972 99 91 30,0,33,11,0,7705,7574,7,6431.99215799406,1,0,1,1,2,0,0,1,3,finanzas,Salario insuficiente,5
+cba4b1a8-dabf-4c9c-a8ef-a08fa9093663,Toño Jaén-Tello,+34910 52 34 93,0,36,3,0,6621,4068,12,3267.08241814631,1,0,1,1,1,1,0,0,3,recursos humanos,exceso de trabajo,5
+fe431395-186b-4b25-9dbe-adaf2b140d39,Raúl Isaías Hoz Peinado,+34 973 002 920,0,54,19,10,9150,15747,29,10885.8641278304,1,1,1,0,2,0,0,1,0,finanzas,No recibí mi bono mensual.,5
+3d8a2e3f-a3e0-478c-9533-ce3e168d2ec1,Silvio Torralba Benítez,+34986361475,0,25,5,3,7393,1034,11,731.053773931714,1,1,0,1,2,1,0,0,0,finanzas,Pago retrasado,4
+61646ee7-fc17-4421-8721-a3fedd158d83,Clemente Mesa Carrasco,+34 886 61 74 17,0,36,14,11,8849,7740,15,5646.01972946493,1,1,1,0,0,0,0,1,0,finanzas,Problemas de pago siempre sin resolver,4
+7d31c3e4-4f4e-442d-a0b7-1c180642be8b,Benigno del Giménez,+34973 30 43 58,0,54,24,20,7516,5964,12,4206.45267774893,1,1,1,1,2,1,0,0,2,operaciones,viajes cancelados,4
+01ac1309-90ed-41f8-a582-3ccd0156b140,Leopoldo Rueda Cañellas,+34 986 14 87 82,0,24,3,1,7258,9674,14,0,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+9d834772-f5de-4885-b5fd-38655dbf897f,José Luis Colom-Ferreras,+34 885 016 977,0,44,15,3,7882,1245,5,960.955616280851,1,0,0,1,1,0,1,0,1,recursos humanos,exceso de trabajo,5
+e0736dbe-b402-46ec-b7a3-030bdb0ea9ca,Natalio Nevado,+34 849959443,0,52,20,4,8079,9400,20,5182.41407331779,1,1,1,1,0,0,0,0,0,recursos humanos,sueldos bajos,3
+c73d2098-0b25-4f61-ab0f-40cb7afe3fe9,Pancho Torrent Pina,+34 879515194,0,29,6,3,7900,5463,9,3790.45902625106,1,1,1,0,2,0,0,0,0,operaciones,viajes cancelados,3
+d77a28d6-3337-4814-949c-9b6123467bd3,Tiburcio Silva Landa,+34 982 257 754,0,28,5,0,7178,1113,7,0,1,1,0,1,1,0,0,0,3,recursos humanos,Salario no recibido,4
+cbd3c26a-7330-4da3-b565-c889b57ef650,Zacarías Gaspar López Duque,+34 846 790 403,0,35,1,1,7984,9690,17,6118.67409040251,1,1,1,0,2,0,0,0,0,operaciones,Exceso de trabajo,4
+5f1624b4-b57c-4ee8-aa7f-cc4483191808,Juan Carlos Vilar-Nogueira,+34 849173375,0,47,15,8,7754,10290,35,8650.60505004156,1,1,1,1,1,0,0,0,3,finanzas,Exceso de problemas de pago,5
+5d1127cd-8144-4de1-99e9-36f295fe56e8,Héctor Estrada Torres,+34982898070,0,54,12,0,7847,11844,21,8097.32028365305,0,1,1,0,0,0,0,0,2,operaciones,exceso de tiempo de espera,5
+2314a71f-57fd-44e8-9a06-3ee52f7879e8,Valentín Roura Lloret,+34 876685719,0,38,5,1,9438,16932,17,16143.2126721355,1,1,1,1,2,0,1,0,0,operaciones,tiempos de espera excesivos,4
+85166e70-4959-4140-b9c0-f72d0b66a32d,Paco Mercader Tena,+34 807 826 010,0,48,3,2,7364,4576,13,3162.88176248121,1,1,1,1,1,1,0,0,0,finanzas,No me han pagado mi bono,4
+d0db88dd-a71a-4874-bdc6-6b62782fa53a,Efraín Leal Hernández,+34 871 38 38 24,0,37,15,10,9016,13486,22,0,0,1,1,1,3,0,0,0,0,recursos humanos,exceso de trabajo,4
+5b8fcf17-7958-44ed-907e-3ceea2527219,Jaime Godoy,+34803 372 894,0,39,10,9,7739,22464,27,14427.3851467782,0,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+83fb8b97-8f86-4c80-9fa2-1fa4118dd415,Luís de Ayuso,+34 843 660 239,0,20,0,0,7211,17618,23,12487.5584270732,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+e0726143-f85a-4135-8760-b2b50f86b974,Jacobo Bou García,+34949 251 479,0,46,6,6,9021,13896,24,0,1,1,1,0,2,0,0,0,0,operaciones,exceso de trabajo,4
+9f31c0dd-c595-44da-b1e1-ad6cedc2bf23,Asdrubal Ferrando Pedro,+34 825 57 93 89,0,41,10,2,7672,6732,18,5608.92781235242,1,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,3
+184af0fb-51f1-4592-8be5-a42f27f5ba03,Patricio Zamora,+34946352823,0,43,9,7,8902,4966,13,3896.22945185655,1,1,1,1,1,0,0,0,1,finanzas,Cobraron mal mi bono de desempeño,5
+51f39288-4447-4988-b3d8-9531654cab89,Claudio Grande Tudela,+34978 190 144,0,51,21,8,8746,10489,17,8271.35099869725,0,1,1,1,1,0,0,0,0,recursos humanos,Problemas de pago constantes.,4
+87d6795c-acd7-4eae-b4d0-ae13e568d571,Celestino Granados Ferrándiz,+34 827 105 501,0,53,16,1,6715,6960,24,3075.51269783379,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago frecuentes.,4
+2f25b6c7-6028-484c-8301-5f9342fb35d0,Efraín Amo-Blanca,+34942380214,0,58,5,1,7641,9105,15,5768.14746712019,1,1,1,1,1,0,0,1,3,finanzas,Problemas de pago frecuentemente.,4
+6577770b-6287-4705-9f03-4b37ffd91ba4,Carlos Pedro Zaragoza,+34850 803 558,0,35,8,3,7357,18900,27,15700.8737838401,1,0,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+2fef4e5e-e1c2-4c12-b48a-a82687e061ec,Marcelino del Posada,+34 838 91 41 16,0,42,14,10,7371,12288,16,11298.292642014,0,1,1,0,2,1,0,0,1,recursos humanos,Demasiadas quejas previas acumuladas.,4
+a6f6aaef-5848-4b0b-b4f0-778a8d0dd1c4,Custodio Herranz Company,+34874427211,0,49,10,6,8160,8327,11,6521.85373584508,1,1,1,1,1,0,0,1,0,finanzas,Pagos inconsistentes en mi salario,4
+76b2a0db-6025-46cb-ae19-4170891a0b7d,Roldán Serrano Porta,+34 974248083,0,35,6,6,6825,10395,15,7027.90372691222,1,1,1,0,0,0,0,0,0,finanzas,Exceso de problemas con pagos,4
+2112b4a2-045a-461e-b04d-0a31ce84036e,Teobaldo Espinosa Duarte,+34886 44 59 61,0,49,5,3,9896,15686,23,12332.6376948184,1,1,1,0,2,0,0,0,0,operaciones,Exceso de tiempo de espera,4
+9967625f-8718-4b62-9115-a600fe14262e,Octavio Roma Navarrete,+34 884414832,0,48,7,4,7320,18032,28,12151.3526217028,1,0,1,1,1,0,1,0,0,operaciones,exceso de trabajo,4
+c1a8b7d3-47e3-42ba-82c1-0a49531280e0,Seve Fajardo Jódar,+34880568958,0,48,12,5,8067,5049,17,4254.20473129674,0,1,1,1,1,0,0,0,2,recursos humanos,exceso de trabajo,5
+034ebd2d-3fd3-454a-bcf3-28918484d7e9,Fernando Alonso Alonso,+34826303753,0,44,23,7,8540,13455,39,0,1,1,1,1,1,0,0,0,1,finanzas,No he recibido bono por desempeño.,4
+6db68f20-97a8-4656-b2eb-d6cb70a8e43c,Florentino Ramirez Roura,+34 875 90 58 55,0,37,6,2,8384,16352,14,12022.7642031466,1,1,1,1,2,0,0,0,0,finanzas,No recibo mi bono por desempeño.,3
+0eab7e3f-c99d-48f7-ba25-7812645ac962,Blas Martin Méndez Millán,+34946 32 74 37,0,47,22,22,7916,10269,21,5751.11159586238,1,1,1,0,2,0,0,0,0,operaciones,exceso de trabajo,4
+1d332080-2944-4163-90c7-c7460879519f,Santos Riquelme-Rodríguez,+34 942 640 773,0,46,8,0,8495,20763,27,15464.775878096,1,0,1,1,2,0,0,0,0,recursos humanos,Exceso de trabajo,4
+bc4c1369-978b-4d90-9d81-6ff335752dd7,Manuel Andrade-Maestre,+34824 146 997,0,43,22,19,6701,7560,24,5544.95805941843,1,1,1,1,0,1,0,0,2,operaciones,viajes cancelados,3
+fa59f77a-3018-4c1d-bdb6-a940a3db716f,Adán de Bernal,+34 845 37 71 21,0,38,14,13,6433,5800,8,2848.90939087229,1,0,1,1,0,0,0,0,0,finanzas,Bajos salarios,3
+b7605c41-463d-4513-b503-9aedee53ad76,Juan Antonio Toño Ribera Barberá,+34 806 404 825,0,34,8,0,7616,15352,19,9682.66493620622,1,1,1,0,2,0,0,0,1,operaciones,exceso de trabajo,4
+69742242-0058-4927-bebe-2127b0b64581,Pascual Cárdenas Pastor,+34 844114034,0,39,0,0,7687,15225,25,0,0,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+0c618002-527c-4dfa-b155-23acdee7cb2d,Édgar Norberto Amo Roda,+34 868 443 676,0,68,18,16,9727,12175,25,10109.7077757626,1,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+25910291-9a16-42b1-b478-1cf38317cf0f,Fernanda Quero,+34 900 592 290,1,59,15,11,7217,10434,37,8832.16305916359,0,1,1,1,0,1,0,0,0,finanzas,Sin pago de bono desempeño,5
+7d459840-1c0c-4cc7-8bac-ed6f4afb39c1,Héctor Ramos,+34 982098153,0,31,1,0,8073,1566,3,1283.79462975221,1,1,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+3a894bb6-49fc-43a0-88da-869e13928d75,Valero Egea Domínguez,+34 946 99 78 22,0,37,8,4,8134,12900,25,10186.8758255322,0,1,1,1,2,0,0,1,3,finanzas,No me han pagado el bono,4
+652ab286-f8a1-4845-82b5-72b52e665b4f,Máximo Cordero Tamarit,+34833615952,0,27,3,0,7668,12716,11,0,1,1,1,1,1,0,1,0,0,finanzas,No hay bono por desempeño,5
+ef34e429-f246-4457-95db-2ea7b03bf1bb,Ovidio Carro Márquez,+34 874 02 44 89,0,33,9,3,7425,22490,26,0,0,1,1,1,2,0,0,1,2,finanzas,Falta de bono por desempeño,4
+aca696d0-683a-4190-b44f-de37e2f06b18,Artemio Iborra,+34 973 103 331,0,51,17,1,7794,23577,29,13807.637325052,1,0,1,1,2,0,0,1,0,finanzas,Salario insuficiente.,3
+7f414cc5-f9e7-44d5-9abc-dc04dd293a7b,Aurelio Guillen Lozano,+34 947 390 514,0,32,13,8,8129,6443,17,0,1,1,1,0,1,0,0,0,0,recursos humanos,ningún bono de desempeño,2
+b8accbcd-45a9-4f00-a838-0b59f934bd4f,Lalo Quevedo-Pacheco,+34976551522,0,33,8,0,8195,19272,24,12467.8027218252,1,1,1,1,1,0,0,0,0,operaciones,Demasiado tiempo de espera en el trabajo,3
+493b86b4-b7bc-409d-95c4-e862470ad668,Gil Bayona Salcedo,+34984 77 89 62,0,30,8,2,8026,3825,9,2150.05510604123,1,1,1,1,1,1,0,0,1,finanzas,No me han pagado el bono.,4
+2ffbcbc6-3a5d-4b98-836b-bcef27dba298,Abilio Pujol Lobo,+34723337191,0,44,7,7,7091,21040,20,0,1,1,1,0,2,0,0,0,3,operaciones,Demasiados viajes acumulados,5
+91d58848-50d2-477b-b770-1eef730c53b0,Seve Leon Peralta,+34943113037,0,25,3,0,7106,25575,25,14267.4303897001,1,1,1,0,2,0,0,0,0,finanzas,Sin bono por desempeño.,4
+7f6b4336-c204-4bdf-aca1-984273eae180,Evita Custodia Merino Manzano,+34928 584 680,1,41,12,0,8800,17168,29,11551.421245174,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,4
+669ddcac-8580-4c90-aaf5-46428893cefe,Vasco del Cadenas,+34 982597507,0,35,15,1,7679,11160,20,8649.08503363884,1,1,1,0,2,0,0,0,3,recursos humanos,No recibo mi bono,4
+43c3f71c-037c-4422-b2ef-e6ad6743471e,Edmundo Somoza,+34 942 780 272,0,44,17,16,8777,21924,29,0,1,1,1,1,3,0,0,0,1,operaciones,Excesivo tiempo de espera en caminos.,5
+2d9970bf-56da-477c-a70c-bd88b3c05122,Edmundo Pi-Planas,+34 824 99 20 41,0,28,2,0,7390,17628,26,11878.9247712489,1,1,1,1,0,1,0,0,1,finanzas,No reciben bono de desempeño,5
+70beb791-37f0-4667-bc55-f958d43f39e9,Amor Emiliano Jurado Aranda,+34 921 89 14 91,0,43,14,9,7733,3120,8,2093.0995398246,1,1,1,1,1,0,1,1,0,recursos humanos,exceso de trabajo,5
+993c8568-94c2-45fc-9bcb-79261f1362dd,Marcio Rodrigo Hernando Goñi,+34 820 56 81 29,0,30,6,1,7044,17325,25,11338.6709272164,1,1,1,1,1,0,0,0,0,finanzas,No llega el bono de desempeño,5
+bcb4b9b7-4e54-48c3-b64d-384ca0139dd6,Leopoldo Valera Lobo,+34969 20 34 06,0,25,5,2,7216,5772,13,3813.42297218178,1,1,1,1,1,0,0,0,0,finanzas,No hay problema de pago.,1
+b89fadfc-d2f2-4f82-bc7e-ecac14f860f8,Santos Jaume Tejada,+34 945 717 565,0,32,7,2,7653,3971,19,2140.94311285697,1,1,0,1,2,0,1,0,1,recursos humanos,Falta de comunicación sobre pagos.,4
+c2beda2e-90c2-4441-965e-5df8fcc9e26c,Gonzalo Ródenas Cuervo,+34 984471329,0,41,11,9,6843,19700,25,0,1,1,1,1,1,0,0,1,0,finanzas,Problemas de pago constantes.,4
+92fe6475-57f1-4f87-a43b-45f45023ab2b,Elpidio Cazorla Balaguer,+34842 643 067,0,32,9,6,8130,4152,12,3260.29423310899,1,1,1,0,2,0,0,0,0,operaciones,exceso de trabajo,3
+06bdb5cd-091b-4975-a2f5-f07e3c8f4d14,Josep Pardo Ortiz,+34637 53 27 91,0,55,17,6,8503,482,2,417.578891490869,1,1,0,1,2,1,1,0,1,operaciones,largos tiempos de espera,4
+02626380-5d14-4375-9c9a-77fe2053113b,Ulises Plana Galán,+34735856645,0,43,14,3,6680,2676,12,0,1,1,0,1,0,0,1,0,1,operaciones,exceso de tiempo de espera,4
+9a38f5f0-a8c2-4ecf-8dfb-4adad520f126,Rubén Marcos Calleja Saldaña,+34947631264,0,43,8,8,6377,24975,25,16538.6086774204,0,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+02e68fc0-598e-48a2-b5fd-462107b72061,Vasco Quintana Cueto,+34 873 42 74 51,0,22,2,0,8880,4963,7,2828.9092828103,1,1,1,0,1,0,0,0,0,finanzas,Falta de pago del bono,5
+6e983e9f-f8f4-4779-992e-91a8b63401af,Ciro de Borja,+34885237682,0,30,2,2,7559,5916,6,4441.29876236888,1,1,1,1,1,0,0,0,0,finanzas,Bono por desempeño no pagado,4
+ba738921-6301-43d8-a023-0e2cb3b66617,Enrique Bejarano Maestre,+34973 86 63 87,0,44,23,21,8054,8512,14,6288.9865221812,1,1,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+59ff5a6b-0c1c-4e99-9399-584a797096be,Reinaldo de Rivera,+34 820008931,0,45,16,4,8437,9894,17,7213.63248375677,1,1,1,0,3,1,0,0,1,operaciones,exceso de viajes cancelados,4
+fc0b75e3-5575-46ea-ad4e-167e93d6693d,Galo del Arnau,+34 731 30 40 12,0,31,10,10,7016,24024,42,0,0,1,1,1,1,0,1,1,0,recursos humanos,salario muy bajo,3
+77f1c308-da51-4cf5-b730-47d1b2e48956,Juan Antonio Sebastián Arana Bellido,+34 846 78 57 75,0,58,16,7,8030,6580,28,4734.50086143018,1,1,0,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+c7da7a98-7f00-4b22-a7ca-eaa929398911,Fidel Catalá,+34879705808,0,37,6,3,8910,5820,20,4238.26735116674,1,0,1,1,1,0,0,0,1,operaciones,Exceso de trabajo acumulado,5
+aa0f0f2d-96ac-448b-a25f-9d8e0a06e688,Isidro Carreño Barco,+34 942 54 82 11,0,45,6,6,9013,23608,26,14791.725478988,1,0,1,1,1,0,1,0,2,operaciones,exceso de tiempo de espera,5
+dc9f4e86-50dc-4173-a7c3-30a77bb34ead,Faustino Rojas,+34946 689 145,0,35,5,5,6920,7623,33,6554.3641995567,1,0,0,1,2,1,0,1,2,finanzas,Problemas de pago,4
+cabddc61-4ca5-4ec1-a09f-71124b33ca98,Arturo de Clemente,+34 846 107 965,0,39,2,1,6588,171,3,110.925752352076,1,0,0,1,2,1,0,0,3,recursos humanos,exceso de trabajo,4
+a5b846f7-cf53-438c-a9ae-f72ed01ea11a,Andrés Felipe Zaragoza,+34975880194,0,24,2,1,8683,9342,27,7535.70715584548,1,1,1,1,0,0,0,0,0,recursos humanos,exceso de trabajo,4
+011d4c29-b0ef-4b2c-9f98-5be8eb5eed03,Remigio de Pou,+34 921 610 747,0,41,4,3,8523,9282,13,6354.55316863364,1,1,1,0,1,0,0,0,0,recursos humanos,exceso de trabajo,3
+e77011f6-a4c4-441a-9ec1-c13a407f61f0,Carlos del Martí,+34 827633923,0,33,14,11,7146,14520,30,9244.22419330847,0,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+371ef17b-65d4-4b40-a209-61500a15d417,Nazaret Sanz Bosch,+34983380476,0,51,11,7,7059,8547,11,6703.89097703851,1,0,1,0,1,0,0,0,0,finanzas,Bajo salario base mensual,3
+78e86b28-fb6b-48a9-88b6-6bd6dca60b88,Remigio Zamora,+34 880838555,0,38,3,0,7807,20039,29,13666.9290777199,1,1,1,1,2,1,0,0,0,recursos humanos,exceso de trabajo,4
+9e3ee580-abdb-444e-92bb-cbce731123e0,Eloy Ciro Moles Donaire,+34 877 983 703,0,37,7,6,9213,2128,4,1588.66776014877,1,0,1,1,1,0,0,0,2,recursos humanos,Exceso de trabajo,4
+8cd01cb7-a4a2-4574-b964-73382f8daa20,José Antonio Alcaraz Arana,+34 920540963,0,43,15,9,6915,18791,19,16126.1924545897,1,1,1,1,1,0,1,0,0,operaciones,Largos tiempos de espera.,4
+a9b9d6ea-4eb8-44ff-97d6-74ef7afb6c57,Aurelio de Pina,+34976911084,0,61,7,4,8960,25036,22,0,1,1,1,1,1,1,1,1,3,finanzas,Problemas para recibir bonificaciones,4
+4a18f977-c3d4-4f27-b152-ef6f26b31cee,León Roldán Machado Frutos,+34866 88 25 89,0,27,8,4,6854,12159,21,9106.51057169897,1,0,1,1,2,0,0,0,0,recursos humanos,Varias quejas sin atención,4
+263d11fe-2d0e-412e-8849-6b881b2c0b52,Custodio Tudela Arjona,+34 944656974,0,57,23,1,9139,2177,7,1728.13808391593,1,1,1,1,1,0,0,0,3,finanzas,Exceso de tiempo de espera,4
+2771acf0-ef6d-4cb1-a955-5eb52c450a40,Agustín Sacristán Casanova,+34963 951 109,0,29,9,7,7739,1300,10,859.604111498153,0,1,0,1,2,0,1,0,3,recursos humanos,exceso de trabajo,4
+db8ff4a4-e38b-4a0c-9aa5-5d7994784f14,Pablo Alcaraz,+34 987 685 412,0,43,4,4,6870,6930,21,6218.07809972545,1,0,1,1,2,1,0,0,2,finanzas,Exceso de tiempo de espera,4
+199e6fff-c5ba-40c6-82d7-862988151dec,Rubén Mora-Mendizábal,+34983 790 521,0,48,19,2,8350,24570,27,16807.8053271622,1,1,1,1,2,1,0,0,2,recursos humanos,exceso de trabajo,4
+bd078635-1d2d-4940-bab3-a47d8ca3aa6a,Matías Hervia Alemán,+34886 77 95 85,0,50,11,3,8653,1700,20,1211.18490875255,0,1,0,1,2,0,0,1,0,finanzas,Problemas de pago,4
+95f52d39-e89c-4d4f-bbcc-0423eb79d189,Florencio Pino Izquierdo,+34978 615 532,0,32,2,2,6220,22368,16,0,0,1,1,1,1,1,0,0,0,operaciones,viajes cancelados,3
+5be3cc35-574e-4a03-8c9f-bb73e3c65011,Heliodoro Porcel Polo,+34 822 823 361,0,26,0,0,7233,9360,20,0,1,1,1,1,2,0,0,0,3,recursos humanos,demasiadas quejas previas,4
+9d1a3444-7293-478e-a928-2fb36d8d87f5,Joan Jordán Esteve Palomares,+34924435165,0,31,9,7,7681,6520,8,4691.32391104072,1,1,1,1,0,1,0,0,0,finanzas,Salario bajo para la distancia recorrida,3
+ef4c7e48-11e2-46ad-b29d-fdd48a708af7,Leoncio Anguita Machado,+34974 413 607,0,42,14,13,8941,7176,23,0,1,1,1,1,1,0,0,0,1,operaciones,exceso de trabajo,4
+99c54e9d-2e49-4bf3-b6c4-11fb58fa5283,Maxi del Carbonell,+34941 50 24 44,0,22,1,1,8818,3204,36,0,0,1,0,1,1,1,0,0,0,operaciones,viajes cancelados,3
+c0b179bc-8879-439b-a46a-a1cb99ed55a3,Herberto Recio Farré,+34 716231389,0,47,6,0,7662,2800,20,2229.40406873999,1,1,0,1,2,0,0,1,0,finanzas,Problemas con el pago,4
+c7c6f2ad-a759-4c5d-b95f-5dddfe671aa3,Eustaquio Rosendo Tudela Elorza,+34 978306464,0,53,21,21,8282,7771,19,4996.97535310983,1,1,1,1,2,0,1,1,0,operaciones,Tiempos de espera excesivos,4
+5fe373a0-0023-4229-911a-ca36172a1d9f,Omar Hervás-Rodriguez,+34 736816209,0,56,19,6,7710,12040,28,9005.79074455283,1,0,1,1,2,0,0,0,3,operaciones,Exceso de tiempo de espera,4
+bf263b6a-2e5a-46bc-b7dd-4a52da1873f8,Valentín Pascual Torralba Pazos,+34921974025,0,55,10,2,8172,4420,10,0,1,1,1,1,1,0,1,0,0,operaciones,Largos tiempos de espera,5
+0bc5efb8-f7ad-4f8e-99fb-90b6ef16f2b9,Armando Larrañaga Ibáñez,+34 948 678 153,0,40,21,19,8533,8625,23,5935.81495209251,0,0,1,1,2,0,0,0,1,operaciones,Demasiados viajes en poco tiempo.,4
+a56d8743-193b-436c-ba57-edc227b67422,Esteban González Pulido,+34 941235298,0,45,21,2,6933,3264,32,0,1,1,0,1,2,0,1,1,0,finanzas,Problemas de pago recurrentes,5
+da087c88-8efe-4a43-aa91-6b969904c07f,Loreto Madrid Sarabia,+34820 53 66 88,0,27,6,3,8990,6720,15,3951.51964050795,1,1,1,1,1,1,0,1,2,recursos humanos,exceso de trabajo,4
+cbe5fb55-fcfd-4b0f-9647-a543a99da54f,Cornelio Emilio Amador Peñas,+34 926 856 614,0,47,11,2,7575,11824,16,6742.0595233462,1,0,1,1,1,0,0,1,1,finanzas,Problemas de pago en mi salario.,4
+4a2d95d4-d96e-4dad-9e8f-c7d0bbf70c91,Juan Francisco Cerdá Calderon,+34 973 70 04 07,0,31,3,3,7402,1827,9,892.025513319511,1,1,0,1,1,0,0,0,0,recursos humanos,falta de reconocimiento,3
+ad8b2be3-68ba-431a-b368-fa51ea8c84f4,Heriberto Borja Barragán,+34827209340,0,47,2,1,8576,9360,13,7854.04304247903,0,1,1,1,1,0,0,0,0,recursos humanos,Exceso de trabajo,4
+4c09f554-34a9-40b7-bb11-e69dfce55747,Fermín Vicente Agustí,+34806 43 79 25,0,48,8,8,8263,7372,19,0,1,1,1,1,3,0,0,0,0,operaciones,exceso de trabajo,4
+0368247d-f077-441d-b560-de871871b753,Mohamed Buendía Rosselló,+34 900 324 389,0,37,15,6,7487,21888,32,14120.4124776115,1,1,1,1,1,0,0,0,1,finanzas,No hay bono por desempeño,4
+4d4299db-064d-4155-89b2-069dacb53b89,Loreto Gonzalo,+34 884 32 78 55,0,37,13,0,6687,5553,9,3529.31610562625,1,1,1,1,2,1,0,0,0,operaciones,viajes cancelados,2
+f4f7a557-9728-4cc0-81a6-0157811183f5,Pascual de Sanjuan,+34923 75 31 80,0,37,17,8,9034,14420,35,9963.14920380735,1,1,1,1,1,0,1,1,0,operaciones,exceso de trabajo,4
+1f5572ad-ca72-45ae-afa2-a5f3261dc2e8,Horacio Llorente Arce,+34 980 026 706,0,40,19,2,8990,8769,37,7305.80682162431,1,1,0,1,1,0,0,0,0,finanzas,Exceso de trabajo y pocos incentivos,3
+26277976-6aed-43c8-a37f-a516e6f4356d,Alex Ochoa Cobos,+34902714388,0,47,8,7,9209,3995,17,3745.57459182169,1,1,0,1,0,0,1,0,0,recursos humanos,exceso de trabajo,3
+5b0ebffa-0078-403e-bc68-76f217bdcedb,Gerónimo Pera Urrutia,+34 971 58 18 81,0,25,1,0,7630,9536,16,7803.18217588378,1,1,1,0,2,0,0,1,2,recursos humanos,Problemas de pago constantes,5
+eb917d36-a4b7-484f-948f-e3fe1547e15d,Calisto de Somoza,+34 871 68 74 76,0,57,4,4,9899,21708,36,0,1,1,1,1,2,0,0,0,1,finanzas,No he recibido mi bono.,3
+bbd82618-0c17-4568-aed6-711b768e0b8d,Galo de Carlos,+34902 08 42 32,0,43,6,6,8853,14040,26,10703.2530755033,0,1,1,1,1,1,0,0,0,finanzas,Faltan pagos en mi cuenta,4
+e9acdc26-21be-4337-b163-eac9a53d0e70,Hugo Lopez Maldonado,+34 972 817 256,0,35,16,11,8327,3140,10,1847.62322029954,1,0,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+0d6953e4-41de-4f3f-9780-10c345b47a94,Jose Ramón Corral-Villar,+34 921593110,0,30,11,1,7774,4301,17,3349.37261881704,1,1,1,1,1,1,0,0,0,operaciones,Exceso de trabajo,4
+20870bb8-1ee4-47ed-ade0-5cc5aea2c362,Alex Carpio,+34 984 070 056,0,52,13,8,7264,8912,16,6179.26744498797,1,0,1,1,1,0,1,0,0,operaciones,exceso de tiempo de espera,4
+310707da-c702-4dca-ad50-5954e86fae72,Fulgencio Ricart,+34886 972 492,0,42,0,0,6706,11001,19,7058.3110799526,1,1,1,0,3,0,0,0,3,finanzas,Problemas de pago recurrentes,4
+04c2c187-0e41-4ade-9083-d461ac7280ff,Damián Cadenas Villalonga,+34841 95 72 66,0,39,16,13,8194,8320,20,6345.97057262392,1,1,1,1,0,1,0,0,1,recursos humanos,exceso de trabajo,4
+dfd6716b-be17-452a-804d-5723ef07b88b,Ángel Sarabia Tejedor,+34 717 91 37 72,0,50,27,13,7002,16583,23,12992.2895103929,1,1,1,0,2,0,0,1,3,recursos humanos,exceso de trabajo,4
+4eaf5101-6eec-41a0-a14f-14b1272fe604,Jaime Somoza Silva,+34 822 46 85 60,0,61,20,11,8286,2075,5,1211.1172881099,1,1,1,1,2,0,0,0,2,finanzas,Salario bajo y bono inexistente,4
+f4e0a043-bb87-4003-8879-5391f6100e8e,Nico Merino Carballo,+34 886 76 47 77,0,35,10,3,6710,9297,9,5939.60035521431,1,1,1,0,3,0,0,0,1,finanzas,No me han pagado mi bono,5
+dcb54cd7-0ab4-475d-a4a3-4aa7424b229c,Gustavo de Garriga,+34 824 50 78 66,0,42,23,0,6974,16540,20,13372.9197727757,1,1,1,1,1,0,1,0,0,finanzas,No se han pagado mis bonos.,5
+3947e2bf-a9ca-495a-a94c-6e256dfe7740,Andrés Felipe Barroso,+34 823714338,0,34,6,5,8558,6068,37,5153.42910248885,1,1,0,1,2,0,1,0,0,operaciones,exceso de tiempo de espera,4
+276c3cda-9a30-491c-a91b-85bc970ef3aa,Tiburcio Madrid Ibarra,+34807139393,0,22,1,0,8258,26190,27,16700.2593656571,1,1,1,1,3,0,0,0,1,operaciones,exceso de trabajo,5
+f7665aea-60bf-42d7-bd60-70b722932882,Amando Sandoval Benet,+34847541846,0,36,9,1,8787,8474,19,6769.05226933305,1,1,1,0,2,0,0,0,0,operaciones,exceso de trabajo,4
+f4661707-8e3e-4ed2-96c2-44f84bf4762f,Ismael de Saldaña,+34846 777 384,0,43,17,2,8270,12572,28,9276.35012776673,1,1,1,1,1,1,0,0,3,operaciones,Demasiados viajes cancelados,4
+6db5a1ce-cae0-47a7-a7c8-5a1e975a8a61,Kike Piñeiro Bas,+34872 321 823,0,32,2,1,9848,12402,26,7623.00651124917,1,0,1,1,1,0,1,0,3,operaciones,exceso de tiempo esperando,4
+7d6ccfcc-9f47-49d4-b3ed-1c2a941f40de,Luís Vallés Gordillo,+34 847 25 73 22,0,54,13,4,7986,3951,9,2827.14749576424,1,1,1,0,2,0,0,0,2,finanzas,Bono por desempeño no recibido,4
+45495a3c-124d-4c17-abbe-e230a6e2016f,Amaro Carnero Rosado,+34 986 21 47 19,0,44,13,0,8393,6410,10,0,1,1,1,0,1,1,0,0,0,operaciones,viajes cancelados,3
+1ee63524-97dc-4a16-b5ac-2f5f904d34a3,Zacarías Aguilera Agustín,+34883863501,0,41,7,6,10871,15378,22,11791.4263898548,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+6e8c1cc9-9620-4fe6-a08b-37671635e837,Rolando Miró Jara,+34 874 77 59 48,0,29,7,5,7340,15960,30,13476.6666280527,1,0,1,1,2,0,0,1,1,finanzas,Problemas con el pago,4
+84c90db1-f4f7-488e-9381-7aa50ab95b64,Edgardo Lasa Blazquez,+34 984 28 64 24,0,46,18,6,7221,15428,29,10151.6928672713,1,1,1,1,2,1,0,0,0,finanzas,No se me ha pagado a tiempo.,4
+15d9212d-ee9c-4c17-81bc-67624fa0fe10,Hilario Ortega Canals,+34986416943,0,33,1,0,8441,13554,27,9779.12238671477,1,1,1,1,1,0,0,0,0,operaciones,exceso de viajes cancelados,3
+37155df2-9225-4e25-a89a-f1276649c240,Martín Carnero Blanca,+34927114199,0,40,18,13,6570,5748,12,4257.60061831411,1,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+c0163b95-b593-44ce-8cab-59601ca29f28,Rubén Escobar Luque,+34731 660 190,0,56,6,0,7219,29087,29,16897.2449601571,1,1,1,1,1,0,0,0,0,operaciones,Excesivo número de viajes cancelados,4
+8d7b332c-a048-4089-a722-707c2135ee5d,Fernando Rey Naranjo,+34845 87 88 43,0,39,15,13,9121,20706,29,14531.5079860619,1,0,1,1,1,0,1,0,1,recursos humanos,exceso de trabajo,5
+93d40ba7-8e00-4072-be42-d4849d42fed3,Gabriel Saldaña Cifuentes,+34 827096495,0,35,3,0,7020,3672,9,3013.21056967923,0,1,1,1,1,0,0,0,0,operaciones,exceso de viajes cancelados,4
+084910df-5ced-408d-9056-fcbb256bf315,Balduino Leocadio Ortuño Lobo,+34974 900 561,0,47,18,0,9081,5180,28,3966.34531755246,1,1,0,1,2,0,0,0,0,finanzas,Bono por desempeño no recibido,5
+06dbbd7f-19c8-49a4-a30b-592dffe0bc11,Rafael Galan Rovira,+34827410760,0,39,4,0,6925,8510,10,5481.55012891907,1,1,1,0,3,0,0,0,1,operaciones,exceso de trabajo,4
+2c4c6076-214d-4189-9d61-904c668b0edc,Hernando Arjona Espejo,+34975 045 706,0,44,4,2,6883,11040,12,7439.70091668447,1,1,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,3
+7d4fccaf-41b3-4819-8b98-5fbda74814ea,Erasmo Camps,+34 746 072 421,0,35,6,0,7625,4158,27,3415.04680614155,1,1,0,1,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+f706f02d-f253-466e-a092-b4d7035138b6,Casemiro Marcio Echeverría Saura,+34823818988,0,42,12,11,8534,2505,5,1668.65697457005,1,1,1,1,2,1,0,0,0,operaciones,viajes cancelados,3
+09ed7133-2dad-43c7-959a-bec030fd9ab7,Tomás del Conesa,+34 824 79 53 46,0,27,4,4,8300,7098,14,5652.66251099046,1,0,1,0,2,0,0,0,2,finanzas,Bono por desempeño no recibido,4
+08fe0611-d271-429d-a844-ea8fcc89cee2,Manuel Miranda Castrillo,+34873 359 378,0,31,2,0,8280,7744,22,6582.28788801322,0,1,1,1,1,0,1,0,1,operaciones,tiempos de espera excesivos,3
+8a1ba1a0-88b6-4b50-ae50-9e7a28b7ed2d,Macario Sáenz Arranz,+34983171938,0,46,18,18,7865,7000,20,5041.04024178053,1,1,1,1,0,0,0,0,0,operaciones,Tiempos de espera excesivos,4
+723dad3b-17e5-4cdd-a924-d66d168a5cf0,Octavio Chucho Cervantes Camps,+34955 53 71 14,0,47,2,2,7340,8320,20,5876.91658507163,1,0,1,1,1,0,0,1,1,recursos humanos,Falta de pago en bono,4
+3e7f6bcd-ecfc-4344-8f29-01f382c5d826,Chema Carrión Llano,+34 984 24 15 68,0,59,3,3,7424,14911,37,8929.33216444782,0,1,1,1,2,0,1,0,0,operaciones,tiempo de espera excesivo,4
+2ed80f13-d478-474d-a354-a28490415b06,Armando del Cortés,+34 888038081,0,46,14,8,9436,7709,13,6369.95283403819,0,1,1,1,0,0,0,0,0,recursos humanos,exceso de trabajo,3
+b56d61c8-3999-4dcd-9cca-c48119bce256,César Goñi-Quintana,+34839 92 46 52,0,35,7,0,8058,11556,18,7737.69243370422,1,1,1,1,3,1,0,0,1,operaciones,Viajes cancelados sin aviso.,4
+54fb7dab-107f-4c35-9a4c-fb86c7948d14,Roque Oliveras Folch,+34900348885,0,56,19,5,9423,6520,10,4749.38055929522,1,1,1,0,1,0,0,0,0,recursos humanos,exceso de carga de trabajo,4
+f32a9246-a24e-4b4d-ad2f-725df8b7a230,Jose Ignacio Cánovas Juliá,+34848 25 73 16,0,34,5,1,7270,17732,26,13469.0775803464,1,1,1,1,0,1,0,0,0,operaciones,viajes cancelados,3
+4350a2d5-d9b1-453f-af42-2ad7b8c61eee,Josep Vega-Alba,+34979747941,0,54,24,16,7912,10017,21,8090.70891734969,1,0,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+cbe2f964-aba6-43bc-89a6-3b850557de73,Alejandro Jimenez Mayoral,+34 872 05 84 21,0,31,4,3,7485,11316,23,8053.08138397858,1,1,1,1,2,0,0,1,3,finanzas,Salario retrasado,4
+3736971f-8038-4363-b60b-9520cbd8eccc,Rufino Trujillo Sierra,+34 843 51 32 38,0,35,8,8,8005,10200,30,6043.39040980571,1,1,1,0,1,0,0,0,0,operaciones,exceso de trabajo,3
+80e06585-e056-4ca1-915e-1131e0eca1f6,Pastor Vilalta Puerta,+34 978 341 877,0,37,15,13,9025,13650,26,6740.72395787424,0,1,1,1,2,1,0,0,0,finanzas,Salario bajo para tantas horas trabajadas,4
+f24af250-762a-4f86-bb32-12558f79dd2d,Donato Mascaró-Mercader,+34 941 536 160,0,43,8,7,7866,21492,27,13297.4364058469,1,1,1,1,2,0,1,1,1,operaciones,Largos tiempos de espera,4
+5596b765-6ecc-4fe6-9f39-066a05b6214e,Emilio del Nieto,+34 942 379 586,0,42,21,9,7647,7475,25,5080.1158124386,1,1,1,1,1,0,1,0,0,recursos humanos,exceso de trabajo,4
+3f05c1ca-3c25-435b-87e0-63a468166b10,Teodoro Sierra-Pizarro,+34 949 57 46 60,0,32,7,2,6106,22638,33,16476.0326607548,0,1,1,1,1,0,0,0,2,recursos humanos,exceso de trabajo,4
+39536911-6b47-4e8a-a0d2-fec31142fc1d,Selena Águeda Becerra Uría,+34981859940,1,48,16,10,7380,21380,20,14093.8656709071,1,1,1,1,1,0,0,1,1,finanzas,Salarios insuficientes,5
+942d71d9-bce2-4086-bafa-d3ac267c89ea,Juan Carlos Rincón Almagro,+34826 150 970,0,38,7,7,10054,2079,9,1370.8444372015,1,1,0,1,1,0,1,0,0,finanzas,No me han pagado el bono,4
+989ae9b0-2128-4fdb-9417-73f9a02181e4,Germán del Ibáñez,+34878 887 150,0,37,8,2,8633,17619,21,9561.20106937493,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,5
+aa93b5c4-3ebd-4d36-8ed4-fa10e6ec714b,Ángel del Ferrer,+34 945 93 57 63,0,34,13,7,6809,12480,24,7939.56732376054,1,1,1,1,2,0,0,0,1,finanzas,Bono por desempeño cero.,4
+b5cd91ab-7116-4cb1-84c5-a2948a3daf6f,Ramón Valentín Pavón Canals,+34887 450 889,0,48,6,1,7560,5472,18,4736.84259269583,1,1,1,0,0,0,0,0,1,finanzas,No me han pagado el bono,4
+ab5b7d0d-91d1-4d27-bab5-930bfaf16916,David Pagès Gras,+34886 61 57 72,0,46,20,20,6927,15800,25,10492.8084978607,1,1,1,1,2,0,0,0,0,finanzas,Salarios muy bajos,3
+45da476b-5890-42d9-ba69-c63ce28f989c,Alfonso del Vizcaíno,+34938 851 234,0,40,4,3,9647,5320,20,4091.82133558751,1,1,1,1,0,1,0,0,2,recursos humanos,exceso de trabajo,4
+6b07fece-a59c-41f6-95b6-500faa575ed4,Rufino Doménech-Cañellas,+34946 59 95 68,0,40,6,6,7067,7656,11,4870.60688221949,1,1,1,1,1,0,0,0,0,recursos humanos,Exceso de tiempo de espera en cargamento.,4
+d90fab5a-2479-41ec-aa04-fcdabaeedf82,Félix Garay Llobet,+34 979 566 559,0,47,2,1,6123,3828,11,2325.40002659442,1,0,1,1,1,0,1,0,1,operaciones,exceso de tiempo de espera,5
+f86acf65-cba5-4df3-bb2c-ff34c5e3d628,Rosario Cabello Valera,+34902325013,0,34,10,5,6693,16100,20,9836.28928395739,1,0,1,1,2,0,0,0,1,operaciones,demasiados viajes cancelados,4
+b9be227f-515f-4b97-9e94-c86cecda2c8c,Arturo Zapata Cortes,+34 984653878,0,26,2,2,10452,15360,30,13756.7149934953,1,0,1,0,1,0,0,0,2,operaciones,exceso de trabajo,3
+22291fc2-6f5f-4dff-977d-71115f77c47b,Cristian Carreras Zabaleta,+34 976 946 331,0,25,6,5,8279,16475,25,0,1,0,1,0,2,0,1,0,0,finanzas,No he recibido mi bono.,4
+0a2598b7-00e8-49c1-a5b2-d740410f7adb,Octavio Fermín Reig Cañete,+34803903489,0,51,10,1,9096,17960,20,8603.93066428042,0,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+1cbcd9e4-0095-4c82-b4b8-c6777507d214,Álvaro de Aguilar,+34900 509 090,0,36,13,5,7851,22386,26,11567.5919526405,1,1,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+b2c45f0d-bbed-4f79-b721-823ac0809c2f,Amílcar Arco Garrido,+34926 901 531,0,46,20,14,8498,8900,20,4203.75564946338,1,1,1,1,3,0,1,0,0,operaciones,Exceso de tiempo de espera en viajes,3
+c8ba3333-7f0b-4452-a3f6-50a68e4e7a1b,Victorino Morales Roldán,+34873 015 680,0,29,8,8,6353,7701,17,6302.17810407372,1,1,1,1,1,0,1,0,3,recursos humanos,exceso de trabajo,4
+fbe1f3f1-7824-4d25-b0ef-f3c4ba5bcd31,Eligio Angulo-Anglada,+34 817 816 431,0,52,25,23,7656,1547,17,0,1,1,0,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+8b17c56a-b736-4faa-b375-60d63a875d33,Samu Palomares Crespi,+34 975282525,0,36,16,6,7726,22220,22,15611.8188754588,1,1,1,1,1,0,0,0,3,operaciones,Exceso de viajes cancelados,4
+6c15880c-7853-4fdf-bc2c-5866dbeda851,Leonel Basilio Arco Iborra,+34 925860256,0,33,8,7,9207,5634,9,3576.994015486,0,1,1,1,1,0,1,0,1,operaciones,exceso de tiempo de espera,4
+8073625f-72e2-462a-bd86-e77e4005fa6b,Alejo Serrano España,+34 946 272 576,0,43,5,1,7884,12864,24,6492.26407381928,0,1,1,1,2,0,0,0,2,operaciones,Demasiados kilómetros recorridos mensualmente.,4
+69e0e69c-5902-4947-870e-2c5ddca30271,Angelino Goicoechea Castrillo,+34900 378 341,0,32,8,3,6428,13486,22,0,0,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,3
+8019faa5-48c2-4919-b346-b319dc991460,Luis Costa López,+34 888 23 40 97,0,40,14,11,9580,3456,16,2041.55912242294,1,1,0,1,3,0,1,0,0,operaciones,exceso de trabajo,4
+69d5d16e-80c1-4679-8a64-ab4af0cd41db,Silvio Arias Giner,+34902 93 04 59,0,40,15,13,8862,4922,23,2937.83018573712,1,1,0,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+f1274959-afc9-4ebe-b973-19882f901209,Cornelio de Cañete,+34987 165 768,0,46,14,12,8574,5759,13,3384.5403667592,1,1,1,0,1,1,0,0,1,operaciones,viajes cancelados,4
+6f38872d-577b-4dfa-946a-96b5f70508cb,Jenaro Rueda Agullo,+34 979917622,0,45,17,14,7662,11058,19,7062.02602673506,1,1,1,1,1,0,1,0,3,operaciones,largos tiempos de espera,4
+2533f2b8-64fc-46d7-aec8-c94c630c7010,Tomás Menendez Casares,+34 847 52 08 45,0,29,7,6,9765,8019,9,5425.84516678008,1,1,1,1,1,0,0,0,0,finanzas,"""""""""""""""""Recibo pagos incompletos""""""""""""""""",4
+ac844878-d4dc-4220-867f-b8bc30e6a86c,Edmundo del Reyes,+34 944129943,0,42,13,0,6870,3107,13,2452.51989244225,1,1,0,1,0,0,1,1,1,finanzas,Pagos retrasados,4
+8f364f3b-065f-407f-b149-4859c0e1e439,Lupe Esteve Cárdenas,+34920 76 29 82,0,45,8,3,8041,7106,19,4228.76169727047,1,1,1,1,1,0,0,1,1,finanzas,Problemas de pago frecuentes,5
+58f2c377-f36d-4819-a585-39e16d31688a,Tomás Menendez Río,+34877 62 91 03,0,24,0,0,7829,9140,10,5553.15523982982,1,1,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,5
+5ec8ab9e-d43b-4122-b888-b361e69bb1ce,Ulises Pagès Caparrós,+34884 73 89 32,0,22,1,1,8448,28530,30,20645.4002473945,0,1,1,1,2,0,0,0,3,finanzas,Salario bajo y sin bono,3
+657848d5-022d-4d08-90e5-0d00f4360ec2,Lisandro Salazar,+34 977071470,0,37,1,1,8224,6149,11,4854.96090667928,0,1,1,0,2,1,0,1,0,finanzas,Problemas de pago recurrentes,4
+6720d7e1-8555-4253-b0b3-d08f11d91c29,Heriberto Esparza Benitez,+34 971 94 29 06,0,33,0,0,8594,23025,25,13145.888719597,0,1,1,1,2,0,0,0,0,operaciones,tiempo de espera excesivo,4
+7ebd364a-82ff-455d-9f91-1f971d54e6a7,Dan Alcántara Sánchez,+34873 688 901,0,54,5,0,9507,17112,31,0,1,1,1,1,1,0,0,0,0,recursos humanos,sin bono por desempeño,3
+d9f8d651-b85f-42a3-bba2-177e5e3c69c6,Alfredo Cisneros Coronado,+34879 970 919,0,34,5,3,7963,7050,15,4383.17941319079,1,0,1,1,1,0,0,0,0,recursos humanos,Excesivas deducciones en mi nómina.,5
+b5a765b9-4013-4a8f-9d1b-57246b72f076,Mario Rosselló Ojeda,+34887 30 53 55,0,46,9,9,8225,8476,13,5464.11773695213,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,3
+4c87d038-f2b2-4c26-a467-bd539b59a926,Josep Rogelio Sáez Rovira,+34 884 45 26 11,0,52,17,3,7595,5056,8,4230.39272802822,1,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+41bdf0d3-a47a-4c61-ab8d-f667cba064cd,Luis Ángel Bauzà Malo,+34 820 58 22 01,0,37,1,1,7823,3745,7,2216.15421741131,1,1,1,0,2,0,1,0,1,finanzas,No me han pagado a tiempo,4
+57e43310-257a-4c36-a744-c9ea7efb5359,Horacio de Simó,+34725 67 98 98,0,45,1,0,8936,13050,15,9447.81735256824,1,1,1,0,2,0,0,0,1,operaciones,demasiados viajes cancelados,4
+38969acf-7cbe-4072-b1d4-8f90383f19d8,Mariano Céspedes,+34 800 66 06 38,0,44,24,6,8904,3636,18,2704.63382845787,1,1,0,1,2,0,0,0,0,finanzas,Bono por desempeño no recibido,4
+c7fe3f59-5e5e-4e18-ae7d-bae9bee6ec33,Sosimo Geraldo Montserrat Ripoll,+34937 38 99 24,0,36,3,1,8196,9030,21,0,1,0,1,1,3,0,0,0,0,operaciones,exceso de trabajo,4
+1baf9f3b-461f-4ad2-aaef-39e3f5cb29ce,Calixto Muñoz Piquer,+34986 333 140,0,40,3,3,7010,9702,14,6013.31651236322,1,1,1,1,2,0,0,0,0,operaciones,viajes cancelados,3
+22eab7a1-a859-4146-adea-3430d091abb4,Matías Salomón Álvaro Roig,+34973 127 925,0,41,17,12,7403,17545,29,10993.8655438823,1,1,1,1,2,0,1,1,0,finanzas,Salario incompleto,4
+28efb10e-b7f3-4c0d-abbe-2c9c470b28ef,Tiburcio Nadal Falcón,+34 873507295,0,35,13,0,8715,6578,22,4486.0409685528,1,0,1,0,1,0,1,0,0,operaciones,Exceso de tiempo de espera,4
+1fd7877c-fdb5-4539-8d61-ef4600eacba8,Valentín Vicens Mayo,+34861 653 359,0,43,19,1,7852,13554,27,11666.4559984527,1,0,1,1,0,1,0,0,0,operaciones,Demasiados viajes acumulados,4
+1394ed19-9f90-4d5e-96b3-ca0e16e28790,Silvio Parra,+34 876 191 481,0,29,3,3,7318,14160,30,9572.93878611669,1,1,1,1,1,0,0,0,0,finanzas,Bajo salario,2
+de89e2ec-c47f-42cb-98f5-8ce7e1f71e7b,Cayetano Porras Fuster,+34876 43 45 94,0,35,15,6,8788,7686,14,4718.2363486302,1,1,1,1,1,1,0,0,0,operaciones,viajes cancelados,3
+bc83f23c-3e87-4180-a916-9cf428e12baa,Agustín de Cano,+34 826085558,0,45,6,3,8954,552,2,385.487784839647,1,0,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+3d22d208-c33c-45e0-b117-7c4a7e28b00c,Berto Roda-Pablo,+34833 51 93 08,0,40,21,0,8046,16058,14,0,1,1,1,1,3,1,0,0,1,finanzas,No hay pagos,5
+06396aa3-69a9-4813-abee-3f76b8e226c7,Juan Bautista Aguado Fernandez,+34 926829028,0,37,9,0,8028,3248,16,1908.99180394161,1,1,0,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+15c9b2fe-56c3-4c27-bca5-b457c85bbf87,Nacho Ropero-Pombo,+34 979 93 39 55,0,38,5,0,9354,2970,10,2209.41140417585,1,0,1,1,1,1,0,1,0,finanzas,Falta de pagos delimitados,4
+87c629e0-180d-43a8-b7f9-13e5aa37815a,Fernando Carrasco Bayo,+34806 382 218,0,55,7,0,8251,9040,16,7376.55885325949,1,1,1,1,2,1,1,0,0,operaciones,Demasiados viajes cancelados,4
+a616bda6-db17-4271-81b1-a352840f3816,Virgilio Aparicio-Gutierrez,+34 971423615,0,35,7,6,9171,3842,17,3344.84056862661,1,1,0,1,0,0,0,0,1,finanzas,Problemas en el pago de salarios,5
+a8cf977f-1933-4ba2-8cdb-78aec982a894,Marcio Bastida Portero,+34 987 363 561,0,30,8,4,7779,6864,22,0,1,1,1,1,1,0,1,0,2,operaciones,exceso de tiempo de espera,4
+91a71f54-196c-4c15-afc8-12136ee37393,Manu Comas Castellanos,+34873 075 836,0,47,18,13,8456,3276,26,0,1,1,0,1,2,0,1,0,3,operaciones,Demasiados viajes cancelados,4
+e4f60a26-9b2d-4124-8598-e94db336da17,Víctor Pastor-Huerta,+34843889204,0,43,10,3,7727,27740,20,17181.9376497626,1,0,1,1,2,0,1,0,0,operaciones,Exceso de trabajo acumulado.,5
+6b74ccfe-b91b-45fb-ad9b-8b359123135a,Isaías de Gutierrez,+34881074413,0,34,1,0,8323,4240,10,3101.87182032736,1,1,1,0,1,1,0,1,0,recursos humanos,exceso de trabajo,3
+70bf09c3-7f4d-4bac-95eb-cc6663d2d137,Bernardino del Aguilera,+34873 23 41 09,0,45,8,5,7558,11692,37,7250.39030904939,1,1,1,0,1,0,0,1,0,finanzas,Problemas con el pago de salarios.,4
+d58ce347-ecdc-4d26-873a-3fc5b3fd94a1,Feliciano Goyo Guillén Giralt,+34 988 51 56 39,0,49,9,4,8396,3135,5,2080.82457096642,1,1,1,1,0,0,0,0,2,finanzas,No se me ha pagado el bono.,4
+89c1895a-a785-4f29-a478-1a2c30fd6a16,Severiano Gomez Calzada,+34 847 123 176,0,44,16,9,8044,12420,15,5424.73082768856,1,1,1,1,2,0,0,0,0,operaciones,tiempos de espera excesivo,5
+236a8cff-4e7d-4bda-bdf4-91fd58db363f,Jacinto del Rosado,+34 822 871 785,0,37,6,2,6914,6538,14,4081.12051390734,1,1,1,1,0,0,0,0,1,operaciones,Exceso de trabajo,4
+55813728-31b9-41db-9bb3-e1b123bd845e,Régulo Pujadas Pellicer,+34842 96 65 04,0,28,6,5,10041,21049,31,0,1,1,1,0,1,0,1,1,2,finanzas,Falta de pago,5
+fd5e17d6-a159-463f-b048-0b2c2d8aa795,Rufino Soler Requena,+34825 78 64 03,0,38,17,17,8813,8310,30,0,0,1,1,1,2,0,1,0,3,recursos humanos,Esperas muy largas en cada viaje,3
+aadfae5d-f748-4856-ae74-2b32a0baafb4,Pepe Arnaiz Medina,+34 872 651 494,0,35,4,2,6244,13888,14,10922.4347784658,1,1,1,1,2,0,0,1,0,finanzas,Bono por desempeño no pagado,5
+9044430c-b8b6-4de9-9bc8-0f426e25a100,Flavio Benitez Salvà,+34 879 041 861,0,32,11,0,8411,16920,18,14584.8700460764,0,1,1,0,1,0,0,0,1,operaciones,exceso de trabajo por largas distancias,4
+ef1ce6a0-7509-429b-9170-fb95b2be53c1,Celso Verdú Berrocal,+34 886 66 77 52,0,27,5,5,7261,8670,10,6158.56005878495,0,1,1,1,1,1,0,0,2,operaciones,viajes cancelados,4
+7f782845-f83b-45d3-9f65-dc7e746256f5,Anastasio Valentín Andreu,+34 924 528 503,0,41,1,1,8162,11205,27,7617.7361410369,0,1,1,1,2,0,0,0,0,finanzas,Bono por desempeño muy bajo.,3
+f62faf95-1610-4479-a3d1-ecbd60dae2b2,Narciso Santos Sacristán,+34983 082 101,0,32,1,0,8406,4060,20,0,1,0,0,1,1,0,0,0,0,recursos humanos,Bono por desempeño cero,3
+abd0df1d-f536-4fa7-a197-fb7d06e5a516,Raúl Llorens Cuevas,+34901 23 89 40,0,20,1,0,8996,27324,27,19420.9573558666,1,0,1,1,2,1,1,0,0,operaciones,viajes cancelados,4
+957af53e-0340-42f9-9aba-8b4bfa24a145,Maximiliano Ribes,+34 971448959,0,34,0,0,6998,7891,13,5448.19291139783,1,1,1,1,0,0,0,1,0,finanzas,Problemas de pago frecuentes,5
+3fd30657-9156-4603-9d54-9c3a610dc23d,Miguel Escobar-Daza,+34 981 715 165,0,53,18,0,7101,25500,30,0,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+6e95eb02-2d67-4d34-9628-480024a06a7a,Abilio Samper Figuerola,+34842 507 777,0,28,3,3,8121,6400,20,0,1,0,1,0,1,0,0,0,0,finanzas,No hay bono por desempeño,3
+4ea65376-e7c4-4f8a-ad05-b23497c84e67,León Perez Álamo,+34977902709,0,36,9,4,9521,4251,13,2522.52035212697,1,1,1,1,0,0,0,1,0,finanzas,Problemas de pago constantes,4
+79353f91-7cc6-48a2-b56e-3cada6521a17,Cecilio Andres Juárez,+34902015727,0,40,5,5,6058,19776,32,14692.9978717466,1,1,1,0,2,1,0,0,0,operaciones,Viajes cancelados sin aviso,3
+10b90182-91a6-476c-aeb7-f1efa027e590,Cleto Barrena,+34871 342 363,0,32,5,4,6678,11098,31,9910.56823348293,0,1,1,1,2,0,0,1,1,finanzas,Problemas de pago,4
+bcb8c5f5-44f8-4561-85e5-5aaef3cea6c0,Erasmo Fuertes Noriega,+34744 42 90 45,0,35,0,0,8018,5796,21,4513.37571114679,0,1,1,1,2,0,0,0,1,finanzas,Exceso de trabajo,4
+a2d56502-498d-4e21-bff9-c9f0962f3d1f,Tadeo Milla Badía,+34810747331,0,30,5,4,7891,8526,21,0,1,1,1,1,1,0,0,1,0,finanzas,Bono de desempeño inexistente,3
+99c48af2-21bf-411b-a6bb-30cf1a7826d3,Ibán Ureña Zaragoza,+34 744 011 504,0,32,7,0,8719,10962,29,0,1,1,1,1,3,0,0,0,1,recursos humanos,Falta de pago en mi bono,4
+a1d9c08f-65dd-46f7-877a-a9ec4a534131,Cirino Infante,+34 846 881 057,0,28,6,6,8496,7238,22,4920.95720250958,1,0,1,1,3,0,0,0,1,recursos humanos,exceso de trabajo,3
+6b016862-494c-4d8c-917a-f6c0b6630ba9,Bernabé del Tamarit,+34882 975 712,0,41,1,0,6058,7452,18,5191.12728986294,1,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo de espera.,4
+05f97a7f-a7da-4c1b-959e-0538299e3b88,Juan Bautista Miguel Egea,+34 975077979,0,40,15,9,7341,5157,9,0,1,0,1,1,2,1,0,0,3,recursos humanos,exceso de quejas previas,4
+b3664cb5-5c24-4901-889f-616b1ab0b8ac,Tomás Jaén-Montero,+34 957077242,0,20,0,0,7388,17459,17,13162.331300628,1,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo de espera.,4
+0e81a52e-e4cb-4343-b892-d02da2335c87,Tiburcio Echevarría Campos,+34 948756586,0,41,7,3,8049,8211,21,0,1,1,1,1,2,0,0,0,0,operaciones,cancelación de viajes,3
+9c4f3c7e-ab1c-45db-8e6d-390911df2a1e,Feliciano Robledo Mercader,+34 877 971 527,0,41,4,1,6732,10971,23,9977.07223625673,1,1,1,0,2,0,0,1,1,finanzas,Falta de pago de bonificaciones,4
+39fada89-7ad9-4117-b927-1d5b3b71addd,Leoncio Lucho Fabra Pedrosa,+34942313038,0,56,29,12,7948,26082,27,20982.3962049226,0,1,1,1,1,0,0,0,1,finanzas,Salario bajo y sin bono de desempeño.,4
+84f0f1c4-ef65-4d52-bf9a-640df48596b5,Benigno Comas Palmer,+34984 666 426,0,56,19,13,9357,8510,23,5606.52835955231,1,1,1,1,2,0,0,1,0,finanzas,Siempre hay problemas con mis pagos,4
+babf86cf-e15e-4618-9f12-c144c6434824,Félix Cabañas Mayoral,+34 980 321 997,0,42,8,1,7667,8175,15,4762.86703502989,0,1,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,3
+bc1f11d2-37b5-4e05-8b0b-cce457be8395,Paco Barranco-Farré,+34 884 34 66 17,0,43,11,4,6999,4500,20,0,0,1,0,1,0,0,0,0,0,operaciones,viajes cancelados,3
+5b32ec68-afa9-44d0-9092-2d0b499208aa,Aureliano Coll Hernandez,+34 927038225,0,33,11,2,7882,13125,21,7414.1547895011,1,1,1,1,2,0,0,0,1,finanzas,Sin pago correspondiente,3
+2ca1b9bf-6298-4128-9418-7b67a62b5bbf,Santos Jáuregui Díez,+34 983 674 150,0,46,14,10,9121,11951,19,7407.17947846908,1,0,1,1,2,0,1,0,1,operaciones,Exceso de tiempo de espera.,4
+b5e1dea9-727c-4aea-9da3-0771a6ef7c80,Moreno Carranza,+34881 53 22 18,0,34,2,2,7185,5542,17,4173.79201630453,1,1,1,1,1,1,0,0,2,finanzas,No recibí mi bono mensual.,5
+a86850db-43e1-4cfb-acc2-9d7dffb47b57,Maxi Iglesias,+34 978 360 199,0,49,30,18,8238,9039,23,6818.69469031716,1,1,1,1,1,0,0,1,2,finanzas,Problemas de pago recurrentes sin solución,4
+975347df-7581-4c22-a454-563e3d27939b,Adolfo Pastor Reguera Ibáñez,+34983 47 57 92,0,50,4,3,9470,11784,24,6469.57245641775,1,1,1,1,2,1,0,0,0,operaciones,Viajes cancelados constantes,4
+1d78e1fe-9fc7-409f-bdcf-a7917c6afcfb,Angelino Redondo Palau,+34925960568,0,54,30,28,8941,16524,36,9404.40691805845,1,1,1,1,2,0,1,0,0,operaciones,exceso de tiempo de espera,4
+a02472c1-7072-48d6-862a-16afe50e98b0,Raimundo de Domínguez,+34942 48 41 58,0,26,7,0,6704,9840,12,6240.2103324217,1,1,1,0,2,0,0,0,0,operaciones,Exceso de viajes cancelados.,3
+622c9f9c-b256-435e-820a-2e336b5a5f08,Abel Apolinar Perez Sáez,+34877 29 73 06,0,35,12,7,7801,4046,14,2633.87952148326,1,0,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+3985a42c-875a-42ea-b092-23ff13470f30,Nicodemo Céspedes,+34 883 12 59 00,0,40,18,14,8831,2075,5,1182.85375234693,1,0,1,1,3,0,1,0,0,recursos humanos,exceso de trabajo,4
+8d343b9f-6d30-415d-8f70-737e7a31dc0a,Loreto de Malo,+34 921 45 52 18,0,28,0,0,9331,3915,29,3144.14616681198,1,0,0,0,1,1,1,1,0,recursos humanos,exceso de trabajo,5
+00633f4c-d275-4018-958f-ce46b972f83a,Trinidad Pomares-Catalán,+34901978756,0,47,23,19,8961,7784,14,0,1,1,1,1,1,0,0,0,1,finanzas,Retrasos en pagos de bono,4
+e082d57e-a695-4f9d-9da8-b7e85ebf4d6a,Tomás Requena Martin,+34922 309 614,0,46,5,3,9356,6350,25,0,1,1,1,0,1,1,0,0,0,operaciones,viajes cancelados,3
+22c11c51-702c-45c1-ba6a-62d48d34c9ad,Reynaldo Roldan-Flores,+34977525714,0,28,9,3,9290,28000,40,23005.8911954567,1,1,1,0,0,1,0,1,0,recursos humanos,Salario no recibido a tiempo.,4
+0e46c730-23ea-440f-ad51-c330e08f8cec,Wilfredo del Tello,+34 888 085 944,0,33,14,7,8614,13675,25,10207.6976607224,0,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo en espera.,4
+0935b1db-b46d-4929-9196-48430e13ab87,Leonardo Cánovas,+34 854654676,0,37,10,8,9199,7308,18,6451.85600363731,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+375ef09a-9005-42d2-b607-9e030fe2ede6,Ambrosio Iglesias-Carro,+34 974 20 35 58,0,39,11,7,10147,15480,20,0,0,1,1,1,1,1,0,0,0,operaciones,Sin bono por desempeño,3
+6fa4e8e5-5455-4b85-9b89-75a3c970e066,Teobaldo Roda Guitart,+34900 037 194,0,34,7,1,8354,5634,9,4061.63088635736,1,1,1,1,2,0,0,1,2,finanzas,Problemas frecuentes con mi salario,5
+1760ac35-d1fe-4558-9c90-8f8980d48fcc,Jerónimo Naranjo Cid,+34881667362,0,38,4,4,7135,3817,11,2966.15633843578,0,1,1,0,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+48dbd037-9353-40dc-bbf1-358f5fb2b688,Faustino Linares Ureña,+34 983 87 91 27,0,55,9,1,7928,15504,19,11948.2043771779,1,1,1,1,0,0,0,0,0,finanzas,Salario bajo para tanto esfuerzo,4
+d5df197c-1cdc-4738-94c7-ae1b9af984d5,Ildefonso Máximo Amigó Girona,+34 822034857,0,48,10,6,6497,12350,19,8619.75326632459,1,1,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+0d8250f4-4d67-49b3-9bb5-88d6cb389e13,Gastón Reynaldo Gracia Castell,+34902455476,0,34,15,3,7658,2268,3,1714.77898515655,1,1,1,1,2,1,0,0,2,operaciones,viajes cancelados,5
+d510c477-cfd2-43f8-99d8-0852d87989bf,Baltasar Melero Murcia,+34957 79 49 33,0,33,11,1,7869,5184,24,3568.07109010579,1,1,0,1,1,1,0,1,0,finanzas,Falta de bono de desempeño,4
+1fe2bad2-d125-4627-9b7a-8d1f4adcc124,Agustín Ballesteros Tur,+34 720 05 24 63,0,54,18,2,7809,18492,23,11138.2832576126,1,0,1,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+74cb1006-5904-418b-9d57-aaafe68e6332,Julio Samper Galván,+34 925 244 285,0,34,12,2,6738,8025,15,0,1,1,1,0,2,0,0,0,0,finanzas,Salario base insuficiente,3
+6432375d-27c4-4d34-818c-a244550696f9,Jaime Juliá-Salinas,+34702550608,0,42,17,2,8173,276,4,210.991250769483,1,1,0,1,2,1,0,0,3,recursos humanos,exceso de trabajo,4
+d80ebd77-ad89-426a-8957-6bf27e464180,Marcial Saura,+34 984 677 833,0,37,11,3,8462,10368,18,9175.70624797521,1,1,1,1,1,1,0,0,0,operaciones,exceso de trabajo,4
+41ad283a-94e7-4ec8-871e-b5c4d517f6e7,Emigdio Ochoa Garay,+34879144671,0,34,6,5,8706,3126,6,2297.15855902611,1,1,1,1,0,0,0,0,2,finanzas,Problemas de pago,4
+8823824d-7c78-4819-aef0-1131f4bb5b55,Conrado Calvo Padilla,+34849154861,0,40,19,11,7230,5984,22,4911.94276744463,1,0,1,1,2,0,0,0,1,recursos humanos,exceso de trabajo,4
+f0b47bde-0cd2-4899-ba30-b2f1623e39c6,Nando Berrocal Vicens,+34917725628,0,61,27,25,8479,8976,11,5943.3782551471,1,1,1,1,2,0,0,1,0,finanzas,Retraso en el pago de bonificaciones,4
+ccca0567-f388-4f65-a8f6-5a997f3bfb52,Héctor Mendez Guzmán,+34 955 37 67 00,0,30,10,6,7840,2222,22,0,1,1,0,1,1,0,0,0,1,finanzas,Bono no pagado,4
+d7a7d790-05b9-43c1-ab34-c09c4dcb19cd,Jose Ignacio Castillo Ríos,+34 887455899,0,52,0,0,6943,5796,9,3662.40715337207,0,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,3
+d5df1dad-1773-456d-a748-4e46978f6bc5,Asdrubal Vilalta-Vila,+34847 13 63 74,0,32,2,2,8905,6953,17,3721.03126163584,1,1,1,0,1,0,1,0,2,operaciones,Trabajo excesivo y sin recompensas justas.,4
+0918a98d-c86d-4421-8f99-5d86446dae71,Ramón Luís Romero,+34 877 15 70 39,0,31,6,3,7319,14696,22,0,1,1,1,1,1,0,0,1,0,finanzas,Problemas con el pago de salario,4
+1bcb15cf-e150-4b8b-a3ec-17b1023c8e50,Donato del Cortina,+34 842987926,0,24,5,4,9111,20570,17,14838.7877237036,1,1,1,1,2,0,0,0,0,finanzas,No recibo mi salario a tiempo.,5
+ac3ef59c-879e-420d-8e35-7252eda5a550,Esteban Lucho Lasa Rosales,+34 820 81 55 51,0,43,10,0,8447,3150,15,0,1,1,0,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+9189a9c8-e7a5-446c-9232-57bd2dbb47f4,Julián Guijarro Pedrero,+34 643 015 540,0,25,3,0,7380,10262,14,7309.38786365488,0,1,1,0,2,1,0,0,1,recursos humanos,demasiadas horas de espera en el camino,3
+93e5edcd-b75b-4447-afd0-1da2dff862d3,Bernardo Pina Naranjo,+34 880585459,0,30,6,4,7193,13340,20,7864.6233941611,1,1,1,1,2,1,0,0,0,finanzas,Pagos tarde y errores en salarios.,5
+678fabb5-d5d3-4ec6-9f41-147d0c453192,Aitor Casares Llorens,+34 811 97 87 39,0,40,20,7,8949,3384,36,0,1,1,0,1,1,0,0,1,0,finanzas,Problemas de pago,4
+02affc19-8db6-4e36-a8dc-90f142a0dd1e,Leonardo Valle Palmer,+34 844 598 204,0,49,7,6,7086,11530,10,7343.14969824636,1,1,1,1,2,1,0,0,1,operaciones,Demasiados viajes cancelados,3
+08e43d42-1f20-43a4-86a5-cf6f38f865ed,Godofredo Alemany Amaya,+34858 310 408,0,26,6,6,10452,12753,13,0,0,1,1,1,1,0,1,0,1,operaciones,Exceso de tiempo de espera,4
+acba4810-5d2b-4150-9279-41a1769b45dc,Ibán Puig Perez,+34847 77 22 60,0,43,22,17,8336,8437,13,5589.09819546808,1,1,1,0,3,0,0,0,0,operaciones,exceso de tiempo de espera,4
+fde73144-9c89-4a51-9696-0b7ad1991210,Gabriel Prado Peñalver,+34942 172 418,0,48,5,5,7494,19240,26,15529.2028588623,1,1,1,1,2,0,0,0,0,operaciones,Exceso de trabajo,5
+8c1192dc-5219-4829-bdfb-e3a1e11e9226,Adán Juan Bautista Padilla Pedraza,+34 945 80 61 15,0,38,14,5,8044,14092,26,0,1,0,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+bfcfc617-1bfb-4324-b5ae-abe20ba9869b,Reinaldo Jaén Figueroa,+34 920 68 46 66,0,52,4,2,6461,1495,13,1040.70305139953,1,0,0,1,1,0,1,0,3,recursos humanos,exceso de trabajo,5
+33567ff3-e04c-4353-9ef3-a8bfcb8716ff,José Mari Carrillo Alcalde,+34 901937759,0,34,12,2,9134,5026,14,4236.30351638574,1,1,1,1,0,0,0,0,0,operaciones,exceso de trabajo,4
+e48ee002-aec5-4e4f-955b-179624e38569,Graciano Ramos Guillen,+34981 006 415,0,41,1,1,7423,1539,19,1254.59726974064,1,1,0,1,1,0,1,0,1,finanzas,Problemas para cobrar el bono,4
+04fca030-e246-4af8-b4bb-9ded26f14f6f,Efraín de Vargas,+34824200350,0,30,11,9,8393,1212,12,1036.42838387161,1,1,0,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+63cebcc0-bfe4-4826-bcc0-d807066bed46,Leandro Blazquez Piñeiro,+34 880 004 372,0,35,6,0,8417,12555,27,9757.41928458253,1,1,1,1,1,0,0,0,1,finanzas,Salario muy bajo para mi trabajo,4
+60eff5cd-5046-40da-9f5e-80e69f850ac9,Gervasio Palomo-Andrade,+34 971 876 833,0,51,0,0,8962,8302,14,0,1,1,1,1,2,0,0,0,0,finanzas,Sin bono por desempeño,3
+16486e99-4e0d-4644-956a-e91d5a864d69,Josep José Luis Moliner Bonet,+34803 489 268,0,49,1,0,6145,19314,29,15274.204467157,0,0,1,1,2,0,0,0,1,finanzas,Problemas de pago frecuentes,5
+c1fa8ea2-c53f-492e-abb3-dddd65310a99,Jonatan de Matas,+34 943119627,0,29,3,3,8707,8466,17,4582.77249539601,1,1,1,1,3,0,0,0,0,operaciones,exceso de trabajo,3
+d946510b-4c54-475f-8e10-13b7c51ad1e8,Porfirio Cantón Ribas,+34 900 420 956,0,48,28,21,9463,4056,13,0,1,1,1,1,1,0,1,0,2,recursos humanos,Exceso de trabajo,4
+b5b6b012-7f90-49bb-8e03-568462d6ca3c,Chema Danilo Barba Ayllón,+34 712421084,0,36,16,7,7269,11883,17,7153.19732646568,1,1,1,1,1,1,0,0,0,finanzas,Necesito mejor atención en pagos.,4
+83c56a97-83bc-4057-bca3-7705cc4431f8,Jordi Arroyo Esteve,+34 806894822,0,35,2,1,7251,24956,17,0,0,1,1,1,2,0,0,0,0,finanzas,Salario bajo y sin bono,3
+fd727615-bc7c-4397-9952-823402a08113,Gilberto Solís Peinado,+34 986 372 457,0,28,8,5,7073,21120,20,16664.3841992511,0,1,1,1,1,1,0,1,2,operaciones,exceso de trabajo,4
+4dd5712c-985f-4c3e-a3a0-03c65c26ed0b,Jacobo Carmona Marí,+34 877 107 407,0,56,11,1,9815,7175,25,0,1,1,1,1,1,0,0,0,3,recursos humanos,exceso de trabajo,4
+dc8494cc-6cb3-47e1-b663-c684bc11245e,Bruno Calleja-Mate,+34 888884951,0,33,0,0,7370,4620,11,2690.21146454334,1,0,1,1,3,0,0,1,0,finanzas,Problemas de pago frecuentes,4
+fd47552d-f5b5-48c2-8778-404b5e238928,León Navarrete Sandoval,+34 979462486,0,55,13,7,7527,3230,19,2126.11949137922,0,1,0,0,2,0,0,0,1,operaciones,tiempos de espera excesivos,3
+06e894f8-cae6-48ad-b6a8-f92a61ebe2a1,Edgardo Mateos-Camino,+34 846955261,0,48,7,5,7399,12850,25,8801.10379143244,1,0,1,1,1,0,0,0,0,operaciones,exceso de trabajo,5
+83cd01db-aea3-41f2-8b18-42fd3dc83490,Remigio Ocaña Arco,+34 926859157,0,50,15,1,8436,22242,33,15533.7105578544,1,1,1,1,1,0,1,0,0,operaciones,Exceso de tiempo de espera en viajes.,4
+b7fd3d40-c6fa-4885-9d56-ff425fdaf1d0,Amado Menéndez Nadal,+34842 20 02 16,0,55,1,1,7077,324,4,262.962267099875,1,1,0,0,1,0,0,0,0,finanzas,Faltan pagos en mi salario,5
+6674b674-cae5-4300-9032-b8b0b31756bf,Hector Taboada,+34861932392,0,36,6,1,8367,14664,26,7463.34918678557,1,1,1,1,1,1,0,0,3,recursos humanos,exceso de trabajo,4
+e751ec0f-402b-4da2-a1da-f675dff8e3af,Isidro Mora,+34 941109206,0,26,7,4,7140,12879,27,7013.03585826276,0,1,1,1,2,0,0,0,0,finanzas,Problemas de pago,4
+0fe987c2-376f-4ea3-a4b8-dbb2dd89623f,Rafa Ferrán Suárez,+34827 84 16 92,0,56,12,2,9843,16080,16,13259.3526631894,1,1,1,1,2,0,1,0,0,recursos humanos,Exceso de tiempo de espera,3
+0c8db4c3-1cb1-4e5b-ac02-7f624393d028,Hernán Vinicio Delgado Rocha,+34879 93 23 63,0,20,0,0,6894,7574,14,0,1,1,1,1,1,0,0,1,0,finanzas,Problemas de pago frecuentes,4
+60ba176f-0f82-4e24-9310-9c5294ab4f31,Elpidio Rodrigo Vaquero Serrano,+34800 60 03 61,0,48,6,5,6888,21843,27,15195.2429576691,1,0,1,1,2,1,0,0,0,operaciones,viajes cancelados,3
+79093941-8b31-48ab-bc5c-3d39f211d238,Lázaro Sancho Barrios,+34820 45 46 80,0,41,16,2,8508,15717,31,0,1,1,1,1,2,0,0,1,0,recursos humanos,Problemas en los pagos recurrentes,4
+d1472a71-d8d4-4afb-a8c3-bce6ac9f631e,Raimundo Fiol Nieto,+34945 88 63 79,0,29,2,0,7470,5526,9,0,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+d63a02c8-610f-447e-b6f6-b5b75655e4be,Pelayo Yáñez Oliveras,+34947817272,0,49,12,1,11627,18445,35,11831.471505835,0,1,1,1,1,0,0,0,0,recursos humanos,Exceso de trabajo,4
+4184bbe5-1f8c-45be-853e-18d8c3374d53,Plinio Cazorla Mata,+34 988 20 82 26,0,63,21,6,6971,6000,8,0,1,0,1,0,3,0,0,1,0,finanzas,Salario insuficiente,3
+0bed4139-a536-4f8d-8a16-2a2f690ddec8,Édgar Heraclio Bueno Manzanares,+34924 11 19 10,0,51,3,0,7848,16515,15,11920.3809026064,1,0,1,1,1,0,0,1,1,finanzas,Problemas de pago,5
+2ed5d52c-1f08-45a4-9f49-1978db4aaf77,Amado Yáñez Soler,+34944 840 146,0,53,9,5,7013,6591,13,0,1,0,1,1,1,0,1,0,0,finanzas,Problemas de pago persistentes,4
+4fdf1a56-2781-4f57-a6d3-0e5ad0875e6d,Lorenzo Rincón Ramos,+34 873 310 997,0,57,0,0,7354,22477,19,15446.7922378013,1,1,1,1,1,0,0,1,0,finanzas,Problema de pago,4
+601ab52e-61d9-4c59-ac7b-e095793202dc,Eladio Victor Manuel Ayllón Reina,+34922254914,0,41,16,7,10959,18720,24,13657.5333800526,1,1,1,1,1,0,0,0,0,operaciones,Exceso de tiempo de espera,4
+663e6247-bde9-41d9-9ba9-a310748a1c85,Valero Carbonell Requena,+34928 345 456,0,31,8,3,8577,4320,20,2924.69340758176,1,1,0,1,2,0,1,0,0,recursos humanos,exceso de trabajo,3
+00412c0d-8952-44cd-b887-745310b1e1dc,Heliodoro Garcia Carrillo,+34951 82 08 40,0,57,28,25,9007,11500,20,8661.14151389301,1,1,1,1,2,0,0,0,2,finanzas,No me pagaron mi bono,4
+43e84ef6-8cd9-4b37-a3af-4d3bf3607e93,Amador Garriga,+34 928 82 99 74,0,33,6,1,8944,2321,11,2096.12278326346,1,0,0,1,0,0,0,0,0,recursos humanos,Bono de desempeño cero,3
+87929396-bdb9-405b-b9e8-e70b4839928b,Fausto de Ibáñez,+34 944027935,0,50,15,2,8423,13230,18,9927.96829222978,1,1,1,1,2,0,0,0,3,finanzas,Salario bajo para carga de trabajo,4
+ed7e1182-f7ba-4a5b-a6ee-16f7a96ffeaf,Moreno Velázquez-Cid,+34823 751 297,0,20,0,0,7947,10164,22,0,1,1,1,1,1,0,0,0,2,recursos humanos,demasiadas quejas previas,5
+93531785-75a4-4d84-867b-35dc945cf129,Raúl Lucena,+34876 03 27 74,0,29,8,2,7108,4496,8,2341.34649056008,1,1,1,1,2,0,1,1,0,finanzas,Problemas de pago,5
+717ff120-346d-45b1-93ed-5ef1a4279235,Timoteo Casanovas,+34 822 978 671,0,43,3,2,7433,2650,25,1424.99934938671,0,0,0,1,1,0,0,0,0,finanzas,Salario no depositado a tiempo,4
+ac4e1d7c-4ed7-44b5-bd4c-cd72d06108ba,Porfirio Albero Portero,+34842 96 72 21,0,35,0,0,8565,7050,10,4833.73848432475,0,0,1,1,2,1,0,1,1,finanzas,Problemas de pago recurrentes,4
+f5cf742e-f647-434e-a2c2-406bb4b192ac,Andrés Felipe Farré Macias,+34901 271 428,0,42,16,4,7814,7170,15,0,1,1,1,1,0,0,0,0,2,recursos humanos,exceso de trabajo,4
+0b544308-6056-4aaf-9d30-92ce850cb095,Cristian Tudela Gomila,+34848 874 908,0,48,11,10,8346,2490,30,1862.91967873962,1,1,0,0,1,0,0,0,1,operaciones,Exceso de tiempo de espera,5
+69611b5a-4723-4707-8574-c35dcb6886e5,Juan Luis Fidel Toledo Cerezo,+34708 680 264,0,46,17,6,7136,7272,18,5222.00064518329,1,0,1,0,1,0,0,0,0,finanzas,Problemas de pago recurrentes,4
+4bc55dcd-d6bb-4a8a-8642-43c76578f094,Matías Córdoba Llorente,+34 979 50 10 78,0,32,8,1,9053,5496,24,4214.51490118988,1,1,0,0,2,0,0,0,0,recursos humanos,exceso de quejas previas,4
+5de0971b-2305-430a-8d36-4a2824bcd628,Gerónimo Bosch Novoa,+34 878 14 83 94,0,41,14,1,7778,234,3,163.353560394148,1,1,0,1,1,0,0,0,0,recursos humanos,bajos bonos por desempeño,3
+efe12bdf-81b6-4737-8ea0-df4a5cc906ef,José María del Yuste,+34884 01 83 20,0,32,2,1,7969,10026,18,0,1,1,1,1,3,1,0,0,3,recursos humanos,demasiadas quejas previas,4
+d8747397-81a5-4ec3-bbfd-fe9538895b70,Florentino Paco Lobo Fabregat,+34881 823 852,0,51,9,1,7224,15168,32,0,0,1,1,1,1,0,1,0,0,finanzas,No hay pagos a tiempo,5
+275de451-e071-44bc-831b-82552c9aeba4,Leonardo Frías Abril,+34 828 901 221,0,34,6,5,8862,16452,18,9399.66632926602,1,1,1,1,1,1,0,1,0,recursos humanos,exceso de trabajo,4
+7edd3402-940c-4691-9e65-2e85a56e5acf,Rafa Sabater Rodriguez,+34823 77 35 45,0,47,5,3,8244,2340,13,1540.1876803078,1,0,0,1,3,1,0,0,1,finanzas,No recibo mi bono mensual.,3
+b1d32421-52d5-48df-9474-3ac1d009494a,Isaac Alvarado Quiroga,+34 872261703,0,43,8,5,6250,9988,22,7332.18269180405,1,0,1,1,1,0,0,0,3,operaciones,Demasiados viajes programados por mes.,2
+478728a4-dc2b-49aa-8adc-5151eb2a444b,Silvestre Costa García,+34885 04 23 09,0,33,11,2,8700,3794,7,0,1,1,1,0,2,0,0,1,0,finanzas,Problemas de pago,4
+c35bad21-5b78-48fd-919a-b1653be9758a,Domingo Dani Borrell Vergara,+34820 99 08 19,0,47,15,2,9051,13630,29,8976.74385089985,1,1,1,1,1,0,1,0,3,recursos humanos,Exceso de tiempo de espera,4
+2af0a187-fe3c-41e4-b5ba-c8ed93e9e9a9,Samu Albero Garay,+34 847 734 924,0,57,18,17,8733,6144,12,5229.95405494219,0,1,1,1,2,0,0,0,1,recursos humanos,No me han pagado mi bono,4
+365b495c-1b26-46e9-9e71-efb6e304387e,Alonso Escribano-Gimenez,+34 849 43 45 52,0,52,7,3,6953,9384,12,5723.60818482096,1,1,1,0,1,1,0,0,0,recursos humanos,Exceso de trabajo,4
+4948660c-9d94-4fc8-b0f4-eb8689ef2db5,Maxi Simó-Pont,+34 947830741,0,50,9,4,9011,6790,35,0,1,1,0,1,2,1,1,0,0,recursos humanos,exceso de trabajo,4
+7675cf08-38dd-4788-ac3c-6d36db29a133,Maximiano Ayllón Aroca,+34721 91 90 30,0,43,14,11,8487,2184,12,1565.58126413617,1,1,0,0,1,0,0,0,0,operaciones,exceso de trabajo,3
+98d6afb0-9569-48c9-8eac-5df734ecd447,Edmundo Cortes,+34949 647 134,0,24,2,0,8423,10982,17,7436.205565675,1,1,1,1,2,0,1,1,0,operaciones,demasiado tiempo de espera en los viajes,4
+a06812ee-548b-47e0-bcdf-0cec82f7ab0d,Atilio Hernández,+34 822201170,0,46,6,2,8313,1224,9,0,1,1,0,1,1,1,0,0,0,operaciones,Largos tiempos de espera,4
+11970d80-e36d-490f-b8c4-4476e0a60f19,Toni Querol Andrade,+34843314965,0,35,7,4,10098,23225,25,15872.7368234184,1,1,1,1,1,0,0,0,2,finanzas,Bono por desempeño inexistente,4
+2b911e10-908a-482b-b988-2be4a3443b26,Sabas Fuertes Cobos,+34944 230 205,0,39,5,1,8184,11808,8,0,1,1,1,1,1,0,0,0,0,finanzas,No hay bono de desempeño este mes,3
+716c868e-1a80-474b-8cff-44688b85b5b0,Severiano Ponce,+34 987979207,0,32,7,7,8227,22977,23,18197.3626693511,0,1,1,1,2,0,0,0,2,finanzas,Bono por desempeño no calculado,3
+7b8cb7e3-0980-4a63-bf31-2de43a140fe5,Virgilio Amor Vigil,+34 826 62 88 66,0,33,3,1,8219,3984,12,3036.29847833424,1,1,1,0,1,0,0,1,0,recursos humanos,Problemas de pago frecuentes,4
+9ef9affb-0c6b-4762-91ab-06bbb1318eec,Victorino Casanovas Sanmiguel,+34844693893,0,61,22,16,7964,19348,28,13979.9019668052,1,1,1,1,2,0,1,1,1,finanzas,Sueldo no llega completo,5
+b3fa5081-52c1-4bc9-a00a-4059bdce0077,Florencio Teobaldo Noguera Cifuentes,+34811598553,0,30,8,2,7738,3835,5,2780.81214855898,1,1,1,0,2,0,0,1,0,finanzas,Problemas de pago frecuentes,5
+8d9bb292-0d70-44d7-82be-b2d4fc8631ea,Emiliano Solé Laguna,+34803 40 28 35,0,46,9,4,8668,22850,25,16458.3764040921,1,1,1,1,2,0,0,0,1,operaciones,exceso de trabajo,4
+987b75a5-cf3e-4bef-83d3-7513e21e1caa,Cebrián Simó,+34 923 73 42 04,0,51,5,3,9568,2024,8,1366.29294559258,1,1,1,1,2,0,0,0,3,finanzas,Problemas recurrentes en pagos,5
+0804015b-851c-4841-bb3a-29775fcad186,Jose Carlos Bermúdez Otero,+34978798024,0,60,3,0,7543,18020,20,13291.6131835384,1,1,1,1,1,0,0,1,2,recursos humanos,No me han pagado a tiempo.,5
+9fda3bbe-f6cc-4256-bf3a-ec11035ee578,Baudelio Ocaña Sola,+34 744 113 627,0,33,1,1,8871,18720,30,0,0,1,1,1,2,1,0,0,1,recursos humanos,bajo bono por desempeño,3
+2d145eee-e445-4922-88e6-00ce297bfb80,Jacinto Dueñas,+34 710 742 735,0,47,3,0,7992,7740,15,0,1,1,1,1,2,0,1,0,3,operaciones,exceso de trabajo,4
+aca59c09-86de-4df0-9199-531a5c93d23d,Kike Gimeno Valencia,+34 871 92 18 53,0,54,16,2,8053,7190,10,6117.61593156966,0,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,5
+b36134cd-73cc-4425-ad9d-8f62e13e89ea,Tiburcio Sierra Borja,+34 972 777 197,0,45,17,17,8670,11730,23,6663.83804455113,1,1,1,1,2,0,0,0,2,recursos humanos,Problemas de pago frecuentes,4
+503bac40-ba39-4e9a-85db-de147760c560,Gonzalo Serra Navarrete,+34922 77 81 93,0,53,0,0,8777,12660,15,8606.65216200166,1,1,1,1,1,0,1,0,2,finanzas,No me han pagado el bono,4
+2390d8be-37f4-4cf3-94a4-4d8b16b93d8e,Natanael Belda Bertrán,+34 982732717,0,38,8,2,8496,4256,8,0,1,1,1,1,0,1,0,0,0,recursos humanos,exceso de trabajo,3
+82e5dca2-10e6-4f05-8e9e-3c60b9d8066b,Juan José Bernat Alonso,+34843702034,0,21,1,0,9238,3036,23,1953.10200982244,1,1,0,1,3,0,1,0,0,recursos humanos,exceso de trabajo,4
+625c49b4-7229-4ffd-b7d4-e6f7d53cd912,Sabas Mesa Puga,+34901 21 92 99,0,28,3,0,8140,8469,9,7146.38227694407,1,0,1,1,2,1,0,0,0,recursos humanos,Cancelaron mi viaje sin aviso.,4
+468b56a6-bf68-441c-ac21-92d947e12d94,Federico Miró Roselló,+34 923846344,0,56,10,9,8405,13021,29,8101.80456018193,1,1,1,1,2,0,1,0,0,operaciones,Largos tiempos de espera,4
+a2d7143a-660b-410d-ab92-1bce85b830fc,Severo Puga Quintero,+34 862 23 70 82,0,31,9,9,6542,23975,25,13753.464776408,1,1,1,1,2,1,0,0,0,finanzas,Bono de desempeño no reflejado,4
+54b3f80f-9ae9-44a4-aa69-b0aeef85bd89,Leandro del Costa,+34 985269136,0,34,11,2,7392,8253,21,5954.82177877519,1,1,1,0,1,0,0,0,0,operaciones,viajes cancelados,3
+613c7b59-4654-40ab-935a-486758c96f24,Pastor Gonzalez Vaquero,+34 884303845,0,37,12,3,6218,6120,20,4656.31656148325,0,1,1,1,0,1,0,1,0,finanzas,Dificultades para recibir mi pago a tiempo.,4
+bc34d84c-a379-4561-9ae7-176d6cef86a9,José María Correa Sevilla,+34972 752 704,0,46,5,3,8870,21634,29,0,1,1,1,1,3,0,0,0,0,recursos humanos,exceso de trabajo,4
+0f6aef95-d987-466d-8621-546e25eac940,Rogelio Campos Diéguez,+34849 181 501,0,24,2,2,7189,14425,25,11172.3410067156,1,1,1,0,1,0,1,1,1,operaciones,Largos tiempos de espera,4
+dae96f63-c83e-4db8-bd0d-5465ec9b0f77,Agapito Pineda Mas,+34807 76 87 09,0,36,16,2,7484,21168,18,15378.6914441628,0,0,1,1,2,1,0,0,0,operaciones,viajes cancelados,3
+d1aef598-3dc6-452f-a7fe-bd05c7454658,Édgar Montenegro-Quintero,+34 875 72 35 41,0,43,15,9,8806,11742,19,0,1,1,1,1,0,1,1,0,3,operaciones,tiempo de espera excesivo,5
+89313764-0969-4e33-bfea-4cfef3565cb1,Hernán Borrás-Aragón,+34 985990633,0,41,17,3,7015,25590,30,15410.203944657,1,1,1,1,0,1,0,0,2,recursos humanos,exceso de trabajo,4
+397201a5-0865-46ee-b5e2-7c95c694e4f3,Sabas Álvarez,+34 842559958,0,26,2,2,8830,20096,16,14391.320093838,1,1,1,1,2,0,0,0,1,finanzas,Bajo salario y sin bono,4
+6c9e7b11-f2b8-4674-959a-18a131284b51,Juan Pablo Luís Viñas,+34841 82 49 77,0,48,20,1,7598,13272,12,0,0,1,1,0,2,1,0,1,0,recursos humanos,Problemas con el pago del bono,3
+4d405678-d6b8-4946-a790-b3dc1e6acb34,Arturo Doménech Galván,+34 722 763 531,0,37,14,5,7850,8295,15,5511.36976861767,0,1,1,1,3,0,0,0,0,recursos humanos,Exceso de trabajo y largas horas.,3
+dd2c6d17-efcb-4279-b4e9-8d7584bde6f7,Kike Correa Salgado,+34866943142,0,39,7,7,6251,5866,14,5669.90246639509,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago persistentes,4
+2bf4f005-9408-403f-8387-3ab0fd641c15,Abilio Amador Mariscal Alcalde,+34 886 041 130,0,50,8,3,10170,17325,25,13548.6667040151,1,1,1,1,3,0,0,1,0,finanzas,Problemas de pago,4
+97f00d77-59dd-4b6e-a3fe-80b9fd4d43f3,Juan Francisco Moya,+34 887024540,0,32,4,3,7118,3384,24,0,1,0,0,1,1,0,0,0,0,recursos humanos,exceso de trabajo,4
+0632c578-444e-40b5-a7b8-f81771f30c3b,Lucho Díaz Galindo,+34 950 776 468,0,40,15,5,8680,9747,19,5812.76269446871,1,1,1,0,1,0,0,0,0,recursos humanos,Exceso de horas extras,4
+2e086dd8-34e6-4699-9e33-fde6865ad7fe,Epifanio Aguado Seguí,+34 920 470 936,0,41,12,6,7768,12691,37,0,0,1,1,1,1,0,0,0,0,finanzas,Salario base demasiado bajo,4
+3cfdac06-5b93-4860-ada5-5baa69a42bb6,Tristán Viñas Rey,+34922 94 46 96,0,38,14,13,9029,5236,22,4012.05850571473,1,1,0,0,0,1,1,0,1,recursos humanos,Viajes cancelados,5
+75dd0194-0899-4fb5-abdf-b5c9f964dca6,Eleuterio Medina Fortuny,+34847 60 70 72,0,25,1,1,9165,8150,25,6361.88043532553,1,1,1,1,1,0,0,0,0,finanzas,Falta de bono por desempeño,4
+8383d988-5b93-40e0-b4ca-effbad022a80,Jacinto Custodio Abascal Rosado,+34941571799,0,51,8,6,8006,10140,15,7210.34012645992,0,0,1,1,3,0,0,1,0,finanzas,Problemas de pago constantes,4
+671a132b-95fe-4388-917f-f808c7bd0708,Desiderio Donaire-Aramburu,+34 977 526 871,0,31,11,3,9322,10935,27,7262.10527281462,1,1,1,1,1,0,1,0,0,recursos humanos,exceso de trabajo,3
+95c896f5-fae3-4a48-917d-dd4cf6a89b56,Samuel Morillo Grau,+34 827521842,0,39,2,0,8732,2964,39,0,1,1,0,1,2,0,0,0,3,recursos humanos,demasiadas quejas previas.,4
+7a13cf60-358c-4194-b14c-e7496d4ded7f,Natalio Castell Pomares,+34948557286,0,38,16,11,7894,5704,23,3822.93588333727,0,1,0,1,2,0,0,0,0,finanzas,Bono no incluido,3
+3e180938-ab1e-45da-8ab2-0401585302a4,Guadalupe Gallart-Rueda,+34 985 136 725,0,51,1,1,8611,3856,16,2952.51995512252,1,0,0,1,1,0,0,1,0,finanzas,Problemas de pago,4
+5d529009-4f27-4ad4-b259-277ce0c544f1,Clímaco Guerrero Múgica,+34 849 104 715,0,54,17,4,7864,8085,21,5775.06730611745,1,0,1,1,1,0,0,0,0,recursos humanos,demasiadas quejas previas,4
+cff5d7ce-e0eb-4cd4-9f44-89652d91eab3,Jaime Maldonado Merino,+34 871009310,0,30,7,3,7748,5984,8,3976.84541145846,1,1,1,1,2,0,1,0,1,recursos humanos,exceso de trabajo,4
+adc6956f-8a24-4f5c-acb4-41fb638acc23,Hernando Ramírez Patiño,+34979 95 38 78,0,33,7,1,9008,5918,11,3913.7414721376,1,0,1,1,2,0,0,0,1,recursos humanos,Demasiado trabajo,4
+06336ffc-3d7d-4b1d-99db-3f9c0c6b4db0,Julio Viñas Clavero,+34922 20 72 46,0,25,1,0,9191,7707,21,0,1,1,1,1,2,0,0,0,3,recursos humanos,exceso de quejas previas,5
+e1356858-a22b-43ed-b6da-cc7a7fc30c5c,Casemiro Figuerola Morata,+34849 121 645,0,43,4,0,8334,18183,33,13629.0415481965,1,1,1,0,1,0,0,1,0,finanzas,Problemas de pago,4
+91c217df-4d48-4063-95b2-8be8565d3c5b,Adalberto Larrañaga-Quintanilla,+34 879 44 12 86,0,44,17,16,8161,9125,25,0,0,1,1,0,2,0,0,0,1,finanzas,No recibo bono por desempeño,4
+7d1b9065-e5cd-429a-bf54-24ed82f777c6,Marciano Agustín Lerma,+34 900 519 621,0,41,14,7,7338,7790,10,4648.70232471104,1,1,1,1,3,0,0,0,0,operaciones,tiempo de espera excesivo,4
+68f72b1f-4f90-4d6e-b0b7-c64710314ef7,Roque Cantón Elorza,+34 843 668 976,0,34,1,1,9272,22032,27,13515.8557862498,1,1,1,0,1,0,1,1,0,finanzas,Problemas de pago,4
+6b46dbe1-f1d4-4512-9916-dc7dfa2165d1,Omar Asensio Valcárcel,+34 982630319,0,53,10,7,6893,2730,15,2121.2988639818,1,1,0,0,1,0,1,0,0,operaciones,exceso de tiempo de espera,4
+30d2d762-fe41-4bd8-bddf-52db1591efd6,Rico Villa Rivera,+34925264602,0,49,17,12,6959,10800,27,6039.83737717947,1,1,1,0,2,0,0,1,0,finanzas,Ningún pago recibido este mes.,5
+3a121e63-60dd-4c96-8362-d0e93bddbcb7,Casemiro Arroyo Cifuentes,+34 832 63 43 95,0,28,4,3,7671,26146,34,15146.5121720427,1,1,1,1,3,0,0,0,2,recursos humanos,exceso de carga laboral,4
+2fedaf25-490e-49a9-9b9e-fd42657d37af,Gerardo Bernal Rebollo,+34 973485290,0,43,23,18,7577,28527,37,18714.1940491841,1,1,1,1,2,1,0,0,0,recursos humanos,exceso de trabajo,4
+328540a2-c38c-412f-bc3a-d7d9188ce425,Isaac Gárate Fonseca,+34 852 829 508,0,37,15,6,8026,716,1,476.580415103773,1,1,1,1,2,0,0,0,3,operaciones,exceso de trabajo,4
+de207b85-59d9-4eca-a6dd-d5e913c8e446,Martin Sánchez-Valls,+34885637525,0,46,5,2,9067,19098,18,11887.4134577099,1,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+b69a421b-8281-4805-b628-8b7be91611f7,Matías Llopis Cuesta,+34873317138,0,47,25,7,6562,13344,24,8921.43278644504,1,1,1,0,2,0,0,0,2,recursos humanos,Exceso de tiempo de espera en entregas.,3
+bc98ead3-a83f-4874-b954-a04d5541f0ce,Hernando Baró Clavero,+34849380540,0,35,16,10,8328,2016,32,1429.11131187119,1,1,0,1,2,0,1,0,0,recursos humanos,Salario bajo,3
+68fc7604-c877-4c66-bb87-67f435c3e3c7,Albino Salgado Sebastián,+34947 13 43 59,0,39,3,2,6814,1716,22,1263.6573851032,1,1,0,1,2,0,0,0,0,finanzas,Salario retrasado,4
+b2819b32-8d6d-45bd-8018-55e4a421e615,Elías Ayuso Barreda,+34882131090,0,52,9,9,7358,10224,16,6718.78604878148,0,1,1,1,1,0,1,0,0,recursos humanos,Exceso de espera en los viajes,3
+6616fec8-4068-40bd-bf7a-de57639e1c00,Osvaldo Lopez-Sedano,+34 860 47 20 15,0,44,21,3,8260,19908,21,0,1,1,1,1,2,0,0,0,0,recursos humanos,exceso de trabajo,4
+5fa2aa8e-15ea-4a0a-8a36-b63c5a604407,Anselmo Fernández Linares,+34923 304 949,0,53,9,7,6148,14544,24,10542.8529932446,1,0,1,1,1,0,0,1,0,finanzas,Problemas de pago recurring.,5
+8329b67e-6da7-4092-8ad9-6ab8ea7a574d,Juan Carlos Fonseca Conesa,+34 841617115,0,33,1,1,9072,7245,21,5472.21921947626,1,1,1,1,2,0,0,1,0,finanzas,Salario bajo,4
+852ff2a3-6ebe-4331-ab96-bc4af6757e69,Lucio Diez-Núñez,+34 982 18 90 84,0,35,10,0,9190,3483,9,2594.01052928808,1,1,1,1,3,0,0,0,1,finanzas,Problemas de pago,4
+9c505b3b-1942-421c-b33c-fbd79b19bb82,Jose Angel Barco-Ribas,+34901 48 39 38,0,38,14,11,8908,14118,26,11115.694756901,1,1,1,1,2,0,0,0,0,finanzas,Salario bajo para tanto trabajo,4
+2c8ae561-3d5d-4cf5-bb2d-3a3233e8dc77,Moisés Fábregas Clavero,+34983 626 677,0,48,11,10,9618,18400,32,11192.0057859587,1,0,1,1,1,0,1,0,0,finanzas,Descuento incorrecto en salario,2
+5e69178c-606b-4a3f-8d7f-5b66fb4855d6,Rómulo Pedrero Vázquez,+34800239309,0,51,9,0,10014,8775,15,0,0,0,1,0,2,0,0,0,0,recursos humanos,Demasiadas quejas previas,5
+2c088d53-e303-408e-95ee-063ecb546165,Maximiano León Batlle,+34690 65 23 64,0,37,10,2,8045,18279,27,12058.8401293936,1,1,1,0,3,0,0,0,0,recursos humanos,Demasiados problemas con los pagos,4
+c1104d88-61ca-4bb0-864f-51feb6421979,Isidoro Samper Barceló,+34 945 696 663,0,33,1,1,8370,14848,29,10327.1506614818,1,1,1,1,1,0,0,0,0,operaciones,Demasiado tiempo de espera en las entregas.,3
+216ff970-d833-456f-be37-2678c96b644f,Nilo Pomares Cobo,+34 974 074 220,0,35,1,0,7399,2380,7,0,0,1,1,1,2,0,0,0,0,operaciones,Largos tiempos de espera,3
+6e0b9200-b2db-4a5c-8bd1-b13c812eb3e7,Poncio Carrión Meléndez,+34876 248 478,0,50,16,7,8130,2439,9,1678.48808264989,1,1,1,1,2,0,0,0,0,finanzas,Bono por desempeño inexistente,4
+a5667646-f6e3-41c8-998f-30756c9c9faa,Gilberto Aguilera Múñiz,+34985 42 87 64,0,33,5,1,8938,940,5,746.424677190012,1,0,0,1,2,0,0,0,0,operaciones,Demasiados viajes cancelados,4
+57252786-8651-4e62-8f56-2523b8b4cad0,Enrique Checa Fuentes,+34 827 909 350,0,30,8,1,6681,4888,13,3124.76763405421,1,1,1,1,2,0,0,1,1,finanzas,Problemas de pago constantes,4
+9dd39f98-d5f1-4abe-8b65-18affa3d86c4,Isaac Nadal Roselló,+34813 315 699,0,30,3,2,9891,4692,17,2760.14465778735,0,1,1,1,1,0,0,0,0,operaciones,exceso de trabajo,4
+d2af4435-30ca-4100-9749-45be10d5b442,Emigdio Espinosa Palomino,+34871 99 56 97,0,48,11,2,7990,3498,11,2770.38544894531,0,1,1,1,1,0,0,0,0,finanzas,Salario bajo,3
+03781642-6b46-4bf7-9a04-e63141ad9dca,Alex Aguirre Llabrés,+34 823990280,0,28,5,1,8496,16558,34,14144.4257585105,1,1,1,1,2,0,0,0,0,operaciones,Exceso de trabajo sin compensación,4
+046ac1f7-f388-43d1-8222-e560c6679113,Conrado Aparicio Pascual,+34708 497 683,0,41,3,2,8465,2754,27,1673.45872492561,1,1,0,1,2,1,0,0,1,recursos humanos,exceso de trabajo,4
+ce54d332-a693-44e5-8a0d-f9d204932495,Custodio Fernández,+34 977 974 543,0,40,5,2,8862,2175,3,1788.52769650825,1,1,1,1,2,0,0,0,0,operaciones,exceso de trabajo,3
+b19ccde8-65fc-4a2b-87cc-a59fe49da5f6,Galo Exposito Nadal,+34 921 20 12 77,0,30,0,0,7552,24574,22,15207.9030159162,1,0,1,1,1,0,0,0,0,finanzas,Bajos salarios y sin bono,4
+29e6c281-2369-4a58-b0eb-a0fc3d170069,Lucio Guitart Sarmiento,+34718202899,0,43,13,7,8115,6552,26,4153.51139833672,0,0,1,1,2,0,0,1,1,recursos humanos,Cuestionable pago de bonos,4
+44c4481a-4c46-4f1c-873a-98ed7701c93e,Marcial Santamaria Uriarte,+34 884232294,0,40,10,10,10282,11109,23,4888.34824165349,0,1,1,1,1,0,0,0,1,operaciones,Exceso de trabajos no remunerados.,3
+329a1e48-b6b5-475b-92fa-836eb163f154,Gerónimo Macías Pombo,+34 988 22 91 31,0,41,19,6,8126,5984,22,4282.45060242946,1,1,1,1,0,0,1,0,1,operaciones,exceso de trabajo,4
+fbeb7995-c495-4ac5-9838-59043c931b34,Andrés Manu Company Suarez,+34 984 69 64 20,0,36,15,7,7543,13380,20,10680.6178752246,1,1,1,1,2,0,1,0,2,operaciones,exceso de tiempo de espera,4
+5de48f9f-dc31-4678-a16a-e528d42e93a3,Edmundo del Macias,+34872 08 11 87,0,27,1,1,6418,1980,3,1212.40047143772,0,0,1,1,2,0,0,0,0,finanzas,Sin bono por desempeño,3
+b82ad58f-e8fc-42ad-8d7c-e4f4d123d1ed,Marciano Otero Barreda,+34 887 81 19 03,0,23,3,0,9033,11184,24,9084.18185964749,0,1,1,1,2,0,0,0,0,operaciones,Exceso de tiempo de espera.,3
+bc5d1791-8b9a-466f-8d48-32193287d00e,Tomás Santos Méndez Mate,+34888 73 61 45,0,43,2,2,7805,7450,10,5331.54388089871,1,1,1,0,2,0,0,0,1,recursos humanos,Faltan pagos en mi salario,3
+708eeab7-284a-44ea-876f-e9ab129f2d99,Vicente de Carmona,+34926 741 887,0,46,1,1,8205,21522,34,14139.1599093931,1,1,1,1,2,1,0,0,0,finanzas,Problemas de pago,3
+a0b5db7f-bc96-42d2-8170-b3fcaea619cf,Alfredo del Herrero,+34 667 49 78 38,0,50,4,4,7534,24128,26,15560.6912703913,0,1,1,0,3,0,1,0,2,operaciones,Tiempos de espera excesivos,4
+1d6ab484-144c-49b8-8d64-9b740709ff49,Ulises Córdoba,+34 980 20 57 79,0,45,8,6,8523,26676,36,14499.2434536319,1,1,1,1,2,0,0,1,0,finanzas,Problemas de pago,4
+2a96dd80-3f63-40f4-9e24-688254950efd,Adolfo Ángel-Riera,+34900 650 734,0,53,22,13,7933,6512,16,5610.36285219756,0,1,1,0,2,0,0,0,1,finanzas,Bono por desempeño cero,3
+8b5b4f76-70b3-46ca-b065-6a12b2c0ae2a,Eloy Segovia Santamaría,+34 881 514 271,0,44,18,14,7744,7070,10,0,1,1,1,1,3,0,0,1,0,finanzas,Problemas con mi salario mensual.,5
+3399b7a8-993c-4386-929f-b015eebd5c23,Lope del Carrasco,+34971 952 251,0,41,5,1,8120,4392,9,3114.27937059963,1,1,1,1,1,0,0,1,0,finanzas,Salario no recibido a tiempo,4
+32671c30-274c-4364-9cd0-941733dc180c,Victor Sanz Ropero,+34 976 94 24 32,0,33,3,0,10621,2772,18,1630.62248351671,1,1,0,1,1,1,0,0,3,operaciones,exceso de trabajo,4
+ce13b093-de7d-4410-b47d-66df93360540,Narciso Palomo Company,+34 885712187,0,34,14,7,10639,12208,16,10051.6644633243,1,1,1,1,0,0,1,0,2,recursos humanos,exceso de trabajo,4
+65995b5e-88e9-49a5-8bfc-9d228421840a,Juan Carlos Almeida Nogués,+34 820 26 66 26,0,32,10,4,7317,1904,16,1154.91623784261,1,0,0,1,0,0,1,0,0,finanzas,No hay problemas de pago,1
+f5023547-8e34-4c87-9b46-6cb1c287d26e,Leocadio Donaire-Figueroa,+34 977 58 89 52,0,45,1,1,7855,0,0,0,1,1,1,1,1,0,1,1,0,operaciones,Exceso de tiempo de espera.,4
+2aa31289-a7c3-4d75-a8b3-a4f5269a5069,Donato Herrero Sanz,+34922 025 389,0,37,11,8,8175,7824,12,0,1,1,1,1,1,1,0,1,0,finanzas,Problemas de pago,5
+46f73e95-da93-4b75-8149-52394d1a9c40,Abilio de Guillén,+34 981641682,0,27,2,2,7315,3184,16,2595.30091648294,0,1,0,0,2,0,0,0,0,finanzas,Salario bajo,2
+f078d67e-3919-4372-ac68-35d620c3e7ba,Ángel Arregui Arcos,+34842 04 67 16,0,38,5,2,7484,1875,25,1554.32509606674,1,0,0,1,1,0,0,0,0,finanzas,Salario muy bajo para mi carga de trabajo.,4
+7d1630c4-9aa5-4bb6-94e3-b7434fdb2238,Pedro Fonseca Iñiguez,+34972 42 95 45,0,43,3,0,8753,9670,10,5556.56323770755,0,1,1,1,1,0,0,1,0,finanzas,Problemas de pago frecuentes.,4
+51cb764c-5bd7-4a6c-bea7-21f5d878d034,Jose Antonio Castejón,+34883169260,0,25,5,1,7039,7004,34,0,0,1,0,0,2,0,0,1,0,finanzas,Problemas de pago,3
+0f0b9e52-3b83-4a94-8df6-5dbb4be9a8d3,Jeremías Che Armengol Bárcena,+34879148439,0,49,8,6,8029,2020,20,1624.6011115387,1,1,0,1,2,0,1,0,1,recursos humanos,exceso de trabajo,4
+80832ac2-a437-4639-888d-1c9f442710e1,Josué Roma,+34 982 605 078,0,48,4,0,6981,8932,14,7887.33560378473,1,1,1,1,1,1,0,0,0,operaciones,exceso de trabajo,4
+d9fb53c7-fce6-4a03-a3f3-287376829f30,Ruy Alcántara-Quirós,+34978 143 044,0,59,1,0,6886,9095,17,5590.37423921912,1,1,1,1,2,0,0,0,0,recursos humanos,demasiadas horas de trabajo,3
+f3b689f8-c944-4321-b32c-211cfcd5f509,Raimundo Coloma Mendizábal,+34 885896968,0,56,24,1,6852,18262,46,0,1,1,1,0,1,0,0,1,0,recursos humanos,Problemas de pago frecuentes,4
+c24daba1-9557-4f45-a432-e7bc7b897c8e,Pablo Ortiz Ortiz,+34943 31 96 51,0,48,5,2,7891,7605,39,3924.00710844842,0,1,0,1,2,0,0,0,2,operaciones,exceso de viajes cancelados,4
+a228c166-911f-42e2-b518-3dc0490319b7,Juan Luis del Luna,+34 878448751,0,31,11,5,8793,6825,39,0,1,1,0,1,2,1,0,0,0,recursos humanos,exceso de quejas acumuladas,4
+9d392d1c-b4b6-4e96-8ecc-8510f524b3ca,Julio César Velasco,+34883 881 669,0,58,6,0,8323,16915,17,9515.08008990794,1,1,1,1,1,0,0,0,2,recursos humanos,exceso de trabajo,4
+0eb69a47-64e6-425e-8be4-688a97120dab,Ibán Rios Rincón,+34927 019 999,0,46,7,4,8349,4186,14,2715.69775116899,1,1,1,0,3,1,1,0,0,recursos humanos,exceso de trabajo,4
+456b91b7-1a78-4e46-80ff-5e69d9f52da9,Adalberto Jaime Botella Lumbreras,+34925 325 703,0,27,6,3,8939,5970,15,3833.54465358452,0,0,1,1,2,0,0,0,0,finanzas,Bono por desempeño no recibido,4
+d55398c7-06ae-4133-b2ff-f03cd33f4d15,Jose Miguel Arroyo-Coca,+34887091246,0,33,10,1,7618,8866,26,5478.65873553554,1,1,1,1,2,0,0,0,2,recursos humanos,exceso de trabajo,4
+56d6ed25-e1b0-4a75-9352-e5ce13560a2f,Benito Perera Arroyo,+34 946 87 95 81,0,51,9,6,8363,5544,9,4753.42095639945,1,0,1,1,1,1,0,0,0,recursos humanos,Exceso de trabajo,4
+e4db2263-b0db-4077-b995-85020b55148a,Plácido Luis Viana Giménez,+34732503976,0,53,24,16,8173,20580,28,14822.4593289577,1,1,1,1,2,0,1,0,3,operaciones,Mucho trabajo acumulado,4
+4a47593b-9ba6-4f33-967d-4cf419b8b7c3,José Antonio Villaverde Arellano,+34 902446347,0,41,4,2,7968,27812,34,17822.7267790706,1,1,1,1,1,0,1,0,0,recursos humanos,Exceso de tiempo de espera.,4
+dd79dba6-ded4-4bcb-ba97-1add53dccea7,Narciso del Mínguez,+34 886549041,0,23,0,0,7018,15675,19,8674.57315811423,1,1,1,1,1,1,0,0,2,operaciones,viajes cancelados,3
+628c0a20-cade-49db-9d3c-53af9268f897,Yago Vall Aroca,+34828 805 723,0,51,18,3,10121,6912,27,5491.0853265425,1,1,1,0,0,1,1,0,0,operaciones,demasiados tiempos de espera en entregas,4
+7af2e87e-4c41-4382-b108-6c835c21e3c8,Nacio Lamas Luz,+34 876 66 33 22,0,30,5,2,8732,20520,36,15100.6664106938,1,1,1,1,1,1,0,0,0,recursos humanos,viajes cancelados excesivos,3
+92db665a-45ca-4c9c-b87c-822fb9903795,Jaime Requena Contreras,+34 900 40 43 96,0,22,2,1,11108,11454,23,0,1,1,1,1,1,0,0,0,0,finanzas,No recibo mi bono,5
+3e569d72-7c5b-4e7a-a36b-7b4b96d595ff,Juan Carlos Zapata Amo,+34 967 25 68 61,0,45,13,10,8358,12166,11,8855.13262894698,0,1,1,1,1,0,0,1,0,finanzas,Problemas de pago,4
+e4ad3d56-35d5-4f63-ae84-33d63a3c5e2c,Amado Carretero Tejedor,+34876 24 78 61,0,44,22,4,8296,11484,22,6792.23446502162,1,1,1,0,0,0,1,0,0,operaciones,Exceso de tiempo de espera.,4
+d3f90169-bf33-4fb2-af1b-6a478df7160a,Manolo de Heredia,+34 932 17 59 46,0,70,5,2,7583,11450,25,8987.27072393563,1,1,1,1,2,0,0,0,1,recursos humanos,edad no considerada en funciones,4
+e2285e8f-1aad-47f3-8ccd-2ceab1b76079,Régulo Matas Robledo,+34988432435,0,46,22,13,7577,12369,19,8926.23429181682,1,1,1,1,2,0,1,0,1,operaciones,exceso de tiempo de espera,4
+472cb945-1c39-461f-9ccd-05ea02b0b2b8,Moreno Gil Solís,+34827 096 486,0,50,19,1,8606,858,2,549.400216219408,0,1,1,1,1,0,1,0,3,operaciones,Exceso de tiempo de espera.,4
+08e1fdaa-b7d4-46b0-843a-2f7deabc50cc,Rogelio Sanz Morera,+34744970500,0,40,15,15,8521,6867,21,5184.83259375334,1,1,1,1,2,1,0,0,0,operaciones,viajes cancelados,3
+18d1f989-4c7d-466a-a78b-4d5b62ca5857,Xavier Soriano Moraleda,+34921 729 661,0,28,6,0,7697,2760,30,1812.25621367753,1,1,0,1,1,0,0,0,0,recursos humanos,exceso de trabajo,3
+9299072a-5578-4717-aa66-6d88994f85e6,Guillermo Marín Espinosa,+34 900 322 582,0,37,16,3,8859,14469,21,7982.68438434373,1,1,1,1,1,0,0,1,0,finanzas,Necesito aclarar problema de pago.,4
+f8cf67af-e787-4d1a-91ae-a83e390c27cf,Reynaldo Pastor Millán,+34800221769,0,54,6,6,6546,8417,19,0,1,1,1,1,0,0,0,1,3,recursos humanos,No he recibido mi bono,5
+349f033d-5e1a-427d-a798-9397b050d4b0,José María Quintana Martín,+34945 993 453,0,39,0,0,7730,2261,19,1512.17394214509,1,1,0,1,2,0,0,0,0,recursos humanos,Falta de crecimiento profesional,3
+23caed39-8b5a-406d-9db9-a250fa1c12b9,Anacleto Ávila-Esparza,+34861 28 09 90,0,50,8,6,9128,12121,17,9055.84203944701,1,1,1,1,2,0,0,0,0,operaciones,Muchos viajes y poca recompensa.,5
+70412082-2ab3-4f9f-a8d6-6e75c6308ce5,Quirino Pagès Zorrilla,+34985 57 73 91,0,23,4,2,7749,15012,27,11315.4950738725,0,1,1,1,2,0,0,0,1,operaciones,tiempo de espera excesivo,3
+524b80af-09e8-4572-a857-f259d38cb196,Faustino Somoza Pareja,+34923 471 857,0,36,1,1,8374,3640,14,2638.10894775243,1,1,1,1,2,0,1,1,3,finanzas,Problemas constantes con mi salario.,5
+dd048915-25e3-4ee4-9fc0-d89ee13dfe6d,Néstor Beltran Colom,+34924 26 44 30,0,32,13,0,8698,7809,19,0,1,0,1,0,2,0,1,0,0,recursos humanos,exceso de trabajo,4
+1c132ad5-9b5f-4469-a3de-28111b46c200,Nazaret Segovia Caparrós,+34 947131803,0,28,9,9,7932,11115,15,8271.36465669419,1,1,1,1,3,0,1,0,3,recursos humanos,exceso de trabajo,5
+c913266a-2d2e-4157-a22e-9836db464f8f,Telmo del Espinosa,+34 807907716,0,36,17,17,7173,7525,7,5120.99606774713,1,1,1,1,2,0,0,0,1,operaciones,Exceso de tiempo de espera,3
+fbed22a4-4f80-4aca-84fb-87f9ea2ed351,Lupe Moles Carrillo,+34848 699 448,0,23,3,1,8010,11907,21,0,1,0,1,1,2,1,0,1,0,finanzas,Problemas de pago,5
+bc987c40-567a-44d6-bbcb-6c562f5c2efa,Jenaro Daza Tormo,+34942 192 553,0,40,11,11,7940,28704,24,25490.8629685554,1,1,1,1,2,0,0,0,1,finanzas,Bajo bono por desempeño,3
+99e5554b-806a-463f-8de9-c486f300b24c,Jose Tenorio Vizcaíno,+34 975166311,0,53,19,7,9970,1905,15,0,1,1,0,1,2,1,1,0,3,operaciones,Largos tiempos de espera,4
+09c931a6-b850-4dd2-a6dd-7509ba631c02,Isidro Rivas Carnero,+34 928 775 251,0,48,18,6,7645,7092,18,6052.46043480723,1,1,1,1,0,1,0,0,0,recursos humanos,Demasiados viajes cancelados,4
+37c579e9-bf86-4669-9b9b-79b5ed181293,Julio Otero Díez,+34 876 43 13 14,0,46,14,5,7854,8772,17,5307.42948431786,1,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+5776e990-4101-4c52-9345-4da26ca8b385,Trinidad René Escrivá Casanovas,+34 879 53 76 64,0,24,2,1,6919,12420,46,8157.61987536612,1,1,1,1,0,0,0,1,0,finanzas,Problemas de pago,3
+465c36dc-7706-4607-b2ff-8162e486cfa4,Jacinto Varela,+34 883 433 876,0,37,13,5,7065,1750,14,0,0,1,0,1,0,1,0,0,0,operaciones,viajes cancelados,3
+b82d5468-3169-4728-8dfd-af5b2bede4c4,Ruben Casanova Enríquez,+34 902 21 51 46,0,40,8,6,8172,23951,43,15385.9302448146,0,1,1,1,2,0,0,0,0,operaciones,Exceso de tiempo de espera,4
+8c764bde-fd6c-44ae-9fbd-8ffbcdb3584d,Gerónimo Coll Torre,+34 923 14 53 70,0,35,8,0,8714,23000,40,21108.1814837389,1,1,1,1,2,0,1,0,3,operaciones,exceso de tiempo de espera,4
+6b5fef6a-c0c5-4058-8903-aec4ed2d5daa,José María Chema Rosales Lucena,+34879 983 021,0,27,6,2,8620,3522,6,2763.62746917794,1,1,1,1,1,0,0,1,3,finanzas,No recibo el bono por desempeño.,5
+81029d98-e00a-42a5-90d3-61c24f381c1d,Adalberto del Crespi,+34 975 10 68 61,0,50,13,13,9523,15328,32,10572.1321146436,0,1,1,1,1,0,0,0,1,recursos humanos,exceso de trabajo,4
+be75fb5a-e57a-46e9-a666-c96302146728,Hipólito Barrio-Ferrando,+34 921 75 47 50,0,55,23,14,7106,1652,4,0,1,1,1,0,1,0,0,0,1,finanzas,Sin bonificación por desempeño,3
+e0fc317c-e412-4eb7-bd43-04827476f332,Rómulo Carpio Reyes,+34886942434,0,29,5,3,8466,21564,36,16722.500846451,1,0,1,1,1,0,0,0,3,finanzas,Pago de bono por desempeño tardío,4
+21427c94-4d03-4751-a522-8550d6297c15,Godofredo Yáñez Pina,+34875 685 058,0,34,6,6,7093,988,19,860.218101683181,1,0,0,1,0,0,0,0,1,recursos humanos,Problemas con bono de desempeño.,3
+25cfa359-012b-49f9-95b9-d02bfa70e462,José Manuel Guardiola-Maza,+34 976 597 453,0,31,12,3,7036,4448,8,2970.41305018676,0,1,1,0,1,0,0,0,1,operaciones,exceso de viajes cancelados,3
+9f2a6a23-95ea-4002-b32f-f54b1272e664,Baudelio Herrera,+34 822336376,0,40,14,4,7641,2780,4,1917.46579341695,1,1,1,1,2,0,0,0,2,finanzas,Salario bajo vs esfuerzo realizado,3
+bc0f1791-4cac-49a5-99a1-6a04b2a4b1ac,Antonio Márquez Gracia,+34902 22 91 18,0,47,25,21,7050,11938,47,8230.2700114622,0,1,1,0,0,0,0,1,0,finanzas,Problemas de pago,4
+7c90c83c-46ee-4496-8eaa-0fba25509fb7,Vicente Ibán España Aragón,+34 727340803,0,41,17,0,8646,348,6,253.071670433369,1,1,0,1,1,0,0,0,1,operaciones,tiempo de espera excesivo,4
+7e60bbcd-0507-43bf-8e4a-77518392c9cf,Teo Bermudez Abril,+34902840198,0,45,14,4,8273,3396,12,2240.72802729935,0,1,1,1,3,1,0,0,0,recursos humanos,exceso de tiempo de espera,4
+ee0ec652-4dac-40f8-a646-cf31aee50e80,Damián Hervás Vázquez,+34901 468 710,0,40,13,7,7679,4503,19,3263.74213034534,1,0,0,1,2,1,0,0,0,operaciones,exceso de trabajo,4
+532f53fe-a8e2-4552-bb21-bdb3dad701fb,Casemiro Herranz Barranco,+34824 99 17 65,0,37,1,1,8549,14280,24,0,1,1,1,1,3,0,0,0,1,operaciones,tiempo de espera excesivo,3
+586f4641-1171-45b9-993f-38e98b1e676a,Juan Antonio Múñiz Varela,+34 827 847 220,0,21,2,0,6872,3660,15,2478.54042900293,1,1,0,1,2,0,0,0,1,operaciones,viajes cancelados,3
+4bfc262a-4b44-4a9d-ae29-35681d6b2ce4,Pío de Marco,+34 871 939 712,0,57,2,1,7422,23650,25,17182.8394645973,1,0,1,0,1,1,1,0,0,operaciones,exceso de tiempo de espera,4
+38e896b9-f775-4087-9af8-00131ed51529,Joan Pazos Sarabia,+34 977 297 431,0,29,3,2,8147,7238,22,5962.01191375914,1,1,1,1,2,0,0,0,3,finanzas,Problemas de pago,4
+1cea7961-0f13-4d37-840e-a4f71931ac79,Leocadio Carvajal Arnal,+34 971572011,0,30,2,2,7818,14927,23,0,1,1,1,1,0,0,0,0,0,operaciones,Exceso de trabajo,4
+bb29ea2d-be7a-40d7-8f06-357601e1df69,Jacinto Zamorano Buendía,+34 971970523,0,37,18,2,7697,3975,15,2271.47706417333,1,1,1,1,2,0,0,1,3,finanzas,Salario no pagado,4
+0ebf8529-09f1-4cfe-8cdb-89448feca923,César de Gargallo,+34 882427895,0,47,22,18,7697,11340,14,10039.1776341222,0,1,1,0,1,0,0,0,1,operaciones,Exceso de trabajo y largas distancias,5
+5921e064-001a-45c0-9b99-64a0281a435e,Gabriel de Madrigal,+34822497803,0,29,9,5,8246,17226,29,9426.36658616362,1,1,1,1,1,0,0,0,2,finanzas,Bajos salarios y falta de bonos,4
+2560f966-c5cf-4b14-ab9d-6e31ff8fe672,Enrique Morcillo Haro,+34 681 67 53 92,0,50,2,1,9469,18732,28,0,1,1,1,1,2,0,1,0,0,recursos humanos,exceso de trabajo,3
+330b8134-853e-40a0-956d-daef3fca3a24,Emilio Pellicer Moreno,+34 841585345,0,50,15,14,8332,5327,7,0,1,0,1,0,1,0,1,0,2,recursos humanos,exceso de trabajo,3
+a42d44ef-1f82-4809-a81b-a861302a7003,Ruperto Cardona,+34 880093462,0,56,20,3,7006,10044,18,8053.24942177179,1,1,1,1,3,0,0,0,0,recursos humanos,exceso de trabajo,4
+5842c8bf-db16-43c1-bf3d-9cd39d513ab5,Cirino de Serna,+34 941041672,0,41,18,0,9300,18383,31,13125.7865117221,1,1,1,1,2,0,0,0,3,recursos humanos,Demasiadas quejas previas,4
+c42d50da-1a7f-41bd-b3b5-11b25eb3b511,Gaspar Cabello Correa,+34877424571,0,23,3,2,7537,4854,6,0,1,1,1,0,2,0,1,0,0,operaciones,Largos tiempos de espera,4
+803d5ae9-14d7-495d-b113-bf113a938152,Juan Francisco Vidal Mateos Pagès,+34984 43 71 82,0,45,0,0,7786,24500,28,17963.9315124304,1,0,1,1,1,0,0,0,0,recursos humanos,Exceso de tiempo de espera,1
+0ae76beb-8f86-4dad-a974-723acbd06687,Guiomar del Iñiguez,+34820 04 34 49,0,45,14,11,9749,5020,20,4050.62056215975,1,1,1,0,1,0,0,0,2,recursos humanos,exceso de trabajo,3
+f8cab931-6e2b-48c8-a075-97fe645e52b0,Javier Rogelio Uribe Vigil,+34948 631 622,0,41,8,4,7917,1525,5,1167.45919434141,1,1,1,1,1,0,0,1,1,finanzas,Inicio de problemas con pagos,4
+17800e8f-56a3-49a5-9f8c-94dedb597226,Aitor Rincón Palma,+34 924 238 715,0,31,7,4,7952,4975,5,4185.84089701766,0,1,1,1,0,0,0,0,0,recursos humanos,Exceso de espera en entregas,4
+a06ca032-3f4b-4c50-8a79-537dd1abab58,Jose Antonio Roca,+34 927 47 39 52,0,34,11,6,9467,5880,28,3778.83049065792,1,1,0,1,2,0,0,0,1,finanzas,Problemas de pago,4
+231d9abe-66ef-4792-8819-d1012f04d62a,Román Montero Carballo,+34 948464624,0,46,4,3,7654,2934,6,0,1,1,1,1,2,0,0,1,0,finanzas,Salario bajo y sin bono,4
+086fecf4-cf14-47f3-9fe8-76afe8d7ac5a,Severo Neira Araujo,+34984168681,0,44,8,5,8672,10260,15,6369.77341583251,1,1,1,1,1,0,1,0,0,operaciones,exceso de trabajo,3
+43a7fa01-7ee7-47ee-bc87-a1c78bc3c6f4,Eloy Heras Salinas,+34974 70 55 55,0,47,2,1,7224,15939,23,0,1,1,1,0,2,0,0,0,0,operaciones,Exceso de trabajo,4
+a27bb8cc-faa5-420e-8031-9a001e5c1c3c,Jose Francisco Cueto Martinez,+34 821 28 90 85,0,32,8,0,9817,9915,15,0,1,0,1,1,1,1,0,1,0,finanzas,Problemas de pago,4
+72f02c82-5d96-4561-ae0c-2dffe005d8ec,Teodosio Benitez-Perelló,+34 847825650,0,38,0,0,8703,1438,2,1248.4147548556,0,1,1,1,1,0,1,1,0,finanzas,Salario bajo para distancias largas,5
+4c28a166-4652-4671-b7e0-496348a7b348,Ovidio Cantón Uría,+34 850610465,0,51,11,8,6431,4958,37,3429.04115568585,1,1,0,1,3,1,0,0,1,finanzas,No se ha recibido el bono,4
+ba144f1c-0141-4845-b5d7-23551987e81a,Máximo del Barrera,+34873 269 354,0,47,3,3,8382,21728,32,15548.4723369498,1,0,1,1,2,0,0,1,0,finanzas,No recibí mi bono a tiempo.,4
+b53be5c5-e7b3-4906-ad84-e5c762d888e3,Ariel Lledó Bartolomé,+34833 635 767,1,50,8,0,10369,23394,21,12533.5549652981,0,1,1,1,1,0,0,0,0,recursos humanos,Cobro de bonos tarda demasiado,4
+cb2b997a-a325-4ce8-8eee-df5f8b5d488a,Renato Bauzà Romero,+34927764768,0,35,10,0,8249,18693,31,11182.9320584156,0,1,1,1,0,0,0,0,1,recursos humanos,exceso de trabajo,4
+ae6f2d7d-aa0f-4082-943a-d9af659924ec,Nacio Ortiz Maestre,+34977 182 183,0,25,4,1,8211,12888,18,8664.62977088679,0,0,1,1,2,1,0,1,0,recursos humanos,exceso de trabajo,3
+7f83a4db-b22b-40bd-95e3-114f0b934b4d,Francisco Javier Marti Mate,+34 986 57 25 36,0,47,4,3,8519,10176,32,5868.01155030601,1,1,1,1,2,0,0,1,0,finanzas,Problemas con el pago del bono,4
+6aa06071-9821-46f9-974a-fdc976f13ba3,Santos Gelabert Posada,+34 886242125,0,29,5,5,8932,3483,27,1902.02815886137,0,0,0,1,1,0,0,0,0,recursos humanos,Exceso de trabajo,3
