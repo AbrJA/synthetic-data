@@ -4,3 +4,6 @@ openai
 chatlas
 pydantic
 faker
+xgboost
+scikit-learn
+imblearn
